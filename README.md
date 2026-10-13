@@ -26,8 +26,8 @@ The full write-up is in [`report/report.md`](report/report.md) ([PDF](report/rep
 
 ## Try it: the notebook and toy data
 
-The folder [`submission/`](submission/) has a small toy dataset (150 enhancers and 11 before/after pairs, real values
-cut from the full data) and a notebook, [`submission/demo.ipynb`](submission/demo.ipynb), that runs all four
+The folder [`demo/`](demo/) has a small toy dataset (150 enhancers and 11 before/after pairs, real values
+cut from the full data) and a notebook, [`demo/demo.ipynb`](demo/demo.ipynb), that runs all four
 analyses on it. The notebook is saved with its outputs, so you can read the results on GitHub without running
 anything. To run it yourself (about 12 minutes on 4 CPUs, plus a few minutes for the first install):
 
@@ -41,12 +41,12 @@ pixi install
 # 3. Open the notebook ...
 pixi run notebook
 
-# ... or run the same steps as a script; tables go to submission/output/
+# ... or run the same steps as a script; tables go to demo/output/
 pixi run demo
 ```
 
 The toy numbers will not match the report because the data are much smaller; see
-[`submission/toy_data/README.md`](submission/toy_data/README.md). `pixi run test` runs the unit tests.
+[`demo/toy_data/README.md`](demo/toy_data/README.md). `pixi run test` runs the unit tests.
 
 ## Repository layout
 
@@ -59,7 +59,7 @@ src/perd_perturbation/   library code, with unit tests in tests/
   vendor/perd_repro/       code copied from my PERD reproduction (model settings, openness rule, cell types)
 scripts/                 the analysis, one numbered script per step (order below)
 scripts/R/               report_figures.R (all report figures), limma_diff.R
-submission/              toy data, demo.ipynb (the notebook), run_demo.py, make_toy_data.py
+demo/                    toy data, demo.ipynb (the notebook), run_demo.py, make_toy_data.py
 data/                    manifests of every downloaded file (md5, URL); the data themselves are not committed
 results/tables/          the result tables behind the report
 report/                  report.md / report.pdf, figures, slides

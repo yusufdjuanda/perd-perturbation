@@ -1,4 +1,4 @@
-"""Cut a small toy dataset out of the full processed data, for submission/run_demo.py.
+"""Cut a small toy dataset out of the full processed data, for demo/run_demo.py.
 
 The toy set keeps the real structure but is small enough for git (a few MB):
   - 150 enhancers drawn at random (seed 42) from PERD's candidate set F1, with their ENCODE openness in all 167 cells;
@@ -27,7 +27,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PROC = ROOT / "data" / "processed"  # set by --data-root
 RAW = ROOT / "data" / "raw"
 TABLES = ROOT / "results" / "tables"
-OUT = ROOT / "submission" / "toy_data"
+OUT = ROOT / "demo" / "toy_data"
 N_ENHANCERS, SEED, MIN_KB = 150, 42, 0.2
 A549_TIMES = (2.0, 6.0, 12.0)
 

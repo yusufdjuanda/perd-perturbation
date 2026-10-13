@@ -1,6 +1,6 @@
 # Toy data
 
-A small slice of the real data, made by `submission/make_toy_data.py` (seed 42) and used by `submission/demo.ipynb` and `submission/run_demo.py`. The values
+A small slice of the real data, made by `demo/make_toy_data.py` (seed 42) and used by `demo/demo.ipynb` and `demo/run_demo.py`. The values
 are real, not simulated; only the size is reduced.
 
 | File | Contents |

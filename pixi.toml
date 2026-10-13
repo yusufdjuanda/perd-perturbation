@@ -7,10 +7,10 @@ version = "0.1.0"
 
 [tasks]
 test = "pytest -q"
-lint = "ruff check src scripts tests submission"
-demo = "python submission/run_demo.py"
-make-toy-data = "python submission/make_toy_data.py"
-notebook = "jupyter lab submission/demo.ipynb"
+lint = "ruff check src scripts tests demo"
+demo = "python demo/run_demo.py"
+make-toy-data = "python demo/make_toy_data.py"
+notebook = "jupyter lab demo/demo.ipynb"
 
 [activation.env]
 PYTHONPATH = "$PIXI_PROJECT_ROOT/src"

@@ -1,7 +1,7 @@
 """End-to-end demo on the toy data: the four questions of the report, at small scale.
 
 It runs the same library code as the full analysis (PERD-RF per enhancer, TF activity by ULM, motif inputs, the
-pair model) on 150 enhancers and three perturbation series, and writes small tables to submission/output/.
+pair model) on 150 enhancers and three perturbation series, and writes small tables to demo/output/.
 
   Q1  How well does PERD-RF predict openness in tissues it never saw? (5-fold, grouped by tissue type)
   Q2  Does it predict the openness change a perturbation causes? (NSPE before, after, change)
@@ -33,7 +33,7 @@ from perd_perturbation import pair_model, tf_activity
 from perd_perturbation.perd_rf import run_perd_model
 
 ROOT = Path(__file__).resolve().parents[1]
-TOY = ROOT / "submission" / "toy_data"
+TOY = ROOT / "demo" / "toy_data"
 MIN_MEAN, Z_MIN, TOP_N, MIN_KB, SEED = 1.0, 2.0, 20, 0.2, 42
 ARCH = "act:arch:"
 # The full pair model uses min_samples_leaf = 100 on 800,000 rows; the toy table has about 1,600 rows.
@@ -238,8 +238,8 @@ def main() -> None:
     global TOY
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     parser.add_argument("--n-jobs", type=int, default=int(os.environ.get("SLURM_CPUS_PER_TASK", os.cpu_count() or 1)))
-    parser.add_argument("--out", type=Path, default=ROOT / "submission" / "output")
-    parser.add_argument("--toy-dir", type=Path, default=TOY, help="folder with the toy data (default submission/toy_data)")
+    parser.add_argument("--out", type=Path, default=ROOT / "demo" / "output")
+    parser.add_argument("--toy-dir", type=Path, default=TOY, help="folder with the toy data (default demo/toy_data)")
     args = parser.parse_args()
     TOY = args.toy_dir
     args.out.mkdir(parents=True, exist_ok=True)

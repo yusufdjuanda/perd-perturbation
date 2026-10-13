@@ -28,4 +28,4 @@ fonts/
 # Submission branch: the report PDFs and the curated result tables are committed; demo output is not
 !report/*.pdf
 !results/tables/*
-submission/output/
+demo/output/

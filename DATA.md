@@ -1,7 +1,7 @@
 # Data
 
 Everything here is public. The full raw data are about 100 GB, so they are not in the repository; this page says
-where each piece comes from and where the scripts expect it. The small toy dataset in `submission/toy_data/` is enough to
+where each piece comes from and where the scripts expect it. The small toy dataset in `demo/toy_data/` is enough to
 run the whole method (see the README).
 
 All coordinates are GRCh38 (hg38). Every downloaded file is checked against the md5 or sha256 recorded in the
@@ -73,7 +73,7 @@ done
 
 ## 4. Toy data
 
-`submission/toy_data/` holds a few MB cut from the real processed data by `submission/make_toy_data.py`: 150 random enhancers
+`demo/toy_data/` holds a few MB cut from the real processed data by `demo/make_toy_data.py`: 150 random enhancers
 from PERD's candidate set with their openness in all 167 ENCODE samples, the RNA of the genes they and the TF network
 need, three perturbation series (A549 dexamethasone at 2, 6 and 12 h; T-cell activation; three HCT116 degrons), the
-full CollecTRI network, and the motif tables for those enhancers. See `submission/toy_data/README.md`.
+full CollecTRI network, and the motif tables for those enhancers. See `demo/toy_data/README.md`.

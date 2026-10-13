@@ -121,7 +121,7 @@ RNA predicts where enhancers are open, but predicting how drugs change them need
 
 # 6. Code and data
 
-All code is in this repository (branch `submission`). The folder `submission/` holds a small toy dataset and a notebook (`submission/demo.ipynb`) that runs the four analyses end to end in about twelve minutes; its outputs are saved, so it can be read without running it. The scripts in `scripts/` produce the full results, `README.md` lists them in order, and `DATA.md` links every raw source (ENCODE accessions, BIRD, GeneHancer, CollecTRI, motif archetypes).
+All code is in this repository (branch `submission`). The folder `demo/` holds a small toy dataset and a notebook (`demo/demo.ipynb`) that runs the four analyses end to end in about twelve minutes; its outputs are saved, so it can be read without running it. The scripts in `scripts/` produce the full results, `README.md` lists them in order, and `DATA.md` links every raw source (ENCODE accessions, BIRD, GeneHancer, CollecTRI, motif archetypes).
 
 # References
 

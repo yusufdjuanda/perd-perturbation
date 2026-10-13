@@ -1,0 +1,31 @@
+{
+  "tissue_grouped_ridge": {
+    "cross_cell_pearson_median": 0.3740884848084718,
+    "cross_cell_pearson_mean": 0.33868954380717897,
+    "fraction_enhancers_cross_cell_above_0.5": 0.2805079100749375,
+    "cross_enhancer_pearson_median": 0.847759202832597,
+    "pooled_nspe": 0.33173133477172934,
+    "n_enhancers": 120100,
+    "n_cells": 167,
+    "minutes": 16.23446417649587
+  },
+  "tissue_grouped_rf": {
+    "cross_cell_pearson_median": 0.4763268657903591,
+    "cross_cell_pearson_mean": 0.45277042394599454,
+    "fraction_enhancers_cross_cell_above_0.5": 0.453721898417985,
+    "cross_enhancer_pearson_median": 0.860870538579548,
+    "pooled_nspe": 0.2917045057835774,
+    "n_enhancers": 120100,
+    "n_cells": 167,
+    "minutes": 159.5508990486463
+  },
+  "random_split_rf_57_cells": {
+    "cross_cell_pearson_median": 0.5008810337951628,
+    "cross_cell_pearson_mean": 0.4748795338765955,
+    "fraction_enhancers_cross_cell_above_0.5": 0.5018151540383015,
+    "cross_enhancer_pearson_median": 0.8741431223884465,
+    "pooled_nspe": 0.3179628845269143,
+    "n_enhancers": 120100,
+    "n_cells": 57
+  }
+}

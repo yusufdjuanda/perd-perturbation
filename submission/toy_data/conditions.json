@@ -1,0 +1,250 @@
+[
+ {
+  "dataset": "encode_dex",
+  "unit": "A549 dexamethasone",
+  "name": "A549 dex 2h",
+  "acc_control": [
+   "ENCFF186FMX",
+   "ENCFF140KUP",
+   "ENCFF670EQW",
+   "ENCFF331GTJ"
+  ],
+  "acc_treated": [
+   "ENCFF469BXZ",
+   "ENCFF427JBJ",
+   "ENCFF224UPH",
+   "ENCFF570PHG"
+  ],
+  "rna_control": [
+   "ENCFF285BTU",
+   "ENCFF904PCS",
+   "ENCFF360GXF",
+   "ENCFF233CZT"
+  ],
+  "rna_treated": [
+   "ENCFF370HFZ",
+   "ENCFF682AFV",
+   "ENCFF748SCJ",
+   "ENCFF673HCO"
+  ]
+ },
+ {
+  "dataset": "encode_dex",
+  "unit": "A549 dexamethasone",
+  "name": "A549 dex 6h",
+  "acc_control": [
+   "ENCFF186FMX",
+   "ENCFF140KUP",
+   "ENCFF670EQW",
+   "ENCFF331GTJ"
+  ],
+  "acc_treated": [
+   "ENCFF279KLR",
+   "ENCFF907MUU",
+   "ENCFF018ICN",
+   "ENCFF836ZAT"
+  ],
+  "rna_control": [
+   "ENCFF285BTU",
+   "ENCFF904PCS",
+   "ENCFF360GXF",
+   "ENCFF233CZT"
+  ],
+  "rna_treated": [
+   "ENCFF355FTJ",
+   "ENCFF810FEY",
+   "ENCFF691RQZ"
+  ]
+ },
+ {
+  "dataset": "encode_dex",
+  "unit": "A549 dexamethasone",
+  "name": "A549 dex 12h",
+  "acc_control": [
+   "ENCFF186FMX",
+   "ENCFF140KUP",
+   "ENCFF670EQW",
+   "ENCFF331GTJ"
+  ],
+  "acc_treated": [
+   "ENCFF345UMJ",
+   "ENCFF299XEC",
+   "ENCFF552RSJ",
+   "ENCFF654YVR"
+  ],
+  "rna_control": [
+   "ENCFF285BTU",
+   "ENCFF904PCS",
+   "ENCFF360GXF",
+   "ENCFF233CZT"
+  ],
+  "rna_treated": [
+   "ENCFF864UKR",
+   "ENCFF928EKJ",
+   "ENCFF988JYH",
+   "ENCFF248HYY"
+  ]
+ },
+ {
+  "dataset": "encode_tcell",
+  "unit": "T-cell activation",
+  "name": "T CD4 T",
+  "acc_control": [
+   "ENCFF444BKC",
+   "ENCFF724XDL",
+   "ENCFF753JMD"
+  ],
+  "acc_treated": [
+   "ENCFF685YHE"
+  ],
+  "rna_control": [
+   "ENCFF785OAV",
+   "ENCFF954SRP"
+  ],
+  "rna_treated": [
+   "ENCFF026RBK",
+   "ENCFF316JPH"
+  ]
+ },
+ {
+  "dataset": "encode_tcell",
+  "unit": "T-cell activation",
+  "name": "T CD4 memory T",
+  "acc_control": [
+   "ENCFF520YEZ"
+  ],
+  "acc_treated": [
+   "ENCFF843VVV"
+  ],
+  "rna_control": [
+   "ENCFF049ZXW",
+   "ENCFF994LBK"
+  ],
+  "rna_treated": [
+   "ENCFF127XUK",
+   "ENCFF998GQD"
+  ]
+ },
+ {
+  "dataset": "encode_tcell",
+  "unit": "T-cell activation",
+  "name": "T CD8 T",
+  "acc_control": [
+   "ENCFF641UWX"
+  ],
+  "acc_treated": [
+   "ENCFF953VNA",
+   "ENCFF602LTQ"
+  ],
+  "rna_control": [
+   "ENCFF494PJN",
+   "ENCFF677IBW"
+  ],
+  "rna_treated": [
+   "ENCFF554FCJ",
+   "ENCFF745LWF"
+  ]
+ },
+ {
+  "dataset": "encode_tcell",
+  "unit": "T-cell activation",
+  "name": "T naive CD4 T",
+  "acc_control": [
+   "ENCFF399QIW"
+  ],
+  "acc_treated": [
+   "ENCFF134HRE",
+   "ENCFF443UTC"
+  ],
+  "rna_control": [
+   "ENCFF768JVA",
+   "ENCFF186ITS"
+  ],
+  "rna_treated": [
+   "ENCFF884MLJ",
+   "ENCFF705DBY"
+  ]
+ },
+ {
+  "dataset": "encode_tcell",
+  "unit": "T-cell activation",
+  "name": "T naive CD8 T",
+  "acc_control": [
+   "ENCFF864EOB"
+  ],
+  "acc_treated": [
+   "ENCFF441IWW"
+  ],
+  "rna_control": [
+   "ENCFF188GCO",
+   "ENCFF118MYS"
+  ],
+  "rna_treated": [
+   "ENCFF544IKF",
+   "ENCFF687XPH"
+  ]
+ },
+ {
+  "dataset": "encode_hct116",
+  "unit": "HCT116 BRD4",
+  "name": "HCT116 BRD4",
+  "acc_control": [
+   "ENCFF668AAR",
+   "ENCFF178XQD"
+  ],
+  "acc_treated": [
+   "ENCFF359EVV",
+   "ENCFF294YZW"
+  ],
+  "rna_control": [
+   "ENCFF339DHI",
+   "ENCFF864VZU"
+  ],
+  "rna_treated": [
+   "ENCFF144VEL",
+   "ENCFF327HLD"
+  ]
+ },
+ {
+  "dataset": "encode_hct116",
+  "unit": "HCT116 CTCF",
+  "name": "HCT116 CTCF",
+  "acc_control": [
+   "ENCFF696KWO",
+   "ENCFF032OIX"
+  ],
+  "acc_treated": [
+   "ENCFF830RSR",
+   "ENCFF241EHU"
+  ],
+  "rna_control": [
+   "ENCFF633DPM",
+   "ENCFF333TVL"
+  ],
+  "rna_treated": [
+   "ENCFF983WCB",
+   "ENCFF151LXA"
+  ]
+ },
+ {
+  "dataset": "encode_hct116",
+  "unit": "HCT116 MED14",
+  "name": "HCT116 MED14",
+  "acc_control": [
+   "ENCFF609EOJ",
+   "ENCFF637ABC"
+  ],
+  "acc_treated": [
+   "ENCFF623IQZ",
+   "ENCFF800LCI"
+  ],
+  "rna_control": [
+   "ENCFF569YCJ",
+   "ENCFF438OIP"
+  ],
+  "rna_treated": [
+   "ENCFF303CCE",
+   "ENCFF583XNU"
+  ]
+ }
+]

@@ -1,0 +1,31 @@
+.DS_Store
+.pixi/
+.pytest_cache/
+.ruff_cache/
+__pycache__/
+*.py[cod]
+
+data/raw/**
+data/interim/**
+data/processed/**
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+results/tables/**
+results/figures/**
+results/tracks/**
+!results/tables/.gitkeep
+!results/figures/.gitkeep
+!results/tracks/.gitkeep
+
+
+# Cluster job logs and local reference documents
+logs/
+*.pdf
+fonts/
+
+# Submission branch: the report PDFs and the curated result tables are committed; demo output is not
+!report/*.pdf
+!results/tables/*
+submission/output/

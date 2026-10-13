@@ -1,0 +1,8 @@
+{
+  "url": "https://omnipathdb.org/interactions?datasets=collectri&genesymbols=yes&loops=yes&format=tsv",
+  "retrieved_at": "2026-10-05T14:32:37.585368+00:00",
+  "path": "data/raw/collectri/collectri.tsv",
+  "md5": "af079ddddcc3cd0dd9c7647704e00247",
+  "bytes": 4088085,
+  "rows": 64979
+}

@@ -1,0 +1,306 @@
+{
+  "hct116": {
+    "rna_replicates": 32,
+    "dnase_replicates": 26,
+    "k": 32.03086429133042,
+    "usable_gene_coverage": 0.9814111443764243,
+    "reference_genes_present": 26492,
+    "untreated_replicate_noise_p99": {
+      "BRD4": 2.1817403882453053,
+      "CDK7": 1.1472260013855393,
+      "CTCF": 1.1248444642677276,
+      "MED14": 1.7101947794192056,
+      "POLR2A": 2.5007756369560976
+    },
+    "event_threshold": 1.7101947794192056,
+    "top_tf_activity_change": {
+      "BRD4": {
+        "BHLHE41": 1.201,
+        "NFATC2": 1.159,
+        "MECP2": 1.068,
+        "ARID4B": 1.061,
+        "ELF4": 1.022,
+        "IRF5": 1.019,
+        "STAT6": 0.997,
+        "ATF3": 0.959
+      },
+      "CDK7": {
+        "TP53": 0.473,
+        "TBX10": 0.448,
+        "SUPT20H": 0.442,
+        "LITAF": 0.407,
+        "ARID4A": 0.385,
+        "CRX": 0.381,
+        "MAFG": 0.375,
+        "HIF1A": 0.372
+      },
+      "CTCF": {
+        "FOXH1": 0.803,
+        "OVOL1": 0.737,
+        "KDM2A": 0.639,
+        "EPAS1": 0.636,
+        "MNT": 0.617,
+        "BRCA1": 0.544,
+        "LMX1B": 0.524,
+        "NR0B1": 0.515
+      },
+      "MED14": {
+        "BRCA1": 2.262,
+        "THAP11": 1.165,
+        "PRDM2": 1.119,
+        "IRF2BPL": 1.114,
+        "E2F5": 1.082,
+        "STAT2": 1.021,
+        "HDAC3": 1.019,
+        "HOXB13": 0.945
+      },
+      "POLR2A": {
+        "BHLHE41": 1.51,
+        "SATB1": 1.341,
+        "IRF4": 1.05,
+        "HSF4": 1.046,
+        "STAT4": 1.016,
+        "PML": 0.817,
+        "YBX3": 0.788,
+        "ZNF382": 0.763
+      },
+      "RAD21": {
+        "BRCA1": 1.125,
+        "VHL": 0.712,
+        "LHX4": 0.711,
+        "ATF3": 0.574,
+        "FOXJ1": 0.573,
+        "ESR2": 0.572,
+        "MAFK": 0.557,
+        "PRDM2": 0.547
+      },
+      "SMARCA5": {
+        "MYC": 1.897,
+        "E2F1": 1.56,
+        "E2F4": 1.274,
+        "SP1": 1.251,
+        "E2F3": 0.901,
+        "TBP": 0.8,
+        "ESR1": 0.776,
+        "E2F2": 0.762
+      },
+      "SUPT16H": {
+        "TFDP3": 1.489,
+        "FOXC1": 1.123,
+        "FOXJ1": 0.969,
+        "SMAD3": 0.876,
+        "FOXO1": 0.874,
+        "SMAD4": 0.866,
+        "ARID4A": 0.84,
+        "PPARD": 0.833
+      }
+    },
+    "rna_markers": [
+      {
+        "dataset": "hct116",
+        "unit": "BRD4",
+        "gene": "BRD4",
+        "log2fc": 0.3541037715515243
+      },
+      {
+        "dataset": "hct116",
+        "unit": "CDK7",
+        "gene": "CDK7",
+        "log2fc": -0.01353858537749364
+      },
+      {
+        "dataset": "hct116",
+        "unit": "CTCF",
+        "gene": "CTCF",
+        "log2fc": 0.7272169290219104
+      },
+      {
+        "dataset": "hct116",
+        "unit": "MED14",
+        "gene": "MED14",
+        "log2fc": 0.5391274885560291
+      },
+      {
+        "dataset": "hct116",
+        "unit": "POLR2A",
+        "gene": "POLR2A",
+        "log2fc": 0.8586735816653626
+      },
+      {
+        "dataset": "hct116",
+        "unit": "RAD21",
+        "gene": "RAD21",
+        "log2fc": 0.04745254396044096
+      },
+      {
+        "dataset": "hct116",
+        "unit": "SMARCA5",
+        "gene": "SMARCA5",
+        "log2fc": 0.0818873902170405
+      },
+      {
+        "dataset": "hct116",
+        "unit": "SUPT16H",
+        "gene": "SUPT16H",
+        "log2fc": -0.04245743746749309
+      }
+    ]
+  },
+  "sknsh": {
+    "rna_replicates": 10,
+    "dnase_replicates": 3,
+    "k": 38.378846767113814,
+    "usable_gene_coverage": 0.9814111443764243,
+    "reference_genes_present": 26492,
+    "untreated_replicate_noise_p99": {},
+    "event_threshold": null,
+    "top_tf_activity_change": {
+      "retinoic acid": {
+        "PHOX2B": 3.806,
+        "RARG": 3.625,
+        "PHOX2A": 3.617,
+        "ZBTB32": 3.261,
+        "TLX2": 3.087,
+        "ESR2": 2.984,
+        "ZIC1": 2.938,
+        "FGF2": 2.848
+      }
+    },
+    "ra_tf_activity_change": {
+      "RARA": 0.701,
+      "RARB": 2.801,
+      "RARG": 3.625,
+      "RXRA": 0.959,
+      "RXRB": 0.989
+    },
+    "ra_tf_activity_rank": {
+      "RARA": 156,
+      "RARB": 10,
+      "RARG": 2,
+      "RXRA": 99,
+      "RXRB": 92
+    },
+    "rna_markers": [
+      {
+        "dataset": "sknsh",
+        "unit": "retinoic acid",
+        "gene": "CYP26A1",
+        "log2fc": 8.841290292449242
+      },
+      {
+        "dataset": "sknsh",
+        "unit": "retinoic acid",
+        "gene": "RARB",
+        "log2fc": 3.164982314843746
+      },
+      {
+        "dataset": "sknsh",
+        "unit": "retinoic acid",
+        "gene": "DHRS3",
+        "log2fc": 4.490710475258266
+      }
+    ],
+    "positive_control_passes": true
+  },
+  "gate": [
+    {
+      "dataset": "hct116",
+      "unit": "BRD4",
+      "treated_reps": 2,
+      "untreated_reps": 2,
+      "n_evaluable": 115513.0,
+      "change_sd": 0.341809009572564,
+      "frac_abs_change_gt_threshold": 3.462813709279475e-05,
+      "gate_z": 3.981617825049337,
+      "replicable": true
+    },
+    {
+      "dataset": "hct116",
+      "unit": "CDK7",
+      "treated_reps": 1,
+      "untreated_reps": 2,
+      "n_evaluable": 112970.0,
+      "change_sd": 0.4444029945477829,
+      "frac_abs_change_gt_threshold": 0.00043374347171815526,
+      "gate_z": NaN,
+      "replicable": false
+    },
+    {
+      "dataset": "hct116",
+      "unit": "CTCF",
+      "treated_reps": 2,
+      "untreated_reps": 2,
+      "n_evaluable": 117039.0,
+      "change_sd": 0.4740160298666359,
+      "frac_abs_change_gt_threshold": 0.006937858320730696,
+      "gate_z": 66.63443946476322,
+      "replicable": true
+    },
+    {
+      "dataset": "hct116",
+      "unit": "MED14",
+      "treated_reps": 2,
+      "untreated_reps": 2,
+      "n_evaluable": 115990.0,
+      "change_sd": 0.5400723635429543,
+      "frac_abs_change_gt_threshold": 0.007879989654280542,
+      "gate_z": 45.00279940495186,
+      "replicable": true
+    },
+    {
+      "dataset": "hct116",
+      "unit": "POLR2A",
+      "treated_reps": 2,
+      "untreated_reps": 2,
+      "n_evaluable": 115675.0,
+      "change_sd": 0.42363371920006243,
+      "frac_abs_change_gt_threshold": 0.00046682515668899937,
+      "gate_z": -31.369926135004615,
+      "replicable": false
+    },
+    {
+      "dataset": "hct116",
+      "unit": "RAD21",
+      "treated_reps": 0,
+      "untreated_reps": 1,
+      "n_evaluable": NaN,
+      "change_sd": NaN,
+      "frac_abs_change_gt_threshold": NaN,
+      "gate_z": NaN,
+      "replicable": false
+    },
+    {
+      "dataset": "hct116",
+      "unit": "SMARCA5",
+      "treated_reps": 2,
+      "untreated_reps": 1,
+      "n_evaluable": 116939.0,
+      "change_sd": 0.548180241303888,
+      "frac_abs_change_gt_threshold": 0.006165607710002651,
+      "gate_z": NaN,
+      "replicable": false
+    },
+    {
+      "dataset": "hct116",
+      "unit": "SUPT16H",
+      "treated_reps": 2,
+      "untreated_reps": 1,
+      "n_evaluable": 117156.0,
+      "change_sd": 0.4687586140876587,
+      "frac_abs_change_gt_threshold": 0.0014425210830004438,
+      "gate_z": NaN,
+      "replicable": false
+    },
+    {
+      "dataset": "sknsh",
+      "unit": "retinoic acid",
+      "treated_reps": 2,
+      "untreated_reps": 1,
+      "n_evaluable": 114814.0,
+      "change_sd": 0.924236758175305,
+      "frac_abs_change_gt_threshold": 0.0,
+      "gate_z": NaN,
+      "replicable": false
+    }
+  ]
+}

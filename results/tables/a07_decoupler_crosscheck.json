@@ -1,0 +1,48 @@
+{
+  "decoupler_version": "2.2.0",
+  "a549_dex": {
+    "samples": 46,
+    "tfs_ours": 766,
+    "tfs_decoupler": 766,
+    "tfs_common": 766,
+    "max_abs_difference": 0.26349601956049007,
+    "pearson_all_values": 0.9999819737626162,
+    "nr3c1_ours_first5": [
+      1.075,
+      1.3359,
+      1.1522,
+      1.3355,
+      1.4705
+    ],
+    "nr3c1_decoupler_first5": [
+      1.0389,
+      1.2973,
+      1.1119,
+      1.3103,
+      1.4236
+    ]
+  },
+  "encode167": {
+    "samples": 20,
+    "tfs_ours": 766,
+    "tfs_decoupler": 766,
+    "tfs_common": 766,
+    "max_abs_difference": 4.121147867408581e-12,
+    "pearson_all_values": 0.9999999999999996,
+    "nr3c1_ours_first5": [
+      -0.9334,
+      4.8461,
+      -1.774,
+      0.7545,
+      -0.3095
+    ],
+    "nr3c1_decoupler_first5": [
+      -0.9334,
+      4.8461,
+      -1.774,
+      0.7545,
+      -0.3095
+    ]
+  },
+  "identical_within_1e-6": false
+}

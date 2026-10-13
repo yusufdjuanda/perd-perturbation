@@ -1,0 +1,836 @@
+variant,cell,nspe
+Frozen PERD-RF,adrenal_gland_embryo_(96_days)-adrenal_gland-embryonic-96-day--NA-,0.41264701236840223
+Frozen PERD-RF,adrenal_gland_female_adult_(53_years)-adrenal_gland-adult-53-year--NA-,0.3005128362875137
+Frozen PERD-RF,adrenal_gland_female_embryo_(108_days)-adrenal_gland-embryonic-108-day--NA-,0.4153596006244753
+Frozen PERD-RF,adrenal_gland_female_embryo_(85_days)-adrenal_gland-embryonic-85-day--NA-,0.37038587608136436
+Frozen PERD-RF,adrenal_gland_male_embryo_(101_day)-adrenal_gland-embryonic-101-day--NA-,0.3712282876812667
+Frozen PERD-RF,adrenal_gland_male_embryo_(108_days)-adrenal_gland-embryonic-108-day--NA-,0.38283181660309784
+Frozen PERD-RF,astrocyte-astrocyte-unknown-unknown---NA-,0.5959267484077131
+Frozen PERD-RF,B_cell_male_adult_(37_years)-B_cell-adult-37-year--NA-,0.28377736484678323
+Frozen PERD-RF,BE2C-BE2C-child-2-year--NA-,0.43702112025161544
+Frozen PERD-RF,bipolar_neuron_originated_from_GM23338_treated_with_0.5_μg/mL_doxycycline_hyclate_for_4_days-bipolar_neuron-adult-53-year-doxycycline_hyclate-_4-day,0.381336207336006
+Frozen PERD-RF,CD14-positive_monocyte_female-CD14-positive_monocyte-unknown-unknown---NA-,0.5647315097944096
+Frozen PERD-RF,CD14-positive_monocyte_male_adult_(37_years)-CD14-positive_monocyte-adult-37-year--NA-,0.6495153185502077
+Frozen PERD-RF,CD4-positive_helper_T_cell_male_adult_(21_year)-CD4-positive_helper_T_cell-adult-21-year--NA-,0.2448417870942635
+Frozen PERD-RF,CD4-positive_helper_T_cell_male_adult_(37_years)-CD4-positive_helper_T_cell-adult-37-year--NA-,0.31480705243744717
+Frozen PERD-RF,CD8-positive_alpha-beta_T_cell_male_adult_(21_year)-CD8-positive_alpha-beta_T_cell-adult-21-year--NA-,0.25142290547127966
+Frozen PERD-RF,epithelial_cell_of_proximal_tubule-epithelial_cell_of_proximal_tubule-unknown-unknown---NA-,0.6964883050757426
+Frozen PERD-RF,esophagus_muscularis_mucosa_female_adult_(51_year)-esophagus_muscularis_mucosa-adult-51-year--NA-,0.6091268350213489
+Frozen PERD-RF,esophagus_squamous_epithelium_male_adult_(37_years)-esophagus_squamous_epithelium-adult-37-year--NA-,0.9996989608518105
+Frozen PERD-RF,fibroblast_of_arm_male_adult_(53_years)-fibroblast_of_arm-adult-53-year--NA-,0.6418914216033657
+Frozen PERD-RF,fibroblast_of_lung_male_embryo_(12_weeks)-fibroblast_of_lung-embryonic-12-week--NA-,0.38422363208601173
+Frozen PERD-RF,fibroblast_of_skin_of_abdomen_male_embryo_(97_days)-fibroblast_of_skin_of_abdomen-embryonic-97-day--NA-,0.6237679895424884
+Frozen PERD-RF,forelimb_muscle_female_embryo_(108_days)-forelimb_muscle-embryonic-108-day--NA-,0.15996281933774986
+Frozen PERD-RF,foreskin_fibroblast_male_newborn-foreskin_fibroblast-newborn-unknown---NA-,0.5202901719745815
+Frozen PERD-RF,gastrocnemius_medialis_female_adult_(51_year)-gastrocnemius_medialis-adult-51-year--NA-,0.2764815521494158
+Frozen PERD-RF,GM12878-GM12878-adult-unknown---NA-,0.5431422596044496
+Frozen PERD-RF,GM23338_male_adult_(53_years)_originated_from_fibroblast_of_arm-GM23338-adult-53-year--NA-,0.30781617109468423
+Frozen PERD-RF,H1-hESC-H1-hESC-embryonic-unknown---NA-,0.3978842016071559
+Frozen PERD-RF,H7-hESC-H7-hESC-embryonic-unknown---NA-,0.4679566788561769
+Frozen PERD-RF,heart_female_embryo_(91_day)-heart-embryonic-91-day--NA-,0.32456762315773735
+Frozen PERD-RF,heart_left_ventricle_female_adult_(53_years)-heart_left_ventricle-adult-53-year--NA-,0.3043537982264559
+Frozen PERD-RF,heart_male_embryo_(120_days)-heart-embryonic-120-day--NA-,0.3350236915548892
+Frozen PERD-RF,hematopoietic_multipotent_progenitor_cell-hematopoietic_multipotent_progenitor_cell-unknown-unknown---NA-,0.4844190332929418
+Frozen PERD-RF,HepG2-HepG2-child-15-year--NA-,0.5542771774017442
+Frozen PERD-RF,hindlimb_muscle_male_embryo_(120_days)-hindlimb_muscle-embryonic-120-day--NA-,0.10259920008371852
+Frozen PERD-RF,IMR-90_female_embryo_(16_weeks)-IMR-90-embryonic-16-week--NA-,0.5126785515584442
+Frozen PERD-RF,Jurkat_clone_E61-Jurkat_clone_E61-child-14-year--NA-,0.44098057538028473
+Frozen PERD-RF,K562-K562-adult-53-year--NA-,0.5882555728557716
+Frozen PERD-RF,Karpas-422-Karpas-422-adult-72-year--NA-,0.33846197399969247
+Frozen PERD-RF,keratinocyte_female-keratinocyte-unknown-unknown---NA-,0.7055577639606757
+Frozen PERD-RF,kidney_female_embryo_(105_days)-kidney-embryonic-105-day--NA-,0.14398400382165147
+Frozen PERD-RF,kidney_female_embryo_(108_days)-kidney-embryonic-108-day--NA-,0.09928030713960455
+Frozen PERD-RF,kidney_female_embryo_(85_days)-kidney-embryonic-85-day--NA-,0.3680109374446435
+Frozen PERD-RF,kidney_male_embryo_(87_days)-kidney-embryonic-87-day--NA-,0.2781518657503714
+Frozen PERD-RF,large_intestine_female_embryo_(105_days)-large_intestine-embryonic-105-day--NA-,0.2671298787532099
+Frozen PERD-RF,large_intestine_female_embryo_(120_days)-large_intestine-embryonic-120-day--NA-,0.20326710052596214
+Frozen PERD-RF,large_intestine_female_embryo_(85_days)-large_intestine-embryonic-85-day--NA-,0.5200726635952119
+Frozen PERD-RF,large_intestine_female_embryo_(98_days)-large_intestine-embryonic-98-day--NA-,0.15399639715155583
+Frozen PERD-RF,large_intestine_male_embryo_(108_days)-large_intestine-embryonic-108-day--NA-,0.1644050753858442
+Frozen PERD-RF,large_intestine_male_embryo_(115_days)-large_intestine-embryonic-115-day--NA-,0.16009309931265403
+Frozen PERD-RF,large_intestine_male_embryo_(91_day)-large_intestine-embryonic-91-day--NA-,0.15609123062480942
+Frozen PERD-RF,left_kidney_male_embryo_(96_days)-left_kidney-embryonic-96-day--NA-,0.16207917694145746
+Frozen PERD-RF,left_lung_female_embryo_(105_days)-left_lung-embryonic-105-day--NA-,0.10570466602752064
+Frozen PERD-RF,left_lung_female_embryo_(108_days)-left_lung-embryonic-108-day--NA-,0.20064104151187526
+Frozen PERD-RF,left_lung_male_embryo_(105_days)-left_lung-embryonic-105-day--NA-,0.15070023702918292
+Frozen PERD-RF,left_lung_male_embryo_(96_days)-left_lung-embryonic-96-day--NA-,0.1071586321919533
+Frozen PERD-RF,left_renal_cortex_interstitium_male_embryo_(105_days)-left_renal_cortex_interstitium-embryonic-105-day--NA-,0.12346293454487878
+Frozen PERD-RF,left_renal_cortex_interstitium_male_embryo_(120_days)-left_renal_cortex_interstitium-embryonic-120-day--NA-,0.115053430657043
+Frozen PERD-RF,left_renal_pelvis_male_embryo_(105_days)-left_renal_pelvis-embryonic-105-day--NA-,0.10554283800733064
+Frozen PERD-RF,left_renal_pelvis_male_embryo_(120_days)-left_renal_pelvis-embryonic-120-day--NA-,0.2560087678432999
+Frozen PERD-RF,lower_leg_skin_female_adult_(51_year)-lower_leg_skin-adult-51-year--NA-,0.3651291328128111
+Frozen PERD-RF,lower_leg_skin_female_adult_(53_years)-lower_leg_skin-adult-53-year--NA-,0.22440154974370358
+Frozen PERD-RF,mammary_epithelial_cell_female-mammary_epithelial_cell-unknown-unknown---NA-,0.6245383443064494
+Frozen PERD-RF,MCF-7-MCF-7-adult-69-year--NA-,0.5869393711733655
+Frozen PERD-RF,muscle_of_arm_embryo_(101_day)-muscle_of_arm-embryonic-101-day--NA-,0.1628885003816758
+Frozen PERD-RF,muscle_of_arm_female_embryo_(105_days)-muscle_of_arm-embryonic-105-day--NA-,0.07028989581697867
+Frozen PERD-RF,muscle_of_arm_female_embryo_(120_days)-muscle_of_arm-embryonic-120-day--NA-,0.12030401340245617
+Frozen PERD-RF,muscle_of_arm_female_embryo_(85_days)-muscle_of_arm-embryonic-85-day--NA-,0.09344536323288817
+Frozen PERD-RF,muscle_of_arm_female_embryo_(98_days)-muscle_of_arm-embryonic-98-day--NA-,0.11295388730697307
+Frozen PERD-RF,muscle_of_arm_male_embryo_(120_days)-muscle_of_arm-embryonic-120-day--NA-,0.09285484979336499
+Frozen PERD-RF,muscle_of_arm_male_embryo_(91_day)-muscle_of_arm-embryonic-91-day--NA-,0.25002273948672493
+Frozen PERD-RF,muscle_of_arm_male_embryo_(96_days)-muscle_of_arm-embryonic-96-day--NA-,0.294691769746925
+Frozen PERD-RF,muscle_of_arm_male_embryo_(97_days)-muscle_of_arm-embryonic-97-day--NA-,0.13708501165728906
+Frozen PERD-RF,muscle_of_back_female_embryo_(105_days)-muscle_of_back-embryonic-105-day--NA-,0.0579983139224324
+Frozen PERD-RF,muscle_of_back_female_embryo_(115_days)-muscle_of_back-embryonic-115-day--NA-,0.16558610482246344
+Frozen PERD-RF,muscle_of_back_female_embryo_(85_days)-muscle_of_back-embryonic-85-day--NA-,0.1301787123452475
+Frozen PERD-RF,muscle_of_back_female_embryo_(98_days)-muscle_of_back-embryonic-98-day--NA-,0.11987864493159393
+Frozen PERD-RF,muscle_of_back_male_embryo_(101_day)-muscle_of_back-embryonic-101-day--NA-,0.09895031411953081
+Frozen PERD-RF,muscle_of_back_male_embryo_(105_days)-muscle_of_back-embryonic-105-day--NA-,0.13811049537402292
+Frozen PERD-RF,muscle_of_back_male_embryo_(127_days)-muscle_of_back-embryonic-127-day--NA-,0.15670651975008418
+Frozen PERD-RF,muscle_of_back_male_embryo_(91_day)-muscle_of_back-embryonic-91-day--NA-,0.05535514751878303
+Frozen PERD-RF,muscle_of_back_male_embryo_(96_days)-muscle_of_back-embryonic-96-day--NA-,0.10815101453873309
+Frozen PERD-RF,muscle_of_back_male_embryo_(97_days)-muscle_of_back-embryonic-97-day--NA-,0.14050741371368655
+Frozen PERD-RF,muscle_of_leg_female_embryo_(113_days)-muscle_of_leg-embryonic-113-day--NA-,0.19126360619091845
+Frozen PERD-RF,muscle_of_leg_male_embryo_(101_day)-muscle_of_leg-embryonic-101-day--NA-,0.08110931745957295
+Frozen PERD-RF,muscle_of_leg_male_embryo_(105_days)-muscle_of_leg-embryonic-105-day--NA-,0.201208718092916
+Frozen PERD-RF,muscle_of_leg_male_embryo_(113_days)-muscle_of_leg-embryonic-113-day--NA-,0.1273021579615006
+Frozen PERD-RF,muscle_of_leg_male_embryo_(127_days)-muscle_of_leg-embryonic-127-day--NA-,0.13491465376030734
+Frozen PERD-RF,muscle_of_leg_male_embryo_(96_days)-muscle_of_leg-embryonic-96-day--NA-,0.15662673891856546
+Frozen PERD-RF,muscle_of_leg_male_embryo_(97_days)-muscle_of_leg-embryonic-97-day--NA-,0.09314773010475322
+Frozen PERD-RF,muscle_of_trunk_female_embryo_(113_days)-muscle_of_trunk-embryonic-113-day--NA-,0.10044380596711876
+Frozen PERD-RF,muscle_of_trunk_female_embryo_(120_days)-muscle_of_trunk-embryonic-120-day--NA-,0.1954439354293588
+Frozen PERD-RF,neural_stem_progenitor_cell_originated_from_H1-hESC-neural_stem_progenitor_cell-embryonic-unknown---NA-,0.38699616495022554
+Frozen PERD-RF,OCI-LY7-OCI-LY7-adult-48-year--NA-,0.2952715034416331
+Frozen PERD-RF,omental_fat_pad_female_adult_(51_year)-omental_fat_pad-adult-51-year--NA-,0.24211004557421384
+Frozen PERD-RF,ovary_female_adult_(30_years)-ovary-adult-30-year--NA-,0.33112347121182445
+Frozen PERD-RF,ovary_female_adult_(53_years)-ovary-adult-53-year--NA-,0.2994798415331967
+Frozen PERD-RF,ovary_female_embryo-ovary-embryonic-unknown---NA-,0.27173187176967245
+Frozen PERD-RF,Panc1-Panc1-unknown-56-year--NA-,0.5171016846753672
+Frozen PERD-RF,pancreas_female_adult_(30_years)-pancreas-adult-30-year--NA-,0.34921378929713653
+Frozen PERD-RF,pancreas_male_adult_(34_years)-pancreas-adult-34-year--NA-,0.39817466256395384
+Frozen PERD-RF,Peyer's_patch_female_adult_(53_years)-Peyer's_patch-adult-53-year--NA-,0.22090059049589084
+Frozen PERD-RF,Peyer's_patch_male_adult_(37_years)-Peyer's_patch-adult-37-year--NA-,0.3202638345843482
+Frozen PERD-RF,prostate_gland_male_adult_(37_years)-prostate_gland-adult-37-year--NA-,0.5047936448501451
+Frozen PERD-RF,renal_cortex_interstitium_female_embryo_(120_days)-renal_cortex_interstitium-embryonic-120-day--NA-,0.127809942688741
+Frozen PERD-RF,renal_cortex_interstitium_male_embryo_(91_day)-renal_cortex_interstitium-embryonic-91-day--NA-,0.116546709370275
+Frozen PERD-RF,renal_cortex_interstitium_male_embryo_(97_days)-renal_cortex_interstitium-embryonic-97-day--NA-,0.11886191825571296
+Frozen PERD-RF,renal_pelvis_female_embryo_(105_days)-renal_pelvis-embryonic-105-day--NA-,0.1376571279361094
+Frozen PERD-RF,renal_pelvis_male_embryo_(91_day)-renal_pelvis-embryonic-91-day--NA-,0.11986356108779883
+Frozen PERD-RF,renal_pelvis_male_embryo_(97_days)-renal_pelvis-embryonic-97-day--NA-,0.09019131858633854
+Frozen PERD-RF,right_atrium_auricular_region_female_adult_(51_year)-right_atrium_auricular_region-adult-51-year--NA-,0.8156897010001416
+Frozen PERD-RF,right_atrium_auricular_region_female_adult_(53_years)-right_atrium_auricular_region-adult-53-year--NA-,0.33700809410058213
+Frozen PERD-RF,right_lobe_of_liver_female_adult_(53_years)-right_lobe_of_liver-adult-53-year--NA-,0.48238263384116664
+Frozen PERD-RF,right_lung_female_embryo_(105_days)-right_lung-embryonic-105-day--NA-,0.0880234686701989
+Frozen PERD-RF,right_lung_female_embryo_(108_days)-right_lung-embryonic-108-day--NA-,0.25679360867527024
+Frozen PERD-RF,right_lung_female_embryo_(98_days)-right_lung-embryonic-98-day--NA-,0.10630908230702117
+Frozen PERD-RF,right_lung_male_embryo_(105_days)-right_lung-embryonic-105-day--NA-,0.14189769885484754
+Frozen PERD-RF,right_lung_male_embryo_(96_days)-right_lung-embryonic-96-day--NA-,0.167879612595321
+Frozen PERD-RF,right_renal_cortex_interstitium_male_embryo_(105_days)-right_renal_cortex_interstitium-embryonic-105-day--NA-,0.09648067613871449
+Frozen PERD-RF,right_renal_cortex_interstitium_male_embryo_(120_days)-right_renal_cortex_interstitium-embryonic-120-day--NA-,0.10140061329338035
+Frozen PERD-RF,right_renal_pelvis_male_embryo_(105_days)-right_renal_pelvis-embryonic-105-day--NA-,0.09859794295093167
+Frozen PERD-RF,right_renal_pelvis_male_embryo_(120_days)-right_renal_pelvis-embryonic-120-day--NA-,0.09171062750761036
+Frozen PERD-RF,skin_fibroblast_male_embryo_(97_days)-skin_fibroblast-embryonic-97-day--NA-,0.6136448521588912
+Frozen PERD-RF,SK-N-SH_treated_with_6_μM_all-trans-retinoic_acid_for_48_hours-SK-N-SH-child-4-year-all-trans-retinoic_acid-48-hour,0.4649289004892586
+Frozen PERD-RF,small_intestine_female_embryo_(108_days)-small_intestine-embryonic-108-day--NA-,0.2215623971933976
+Frozen PERD-RF,small_intestine_female_embryo_(120_days)-small_intestine-embryonic-120-day--NA-,0.1189767003091208
+Frozen PERD-RF,small_intestine_female_embryo_(98_days)-small_intestine-embryonic-98-day--NA-,0.12371643928794067
+Frozen PERD-RF,small_intestine_male_embryo_(108_days)-small_intestine-embryonic-108-day--NA-,0.12231130675725196
+Frozen PERD-RF,small_intestine_male_embryo_(115_days)-small_intestine-embryonic-115-day--NA-,0.5514969914477449
+Frozen PERD-RF,small_intestine_male_embryo_(91_day)-small_intestine-embryonic-91-day--NA-,0.2024858726623544
+Frozen PERD-RF,spinal_cord_female_embryo_(113_days)-spinal_cord-embryonic-113-day--NA-,0.26976576878325503
+Frozen PERD-RF,spinal_cord_male_embryo_(105_days)-spinal_cord-embryonic-105-day--NA-,0.3856876037260365
+Frozen PERD-RF,spinal_cord_male_embryo_(96_days)-spinal_cord-embryonic-96-day--NA-,0.30877023030780276
+Frozen PERD-RF,spleen_embryo_(112_days)-spleen-embryonic-112-day--NA-,0.37640631024313903
+Frozen PERD-RF,spleen_male_adult_(54_years)-spleen-adult-54-year--NA-,0.8215411523182075
+Frozen PERD-RF,stomach_embryo_(101_day)-stomach-embryonic-101-day--NA-,0.31467847792365394
+Frozen PERD-RF,stomach_female_adult_(51_year)-stomach-adult-51-year--NA-,0.7686539273466573
+Frozen PERD-RF,stomach_female_adult_(53_years)-stomach-adult-53-year--NA-,0.5256255614262909
+Frozen PERD-RF,stomach_female_embryo_(105_days)-stomach-embryonic-105-day--NA-,0.24331577962579115
+Frozen PERD-RF,stomach_female_embryo_(107_days)-stomach-embryonic-107-day--NA-,0.23394904719164883
+Frozen PERD-RF,stomach_female_embryo_(108_days)-stomach-embryonic-108-day--NA-,0.3304656213192729
+Frozen PERD-RF,stomach_female_embryo_(98_days)-stomach-embryonic-98-day--NA-,0.25577836462013265
+Frozen PERD-RF,stomach_male_adult_(34_years)-stomach-adult-34-year--NA-,0.5058332369246539
+Frozen PERD-RF,stomach_male_adult_(54_years)-stomach-adult-54-year--NA-,0.4100359266921832
+Frozen PERD-RF,stomach_male_child_(3_years)-stomach-child-3-year--NA-,0.39742445321345304
+Frozen PERD-RF,stomach_male_embryo_(127_days)-stomach-embryonic-127-day--NA-,0.22611830960885512
+Frozen PERD-RF,T-cell_male_adult_(37_years)-T-cell-adult-37-year--NA-,0.26849842104586363
+Frozen PERD-RF,testis_male_embryo-testis-embryonic-unknown---NA-,0.26574547590663883
+Frozen PERD-RF,thoracic_aorta_male_adult_(54_years)-thoracic_aorta-adult-54-year--NA-,0.2235428659612275
+Frozen PERD-RF,thymus_female_embryo_(113_days)-thymus-embryonic-113-day--NA-,0.36781502874621863
+Frozen PERD-RF,thymus_female_embryo_(98_days)-thymus-embryonic-98-day--NA-,0.28596497837370977
+Frozen PERD-RF,thymus_male_embryo_(108_days)-thymus-embryonic-108-day--NA-,0.372239593689218
+Frozen PERD-RF,thymus_male_embryo_(113_days)-thymus-embryonic-113-day--NA-,0.3898424639884477
+Frozen PERD-RF,thymus_male_embryo_(127_days)-thymus-embryonic-127-day--NA-,0.2810705182027894
+Frozen PERD-RF,thymus_male_embryo_(97_days)-thymus-embryonic-97-day--NA-,0.3839125393462104
+Frozen PERD-RF,thyroid_gland_female_adult_(51_year)-thyroid_gland-adult-51-year--NA-,0.43617107359784496
+Frozen PERD-RF,thyroid_gland_female_adult_(53_years)-thyroid_gland-adult-53-year--NA-,0.3010119097943977
+Frozen PERD-RF,tibial_nerve_female_adult_(51_year)-tibial_nerve-adult-51-year--NA-,0.7463972193320879
+Frozen PERD-RF,tibial_nerve_female_adult_(53_years)-tibial_nerve-adult-53-year--NA-,0.22378234703528016
+Frozen PERD-RF,tibial_nerve_male_adult_(37_years)-tibial_nerve-adult-37-year--NA-,0.42077301126628924
+Frozen PERD-RF,transverse_colon_female_adult_(51_year)-transverse_colon-adult-51-year--NA-,0.2944756919795315
+Frozen PERD-RF,transverse_colon_female_adult_(53_years)-transverse_colon-adult-53-year--NA-,0.3498272852875646
+Frozen PERD-RF,transverse_colon_male_adult_(37_years)-transverse_colon-adult-37-year--NA-,0.38320232062694204
+Frozen PERD-RF,transverse_colon_male_adult_(54_years)-transverse_colon-adult-54-year--NA-,0.24761857212414942
+Frozen PERD-RF,upper_lobe_of_left_lung_female_adult_(51_year)-upper_lobe_of_left_lung-adult-51-year--NA-,0.3370153020280507
+Frozen PERD-RF,upper_lobe_of_left_lung_male_adult_(37_years)-upper_lobe_of_left_lung-adult-37-year--NA-,0.9469689269415564
+Frozen PERD-RF,uterus_female_adult_(53_years)-uterus-adult-53-year--NA-,0.2593132105126332
+Frozen PERD-RF,vagina_female_adult_(53_years)-vagina-adult-53-year--NA-,0.5026506814821183
++ shuffled-target activity,adrenal_gland_embryo_(96_days)-adrenal_gland-embryonic-96-day--NA-,0.4003686800329165
++ shuffled-target activity,adrenal_gland_female_adult_(53_years)-adrenal_gland-adult-53-year--NA-,0.2895847470404021
++ shuffled-target activity,adrenal_gland_female_embryo_(108_days)-adrenal_gland-embryonic-108-day--NA-,0.40421562162271146
++ shuffled-target activity,adrenal_gland_female_embryo_(85_days)-adrenal_gland-embryonic-85-day--NA-,0.35800583219885634
++ shuffled-target activity,adrenal_gland_male_embryo_(101_day)-adrenal_gland-embryonic-101-day--NA-,0.3514840617270937
++ shuffled-target activity,adrenal_gland_male_embryo_(108_days)-adrenal_gland-embryonic-108-day--NA-,0.3855925956381854
++ shuffled-target activity,astrocyte-astrocyte-unknown-unknown---NA-,0.5742284667968581
++ shuffled-target activity,B_cell_male_adult_(37_years)-B_cell-adult-37-year--NA-,0.2713026606199149
++ shuffled-target activity,BE2C-BE2C-child-2-year--NA-,0.43916878867028675
++ shuffled-target activity,bipolar_neuron_originated_from_GM23338_treated_with_0.5_μg/mL_doxycycline_hyclate_for_4_days-bipolar_neuron-adult-53-year-doxycycline_hyclate-_4-day,0.37607325415345005
++ shuffled-target activity,CD14-positive_monocyte_female-CD14-positive_monocyte-unknown-unknown---NA-,0.5589243423083251
++ shuffled-target activity,CD14-positive_monocyte_male_adult_(37_years)-CD14-positive_monocyte-adult-37-year--NA-,0.6412624852870413
++ shuffled-target activity,CD4-positive_helper_T_cell_male_adult_(21_year)-CD4-positive_helper_T_cell-adult-21-year--NA-,0.24671344351434835
++ shuffled-target activity,CD4-positive_helper_T_cell_male_adult_(37_years)-CD4-positive_helper_T_cell-adult-37-year--NA-,0.31109173629885395
++ shuffled-target activity,CD8-positive_alpha-beta_T_cell_male_adult_(21_year)-CD8-positive_alpha-beta_T_cell-adult-21-year--NA-,0.23775958569839403
++ shuffled-target activity,epithelial_cell_of_proximal_tubule-epithelial_cell_of_proximal_tubule-unknown-unknown---NA-,0.7209838621307014
++ shuffled-target activity,esophagus_muscularis_mucosa_female_adult_(51_year)-esophagus_muscularis_mucosa-adult-51-year--NA-,0.5801522545909392
++ shuffled-target activity,esophagus_squamous_epithelium_male_adult_(37_years)-esophagus_squamous_epithelium-adult-37-year--NA-,0.9189301042108613
++ shuffled-target activity,fibroblast_of_arm_male_adult_(53_years)-fibroblast_of_arm-adult-53-year--NA-,0.5935916113140298
++ shuffled-target activity,fibroblast_of_lung_male_embryo_(12_weeks)-fibroblast_of_lung-embryonic-12-week--NA-,0.3638788804067876
++ shuffled-target activity,fibroblast_of_skin_of_abdomen_male_embryo_(97_days)-fibroblast_of_skin_of_abdomen-embryonic-97-day--NA-,0.6432121114658245
++ shuffled-target activity,forelimb_muscle_female_embryo_(108_days)-forelimb_muscle-embryonic-108-day--NA-,0.14888964272752656
++ shuffled-target activity,foreskin_fibroblast_male_newborn-foreskin_fibroblast-newborn-unknown---NA-,0.48595377345643354
++ shuffled-target activity,gastrocnemius_medialis_female_adult_(51_year)-gastrocnemius_medialis-adult-51-year--NA-,0.26914684958766855
++ shuffled-target activity,GM12878-GM12878-adult-unknown---NA-,0.5378019988572356
++ shuffled-target activity,GM23338_male_adult_(53_years)_originated_from_fibroblast_of_arm-GM23338-adult-53-year--NA-,0.3000071715867569
++ shuffled-target activity,H1-hESC-H1-hESC-embryonic-unknown---NA-,0.3913449595159979
++ shuffled-target activity,H7-hESC-H7-hESC-embryonic-unknown---NA-,0.47697384422250616
++ shuffled-target activity,heart_female_embryo_(91_day)-heart-embryonic-91-day--NA-,0.3225070162373152
++ shuffled-target activity,heart_left_ventricle_female_adult_(53_years)-heart_left_ventricle-adult-53-year--NA-,0.31069922218094576
++ shuffled-target activity,heart_male_embryo_(120_days)-heart-embryonic-120-day--NA-,0.33323828360108937
++ shuffled-target activity,hematopoietic_multipotent_progenitor_cell-hematopoietic_multipotent_progenitor_cell-unknown-unknown---NA-,0.47594943623791386
++ shuffled-target activity,HepG2-HepG2-child-15-year--NA-,0.5006730374923083
++ shuffled-target activity,hindlimb_muscle_male_embryo_(120_days)-hindlimb_muscle-embryonic-120-day--NA-,0.0924987081931169
++ shuffled-target activity,IMR-90_female_embryo_(16_weeks)-IMR-90-embryonic-16-week--NA-,0.4847071812139847
++ shuffled-target activity,Jurkat_clone_E61-Jurkat_clone_E61-child-14-year--NA-,0.45490120122521355
++ shuffled-target activity,K562-K562-adult-53-year--NA-,0.5924205088701252
++ shuffled-target activity,Karpas-422-Karpas-422-adult-72-year--NA-,0.3390002577799876
++ shuffled-target activity,keratinocyte_female-keratinocyte-unknown-unknown---NA-,0.691458962681858
++ shuffled-target activity,kidney_female_embryo_(105_days)-kidney-embryonic-105-day--NA-,0.13068853845598277
++ shuffled-target activity,kidney_female_embryo_(108_days)-kidney-embryonic-108-day--NA-,0.09459372062602947
++ shuffled-target activity,kidney_female_embryo_(85_days)-kidney-embryonic-85-day--NA-,0.35685616716777135
++ shuffled-target activity,kidney_male_embryo_(87_days)-kidney-embryonic-87-day--NA-,0.2625957408500064
++ shuffled-target activity,large_intestine_female_embryo_(105_days)-large_intestine-embryonic-105-day--NA-,0.2660558744896556
++ shuffled-target activity,large_intestine_female_embryo_(120_days)-large_intestine-embryonic-120-day--NA-,0.21608959620197074
++ shuffled-target activity,large_intestine_female_embryo_(85_days)-large_intestine-embryonic-85-day--NA-,0.5020473678028193
++ shuffled-target activity,large_intestine_female_embryo_(98_days)-large_intestine-embryonic-98-day--NA-,0.1852946274673878
++ shuffled-target activity,large_intestine_male_embryo_(108_days)-large_intestine-embryonic-108-day--NA-,0.15893069000328294
++ shuffled-target activity,large_intestine_male_embryo_(115_days)-large_intestine-embryonic-115-day--NA-,0.15183601741042577
++ shuffled-target activity,large_intestine_male_embryo_(91_day)-large_intestine-embryonic-91-day--NA-,0.15034367440111213
++ shuffled-target activity,left_kidney_male_embryo_(96_days)-left_kidney-embryonic-96-day--NA-,0.16153472014631343
++ shuffled-target activity,left_lung_female_embryo_(105_days)-left_lung-embryonic-105-day--NA-,0.10427638205230785
++ shuffled-target activity,left_lung_female_embryo_(108_days)-left_lung-embryonic-108-day--NA-,0.19947259355372124
++ shuffled-target activity,left_lung_male_embryo_(105_days)-left_lung-embryonic-105-day--NA-,0.13851805232998107
++ shuffled-target activity,left_lung_male_embryo_(96_days)-left_lung-embryonic-96-day--NA-,0.10636006255481557
++ shuffled-target activity,left_renal_cortex_interstitium_male_embryo_(105_days)-left_renal_cortex_interstitium-embryonic-105-day--NA-,0.11440098859880427
++ shuffled-target activity,left_renal_cortex_interstitium_male_embryo_(120_days)-left_renal_cortex_interstitium-embryonic-120-day--NA-,0.11118279927651083
++ shuffled-target activity,left_renal_pelvis_male_embryo_(105_days)-left_renal_pelvis-embryonic-105-day--NA-,0.09828505764976732
++ shuffled-target activity,left_renal_pelvis_male_embryo_(120_days)-left_renal_pelvis-embryonic-120-day--NA-,0.22762010620505893
++ shuffled-target activity,lower_leg_skin_female_adult_(51_year)-lower_leg_skin-adult-51-year--NA-,0.41453424971139197
++ shuffled-target activity,lower_leg_skin_female_adult_(53_years)-lower_leg_skin-adult-53-year--NA-,0.23080136040671434
++ shuffled-target activity,mammary_epithelial_cell_female-mammary_epithelial_cell-unknown-unknown---NA-,0.6159121597429835
++ shuffled-target activity,MCF-7-MCF-7-adult-69-year--NA-,0.5856730474875609
++ shuffled-target activity,muscle_of_arm_embryo_(101_day)-muscle_of_arm-embryonic-101-day--NA-,0.1445700989346907
++ shuffled-target activity,muscle_of_arm_female_embryo_(105_days)-muscle_of_arm-embryonic-105-day--NA-,0.0627202315732405
++ shuffled-target activity,muscle_of_arm_female_embryo_(120_days)-muscle_of_arm-embryonic-120-day--NA-,0.1166536948059339
++ shuffled-target activity,muscle_of_arm_female_embryo_(85_days)-muscle_of_arm-embryonic-85-day--NA-,0.08871237924803145
++ shuffled-target activity,muscle_of_arm_female_embryo_(98_days)-muscle_of_arm-embryonic-98-day--NA-,0.11709331680723721
++ shuffled-target activity,muscle_of_arm_male_embryo_(120_days)-muscle_of_arm-embryonic-120-day--NA-,0.10025527469565641
++ shuffled-target activity,muscle_of_arm_male_embryo_(91_day)-muscle_of_arm-embryonic-91-day--NA-,0.22141352159369437
++ shuffled-target activity,muscle_of_arm_male_embryo_(96_days)-muscle_of_arm-embryonic-96-day--NA-,0.28644711402226386
++ shuffled-target activity,muscle_of_arm_male_embryo_(97_days)-muscle_of_arm-embryonic-97-day--NA-,0.12777927460719027
++ shuffled-target activity,muscle_of_back_female_embryo_(105_days)-muscle_of_back-embryonic-105-day--NA-,0.06807590267542554
++ shuffled-target activity,muscle_of_back_female_embryo_(115_days)-muscle_of_back-embryonic-115-day--NA-,0.1615799520636905
++ shuffled-target activity,muscle_of_back_female_embryo_(85_days)-muscle_of_back-embryonic-85-day--NA-,0.1275708707455774
++ shuffled-target activity,muscle_of_back_female_embryo_(98_days)-muscle_of_back-embryonic-98-day--NA-,0.12077212454101958
++ shuffled-target activity,muscle_of_back_male_embryo_(101_day)-muscle_of_back-embryonic-101-day--NA-,0.10210029010515206
++ shuffled-target activity,muscle_of_back_male_embryo_(105_days)-muscle_of_back-embryonic-105-day--NA-,0.12319773604364849
++ shuffled-target activity,muscle_of_back_male_embryo_(127_days)-muscle_of_back-embryonic-127-day--NA-,0.14466420681832493
++ shuffled-target activity,muscle_of_back_male_embryo_(91_day)-muscle_of_back-embryonic-91-day--NA-,0.0601712134174524
++ shuffled-target activity,muscle_of_back_male_embryo_(96_days)-muscle_of_back-embryonic-96-day--NA-,0.1115831851955324
++ shuffled-target activity,muscle_of_back_male_embryo_(97_days)-muscle_of_back-embryonic-97-day--NA-,0.13351476886799746
++ shuffled-target activity,muscle_of_leg_female_embryo_(113_days)-muscle_of_leg-embryonic-113-day--NA-,0.19387065825264466
++ shuffled-target activity,muscle_of_leg_male_embryo_(101_day)-muscle_of_leg-embryonic-101-day--NA-,0.07865259391527607
++ shuffled-target activity,muscle_of_leg_male_embryo_(105_days)-muscle_of_leg-embryonic-105-day--NA-,0.17726956318660825
++ shuffled-target activity,muscle_of_leg_male_embryo_(113_days)-muscle_of_leg-embryonic-113-day--NA-,0.1184723258726223
++ shuffled-target activity,muscle_of_leg_male_embryo_(127_days)-muscle_of_leg-embryonic-127-day--NA-,0.12559802828993596
++ shuffled-target activity,muscle_of_leg_male_embryo_(96_days)-muscle_of_leg-embryonic-96-day--NA-,0.15340832178756345
++ shuffled-target activity,muscle_of_leg_male_embryo_(97_days)-muscle_of_leg-embryonic-97-day--NA-,0.0856632187479016
++ shuffled-target activity,muscle_of_trunk_female_embryo_(113_days)-muscle_of_trunk-embryonic-113-day--NA-,0.11310557355066168
++ shuffled-target activity,muscle_of_trunk_female_embryo_(120_days)-muscle_of_trunk-embryonic-120-day--NA-,0.17106127458621348
++ shuffled-target activity,neural_stem_progenitor_cell_originated_from_H1-hESC-neural_stem_progenitor_cell-embryonic-unknown---NA-,0.3837167910958584
++ shuffled-target activity,OCI-LY7-OCI-LY7-adult-48-year--NA-,0.3007270441670896
++ shuffled-target activity,omental_fat_pad_female_adult_(51_year)-omental_fat_pad-adult-51-year--NA-,0.23019223745709533
++ shuffled-target activity,ovary_female_adult_(30_years)-ovary-adult-30-year--NA-,0.3221096135601756
++ shuffled-target activity,ovary_female_adult_(53_years)-ovary-adult-53-year--NA-,0.29049698080743475
++ shuffled-target activity,ovary_female_embryo-ovary-embryonic-unknown---NA-,0.2762663181498134
++ shuffled-target activity,Panc1-Panc1-unknown-56-year--NA-,0.5186256762773149
++ shuffled-target activity,pancreas_female_adult_(30_years)-pancreas-adult-30-year--NA-,0.3343800199455795
++ shuffled-target activity,pancreas_male_adult_(34_years)-pancreas-adult-34-year--NA-,0.3851758620143549
++ shuffled-target activity,Peyer's_patch_female_adult_(53_years)-Peyer's_patch-adult-53-year--NA-,0.2026769394029799
++ shuffled-target activity,Peyer's_patch_male_adult_(37_years)-Peyer's_patch-adult-37-year--NA-,0.31145543215895316
++ shuffled-target activity,prostate_gland_male_adult_(37_years)-prostate_gland-adult-37-year--NA-,0.4925855088741383
++ shuffled-target activity,renal_cortex_interstitium_female_embryo_(120_days)-renal_cortex_interstitium-embryonic-120-day--NA-,0.1279604517173327
++ shuffled-target activity,renal_cortex_interstitium_male_embryo_(91_day)-renal_cortex_interstitium-embryonic-91-day--NA-,0.11326895064444446
++ shuffled-target activity,renal_cortex_interstitium_male_embryo_(97_days)-renal_cortex_interstitium-embryonic-97-day--NA-,0.11308460791112099
++ shuffled-target activity,renal_pelvis_female_embryo_(105_days)-renal_pelvis-embryonic-105-day--NA-,0.14380903699511632
++ shuffled-target activity,renal_pelvis_male_embryo_(91_day)-renal_pelvis-embryonic-91-day--NA-,0.12047424968369816
++ shuffled-target activity,renal_pelvis_male_embryo_(97_days)-renal_pelvis-embryonic-97-day--NA-,0.08581966740293617
++ shuffled-target activity,right_atrium_auricular_region_female_adult_(51_year)-right_atrium_auricular_region-adult-51-year--NA-,0.7729090485078889
++ shuffled-target activity,right_atrium_auricular_region_female_adult_(53_years)-right_atrium_auricular_region-adult-53-year--NA-,0.3402870561965044
++ shuffled-target activity,right_lobe_of_liver_female_adult_(53_years)-right_lobe_of_liver-adult-53-year--NA-,0.44964735959708785
++ shuffled-target activity,right_lung_female_embryo_(105_days)-right_lung-embryonic-105-day--NA-,0.09273714249794843
++ shuffled-target activity,right_lung_female_embryo_(108_days)-right_lung-embryonic-108-day--NA-,0.2576295977769707
++ shuffled-target activity,right_lung_female_embryo_(98_days)-right_lung-embryonic-98-day--NA-,0.10102676372166144
++ shuffled-target activity,right_lung_male_embryo_(105_days)-right_lung-embryonic-105-day--NA-,0.12795502258191177
++ shuffled-target activity,right_lung_male_embryo_(96_days)-right_lung-embryonic-96-day--NA-,0.15616468975097694
++ shuffled-target activity,right_renal_cortex_interstitium_male_embryo_(105_days)-right_renal_cortex_interstitium-embryonic-105-day--NA-,0.09709924058618244
++ shuffled-target activity,right_renal_cortex_interstitium_male_embryo_(120_days)-right_renal_cortex_interstitium-embryonic-120-day--NA-,0.09849702076721271
++ shuffled-target activity,right_renal_pelvis_male_embryo_(105_days)-right_renal_pelvis-embryonic-105-day--NA-,0.09572247848588604
++ shuffled-target activity,right_renal_pelvis_male_embryo_(120_days)-right_renal_pelvis-embryonic-120-day--NA-,0.0875491760460963
++ shuffled-target activity,skin_fibroblast_male_embryo_(97_days)-skin_fibroblast-embryonic-97-day--NA-,0.6107823815342991
++ shuffled-target activity,SK-N-SH_treated_with_6_μM_all-trans-retinoic_acid_for_48_hours-SK-N-SH-child-4-year-all-trans-retinoic_acid-48-hour,0.4461180780709196
++ shuffled-target activity,small_intestine_female_embryo_(108_days)-small_intestine-embryonic-108-day--NA-,0.20844353059278758
++ shuffled-target activity,small_intestine_female_embryo_(120_days)-small_intestine-embryonic-120-day--NA-,0.11608454731876994
++ shuffled-target activity,small_intestine_female_embryo_(98_days)-small_intestine-embryonic-98-day--NA-,0.1362888559994266
++ shuffled-target activity,small_intestine_male_embryo_(108_days)-small_intestine-embryonic-108-day--NA-,0.11566329528912946
++ shuffled-target activity,small_intestine_male_embryo_(115_days)-small_intestine-embryonic-115-day--NA-,0.5360627254600879
++ shuffled-target activity,small_intestine_male_embryo_(91_day)-small_intestine-embryonic-91-day--NA-,0.2081341663166251
++ shuffled-target activity,spinal_cord_female_embryo_(113_days)-spinal_cord-embryonic-113-day--NA-,0.26282662476791074
++ shuffled-target activity,spinal_cord_male_embryo_(105_days)-spinal_cord-embryonic-105-day--NA-,0.37021643299432355
++ shuffled-target activity,spinal_cord_male_embryo_(96_days)-spinal_cord-embryonic-96-day--NA-,0.29353126652816847
++ shuffled-target activity,spleen_embryo_(112_days)-spleen-embryonic-112-day--NA-,0.37927717217432655
++ shuffled-target activity,spleen_male_adult_(54_years)-spleen-adult-54-year--NA-,0.807678900023342
++ shuffled-target activity,stomach_embryo_(101_day)-stomach-embryonic-101-day--NA-,0.2855204789190709
++ shuffled-target activity,stomach_female_adult_(51_year)-stomach-adult-51-year--NA-,0.7209832264323708
++ shuffled-target activity,stomach_female_adult_(53_years)-stomach-adult-53-year--NA-,0.5066248739408945
++ shuffled-target activity,stomach_female_embryo_(105_days)-stomach-embryonic-105-day--NA-,0.21895422506823184
++ shuffled-target activity,stomach_female_embryo_(107_days)-stomach-embryonic-107-day--NA-,0.21930327872062688
++ shuffled-target activity,stomach_female_embryo_(108_days)-stomach-embryonic-108-day--NA-,0.32904789349484953
++ shuffled-target activity,stomach_female_embryo_(98_days)-stomach-embryonic-98-day--NA-,0.25033542812321424
++ shuffled-target activity,stomach_male_adult_(34_years)-stomach-adult-34-year--NA-,0.4728854313684831
++ shuffled-target activity,stomach_male_adult_(54_years)-stomach-adult-54-year--NA-,0.37418717792953815
++ shuffled-target activity,stomach_male_child_(3_years)-stomach-child-3-year--NA-,0.3842346811868338
++ shuffled-target activity,stomach_male_embryo_(127_days)-stomach-embryonic-127-day--NA-,0.2139248515220003
++ shuffled-target activity,T-cell_male_adult_(37_years)-T-cell-adult-37-year--NA-,0.252074221413002
++ shuffled-target activity,testis_male_embryo-testis-embryonic-unknown---NA-,0.25701430742672454
++ shuffled-target activity,thoracic_aorta_male_adult_(54_years)-thoracic_aorta-adult-54-year--NA-,0.2222328764542558
++ shuffled-target activity,thymus_female_embryo_(113_days)-thymus-embryonic-113-day--NA-,0.345390207774523
++ shuffled-target activity,thymus_female_embryo_(98_days)-thymus-embryonic-98-day--NA-,0.2947569522851042
++ shuffled-target activity,thymus_male_embryo_(108_days)-thymus-embryonic-108-day--NA-,0.37393964692043846
++ shuffled-target activity,thymus_male_embryo_(113_days)-thymus-embryonic-113-day--NA-,0.38160652092555675
++ shuffled-target activity,thymus_male_embryo_(127_days)-thymus-embryonic-127-day--NA-,0.2893193875691788
++ shuffled-target activity,thymus_male_embryo_(97_days)-thymus-embryonic-97-day--NA-,0.33676429617409925
++ shuffled-target activity,thyroid_gland_female_adult_(51_year)-thyroid_gland-adult-51-year--NA-,0.430329014229384
++ shuffled-target activity,thyroid_gland_female_adult_(53_years)-thyroid_gland-adult-53-year--NA-,0.28858675328923017
++ shuffled-target activity,tibial_nerve_female_adult_(51_year)-tibial_nerve-adult-51-year--NA-,0.7060128325066612
++ shuffled-target activity,tibial_nerve_female_adult_(53_years)-tibial_nerve-adult-53-year--NA-,0.21593291586675
++ shuffled-target activity,tibial_nerve_male_adult_(37_years)-tibial_nerve-adult-37-year--NA-,0.413225500016711
++ shuffled-target activity,transverse_colon_female_adult_(51_year)-transverse_colon-adult-51-year--NA-,0.3491538529688526
++ shuffled-target activity,transverse_colon_female_adult_(53_years)-transverse_colon-adult-53-year--NA-,0.3354940653227928
++ shuffled-target activity,transverse_colon_male_adult_(37_years)-transverse_colon-adult-37-year--NA-,0.3789037159724618
++ shuffled-target activity,transverse_colon_male_adult_(54_years)-transverse_colon-adult-54-year--NA-,0.2374797463765363
++ shuffled-target activity,upper_lobe_of_left_lung_female_adult_(51_year)-upper_lobe_of_left_lung-adult-51-year--NA-,0.30884050482366865
++ shuffled-target activity,upper_lobe_of_left_lung_male_adult_(37_years)-upper_lobe_of_left_lung-adult-37-year--NA-,0.8942836686815208
++ shuffled-target activity,uterus_female_adult_(53_years)-uterus-adult-53-year--NA-,0.2479865431313048
++ shuffled-target activity,vagina_female_adult_(53_years)-vagina-adult-53-year--NA-,0.47991234182689974
++ TF activity,adrenal_gland_embryo_(96_days)-adrenal_gland-embryonic-96-day--NA-,0.3993110993384453
++ TF activity,adrenal_gland_female_adult_(53_years)-adrenal_gland-adult-53-year--NA-,0.28196459119212974
++ TF activity,adrenal_gland_female_embryo_(108_days)-adrenal_gland-embryonic-108-day--NA-,0.40407603368053163
++ TF activity,adrenal_gland_female_embryo_(85_days)-adrenal_gland-embryonic-85-day--NA-,0.3658703183451512
++ TF activity,adrenal_gland_male_embryo_(101_day)-adrenal_gland-embryonic-101-day--NA-,0.3574117329344769
++ TF activity,adrenal_gland_male_embryo_(108_days)-adrenal_gland-embryonic-108-day--NA-,0.3771198114842439
++ TF activity,astrocyte-astrocyte-unknown-unknown---NA-,0.5233144367985036
++ TF activity,B_cell_male_adult_(37_years)-B_cell-adult-37-year--NA-,0.25083433480838074
++ TF activity,BE2C-BE2C-child-2-year--NA-,0.42154843691929483
++ TF activity,bipolar_neuron_originated_from_GM23338_treated_with_0.5_μg/mL_doxycycline_hyclate_for_4_days-bipolar_neuron-adult-53-year-doxycycline_hyclate-_4-day,0.33441715974346586
++ TF activity,CD14-positive_monocyte_female-CD14-positive_monocyte-unknown-unknown---NA-,0.5499099525692481
++ TF activity,CD14-positive_monocyte_male_adult_(37_years)-CD14-positive_monocyte-adult-37-year--NA-,0.6451773687255005
++ TF activity,CD4-positive_helper_T_cell_male_adult_(21_year)-CD4-positive_helper_T_cell-adult-21-year--NA-,0.22341995721838864
++ TF activity,CD4-positive_helper_T_cell_male_adult_(37_years)-CD4-positive_helper_T_cell-adult-37-year--NA-,0.3042500901114621
++ TF activity,CD8-positive_alpha-beta_T_cell_male_adult_(21_year)-CD8-positive_alpha-beta_T_cell-adult-21-year--NA-,0.2412048631002049
++ TF activity,epithelial_cell_of_proximal_tubule-epithelial_cell_of_proximal_tubule-unknown-unknown---NA-,0.6475717693704645
++ TF activity,esophagus_muscularis_mucosa_female_adult_(51_year)-esophagus_muscularis_mucosa-adult-51-year--NA-,0.5675346911764338
++ TF activity,esophagus_squamous_epithelium_male_adult_(37_years)-esophagus_squamous_epithelium-adult-37-year--NA-,0.8853174484742727
++ TF activity,fibroblast_of_arm_male_adult_(53_years)-fibroblast_of_arm-adult-53-year--NA-,0.49135606781069435
++ TF activity,fibroblast_of_lung_male_embryo_(12_weeks)-fibroblast_of_lung-embryonic-12-week--NA-,0.2841076613158392
++ TF activity,fibroblast_of_skin_of_abdomen_male_embryo_(97_days)-fibroblast_of_skin_of_abdomen-embryonic-97-day--NA-,0.5415611108525233
++ TF activity,forelimb_muscle_female_embryo_(108_days)-forelimb_muscle-embryonic-108-day--NA-,0.15052523026406406
++ TF activity,foreskin_fibroblast_male_newborn-foreskin_fibroblast-newborn-unknown---NA-,0.43443463184428105
++ TF activity,gastrocnemius_medialis_female_adult_(51_year)-gastrocnemius_medialis-adult-51-year--NA-,0.260648163086221
++ TF activity,GM12878-GM12878-adult-unknown---NA-,0.506471343953443
++ TF activity,GM23338_male_adult_(53_years)_originated_from_fibroblast_of_arm-GM23338-adult-53-year--NA-,0.26896097784324013
++ TF activity,H1-hESC-H1-hESC-embryonic-unknown---NA-,0.3478622461398515
++ TF activity,H7-hESC-H7-hESC-embryonic-unknown---NA-,0.42437368046925283
++ TF activity,heart_female_embryo_(91_day)-heart-embryonic-91-day--NA-,0.3383666338696141
++ TF activity,heart_left_ventricle_female_adult_(53_years)-heart_left_ventricle-adult-53-year--NA-,0.26919010083367534
++ TF activity,heart_male_embryo_(120_days)-heart-embryonic-120-day--NA-,0.3378685674233603
++ TF activity,hematopoietic_multipotent_progenitor_cell-hematopoietic_multipotent_progenitor_cell-unknown-unknown---NA-,0.4616939548458564
++ TF activity,HepG2-HepG2-child-15-year--NA-,0.5334603423256314
++ TF activity,hindlimb_muscle_male_embryo_(120_days)-hindlimb_muscle-embryonic-120-day--NA-,0.09008412602922794
++ TF activity,IMR-90_female_embryo_(16_weeks)-IMR-90-embryonic-16-week--NA-,0.3618478272464698
++ TF activity,Jurkat_clone_E61-Jurkat_clone_E61-child-14-year--NA-,0.40867963637843463
++ TF activity,K562-K562-adult-53-year--NA-,0.5566873020801284
++ TF activity,Karpas-422-Karpas-422-adult-72-year--NA-,0.288573559566306
++ TF activity,keratinocyte_female-keratinocyte-unknown-unknown---NA-,0.6800515466908075
++ TF activity,kidney_female_embryo_(105_days)-kidney-embryonic-105-day--NA-,0.13129224164390363
++ TF activity,kidney_female_embryo_(108_days)-kidney-embryonic-108-day--NA-,0.09103377677393006
++ TF activity,kidney_female_embryo_(85_days)-kidney-embryonic-85-day--NA-,0.3555159863395667
++ TF activity,kidney_male_embryo_(87_days)-kidney-embryonic-87-day--NA-,0.27682748069839097
++ TF activity,large_intestine_female_embryo_(105_days)-large_intestine-embryonic-105-day--NA-,0.24371495503639667
++ TF activity,large_intestine_female_embryo_(120_days)-large_intestine-embryonic-120-day--NA-,0.16302551672449164
++ TF activity,large_intestine_female_embryo_(85_days)-large_intestine-embryonic-85-day--NA-,0.47930068747046367
++ TF activity,large_intestine_female_embryo_(98_days)-large_intestine-embryonic-98-day--NA-,0.13695898680320126
++ TF activity,large_intestine_male_embryo_(108_days)-large_intestine-embryonic-108-day--NA-,0.13208566318751794
++ TF activity,large_intestine_male_embryo_(115_days)-large_intestine-embryonic-115-day--NA-,0.13431497099374567
++ TF activity,large_intestine_male_embryo_(91_day)-large_intestine-embryonic-91-day--NA-,0.13507926489355288
++ TF activity,left_kidney_male_embryo_(96_days)-left_kidney-embryonic-96-day--NA-,0.1553827247453894
++ TF activity,left_lung_female_embryo_(105_days)-left_lung-embryonic-105-day--NA-,0.08841861100405923
++ TF activity,left_lung_female_embryo_(108_days)-left_lung-embryonic-108-day--NA-,0.1762936690605634
++ TF activity,left_lung_male_embryo_(105_days)-left_lung-embryonic-105-day--NA-,0.13654610463751812
++ TF activity,left_lung_male_embryo_(96_days)-left_lung-embryonic-96-day--NA-,0.0993944782453091
++ TF activity,left_renal_cortex_interstitium_male_embryo_(105_days)-left_renal_cortex_interstitium-embryonic-105-day--NA-,0.1049039835240183
++ TF activity,left_renal_cortex_interstitium_male_embryo_(120_days)-left_renal_cortex_interstitium-embryonic-120-day--NA-,0.11440525470689872
++ TF activity,left_renal_pelvis_male_embryo_(105_days)-left_renal_pelvis-embryonic-105-day--NA-,0.10492363033954058
++ TF activity,left_renal_pelvis_male_embryo_(120_days)-left_renal_pelvis-embryonic-120-day--NA-,0.26944226919542213
++ TF activity,lower_leg_skin_female_adult_(51_year)-lower_leg_skin-adult-51-year--NA-,0.34110103335789216
++ TF activity,lower_leg_skin_female_adult_(53_years)-lower_leg_skin-adult-53-year--NA-,0.19345221653374323
++ TF activity,mammary_epithelial_cell_female-mammary_epithelial_cell-unknown-unknown---NA-,0.6169745395892656
++ TF activity,MCF-7-MCF-7-adult-69-year--NA-,0.569135231659159
++ TF activity,muscle_of_arm_embryo_(101_day)-muscle_of_arm-embryonic-101-day--NA-,0.14051667358204917
++ TF activity,muscle_of_arm_female_embryo_(105_days)-muscle_of_arm-embryonic-105-day--NA-,0.057788295896926425
++ TF activity,muscle_of_arm_female_embryo_(120_days)-muscle_of_arm-embryonic-120-day--NA-,0.10661420606138788
++ TF activity,muscle_of_arm_female_embryo_(85_days)-muscle_of_arm-embryonic-85-day--NA-,0.07977061143839023
++ TF activity,muscle_of_arm_female_embryo_(98_days)-muscle_of_arm-embryonic-98-day--NA-,0.10450521137272652
++ TF activity,muscle_of_arm_male_embryo_(120_days)-muscle_of_arm-embryonic-120-day--NA-,0.08007447884740108
++ TF activity,muscle_of_arm_male_embryo_(91_day)-muscle_of_arm-embryonic-91-day--NA-,0.26565890425627203
++ TF activity,muscle_of_arm_male_embryo_(96_days)-muscle_of_arm-embryonic-96-day--NA-,0.2728444577414216
++ TF activity,muscle_of_arm_male_embryo_(97_days)-muscle_of_arm-embryonic-97-day--NA-,0.13867955204490143
++ TF activity,muscle_of_back_female_embryo_(105_days)-muscle_of_back-embryonic-105-day--NA-,0.05537962367042825
++ TF activity,muscle_of_back_female_embryo_(115_days)-muscle_of_back-embryonic-115-day--NA-,0.15213132862164272
++ TF activity,muscle_of_back_female_embryo_(85_days)-muscle_of_back-embryonic-85-day--NA-,0.13077756864816484
++ TF activity,muscle_of_back_female_embryo_(98_days)-muscle_of_back-embryonic-98-day--NA-,0.12300100545963139
++ TF activity,muscle_of_back_male_embryo_(101_day)-muscle_of_back-embryonic-101-day--NA-,0.09872884713814056
++ TF activity,muscle_of_back_male_embryo_(105_days)-muscle_of_back-embryonic-105-day--NA-,0.12660855759466558
++ TF activity,muscle_of_back_male_embryo_(127_days)-muscle_of_back-embryonic-127-day--NA-,0.14277950524838345
++ TF activity,muscle_of_back_male_embryo_(91_day)-muscle_of_back-embryonic-91-day--NA-,0.048938555768911596
++ TF activity,muscle_of_back_male_embryo_(96_days)-muscle_of_back-embryonic-96-day--NA-,0.10181533717204262
++ TF activity,muscle_of_back_male_embryo_(97_days)-muscle_of_back-embryonic-97-day--NA-,0.1370460354914566
++ TF activity,muscle_of_leg_female_embryo_(113_days)-muscle_of_leg-embryonic-113-day--NA-,0.17321677159595114
++ TF activity,muscle_of_leg_male_embryo_(101_day)-muscle_of_leg-embryonic-101-day--NA-,0.07699017287002587
++ TF activity,muscle_of_leg_male_embryo_(105_days)-muscle_of_leg-embryonic-105-day--NA-,0.16948076694243225
++ TF activity,muscle_of_leg_male_embryo_(113_days)-muscle_of_leg-embryonic-113-day--NA-,0.11334366125410861
++ TF activity,muscle_of_leg_male_embryo_(127_days)-muscle_of_leg-embryonic-127-day--NA-,0.12144954207036075
++ TF activity,muscle_of_leg_male_embryo_(96_days)-muscle_of_leg-embryonic-96-day--NA-,0.14774000330825096
++ TF activity,muscle_of_leg_male_embryo_(97_days)-muscle_of_leg-embryonic-97-day--NA-,0.0852689609411453
++ TF activity,muscle_of_trunk_female_embryo_(113_days)-muscle_of_trunk-embryonic-113-day--NA-,0.10693499200462275
++ TF activity,muscle_of_trunk_female_embryo_(120_days)-muscle_of_trunk-embryonic-120-day--NA-,0.19142129670239272
++ TF activity,neural_stem_progenitor_cell_originated_from_H1-hESC-neural_stem_progenitor_cell-embryonic-unknown---NA-,0.34519086003578087
++ TF activity,OCI-LY7-OCI-LY7-adult-48-year--NA-,0.2647723949297589
++ TF activity,omental_fat_pad_female_adult_(51_year)-omental_fat_pad-adult-51-year--NA-,0.25398971033149675
++ TF activity,ovary_female_adult_(30_years)-ovary-adult-30-year--NA-,0.322746567163444
++ TF activity,ovary_female_adult_(53_years)-ovary-adult-53-year--NA-,0.29026855495352616
++ TF activity,ovary_female_embryo-ovary-embryonic-unknown---NA-,0.2581299212565259
++ TF activity,Panc1-Panc1-unknown-56-year--NA-,0.5074800460603016
++ TF activity,pancreas_female_adult_(30_years)-pancreas-adult-30-year--NA-,0.3407774028907372
++ TF activity,pancreas_male_adult_(34_years)-pancreas-adult-34-year--NA-,0.39262092201583526
++ TF activity,Peyer's_patch_female_adult_(53_years)-Peyer's_patch-adult-53-year--NA-,0.1951205354329115
++ TF activity,Peyer's_patch_male_adult_(37_years)-Peyer's_patch-adult-37-year--NA-,0.30594860874140867
++ TF activity,prostate_gland_male_adult_(37_years)-prostate_gland-adult-37-year--NA-,0.5236610979839297
++ TF activity,renal_cortex_interstitium_female_embryo_(120_days)-renal_cortex_interstitium-embryonic-120-day--NA-,0.11496792754356436
++ TF activity,renal_cortex_interstitium_male_embryo_(91_day)-renal_cortex_interstitium-embryonic-91-day--NA-,0.10869842326863902
++ TF activity,renal_cortex_interstitium_male_embryo_(97_days)-renal_cortex_interstitium-embryonic-97-day--NA-,0.11446713426444545
++ TF activity,renal_pelvis_female_embryo_(105_days)-renal_pelvis-embryonic-105-day--NA-,0.1348979565946885
++ TF activity,renal_pelvis_male_embryo_(91_day)-renal_pelvis-embryonic-91-day--NA-,0.11231356530805424
++ TF activity,renal_pelvis_male_embryo_(97_days)-renal_pelvis-embryonic-97-day--NA-,0.08169757809213614
++ TF activity,right_atrium_auricular_region_female_adult_(51_year)-right_atrium_auricular_region-adult-51-year--NA-,0.6963659670256707
++ TF activity,right_atrium_auricular_region_female_adult_(53_years)-right_atrium_auricular_region-adult-53-year--NA-,0.30039323693304637
++ TF activity,right_lobe_of_liver_female_adult_(53_years)-right_lobe_of_liver-adult-53-year--NA-,0.5237099908619792
++ TF activity,right_lung_female_embryo_(105_days)-right_lung-embryonic-105-day--NA-,0.07867336230604731
++ TF activity,right_lung_female_embryo_(108_days)-right_lung-embryonic-108-day--NA-,0.2115272257131694
++ TF activity,right_lung_female_embryo_(98_days)-right_lung-embryonic-98-day--NA-,0.08546530614770392
++ TF activity,right_lung_male_embryo_(105_days)-right_lung-embryonic-105-day--NA-,0.12604513380972568
++ TF activity,right_lung_male_embryo_(96_days)-right_lung-embryonic-96-day--NA-,0.15298826505802968
++ TF activity,right_renal_cortex_interstitium_male_embryo_(105_days)-right_renal_cortex_interstitium-embryonic-105-day--NA-,0.08560708566713096
++ TF activity,right_renal_cortex_interstitium_male_embryo_(120_days)-right_renal_cortex_interstitium-embryonic-120-day--NA-,0.08924512635390455
++ TF activity,right_renal_pelvis_male_embryo_(105_days)-right_renal_pelvis-embryonic-105-day--NA-,0.09548144040284752
++ TF activity,right_renal_pelvis_male_embryo_(120_days)-right_renal_pelvis-embryonic-120-day--NA-,0.08350741148470832
++ TF activity,skin_fibroblast_male_embryo_(97_days)-skin_fibroblast-embryonic-97-day--NA-,0.5730604687021251
++ TF activity,SK-N-SH_treated_with_6_μM_all-trans-retinoic_acid_for_48_hours-SK-N-SH-child-4-year-all-trans-retinoic_acid-48-hour,0.443419501986087
++ TF activity,small_intestine_female_embryo_(108_days)-small_intestine-embryonic-108-day--NA-,0.18691034120402805
++ TF activity,small_intestine_female_embryo_(120_days)-small_intestine-embryonic-120-day--NA-,0.08686478618005927
++ TF activity,small_intestine_female_embryo_(98_days)-small_intestine-embryonic-98-day--NA-,0.11080491954290538
++ TF activity,small_intestine_male_embryo_(108_days)-small_intestine-embryonic-108-day--NA-,0.14684989665833442
++ TF activity,small_intestine_male_embryo_(115_days)-small_intestine-embryonic-115-day--NA-,0.49813111104362684
++ TF activity,small_intestine_male_embryo_(91_day)-small_intestine-embryonic-91-day--NA-,0.17438690644400887
++ TF activity,spinal_cord_female_embryo_(113_days)-spinal_cord-embryonic-113-day--NA-,0.25958495505166695
++ TF activity,spinal_cord_male_embryo_(105_days)-spinal_cord-embryonic-105-day--NA-,0.37002661821312005
++ TF activity,spinal_cord_male_embryo_(96_days)-spinal_cord-embryonic-96-day--NA-,0.29734698092300216
++ TF activity,spleen_embryo_(112_days)-spleen-embryonic-112-day--NA-,0.37147024521912647
++ TF activity,spleen_male_adult_(54_years)-spleen-adult-54-year--NA-,0.7575387509659314
++ TF activity,stomach_embryo_(101_day)-stomach-embryonic-101-day--NA-,0.32874669290274455
++ TF activity,stomach_female_adult_(51_year)-stomach-adult-51-year--NA-,0.7430819690677715
++ TF activity,stomach_female_adult_(53_years)-stomach-adult-53-year--NA-,0.5226429204928693
++ TF activity,stomach_female_embryo_(105_days)-stomach-embryonic-105-day--NA-,0.2320589262274462
++ TF activity,stomach_female_embryo_(107_days)-stomach-embryonic-107-day--NA-,0.2312837592099015
++ TF activity,stomach_female_embryo_(108_days)-stomach-embryonic-108-day--NA-,0.3317732750159968
++ TF activity,stomach_female_embryo_(98_days)-stomach-embryonic-98-day--NA-,0.2684479270217501
++ TF activity,stomach_male_adult_(34_years)-stomach-adult-34-year--NA-,0.5027200556305911
++ TF activity,stomach_male_adult_(54_years)-stomach-adult-54-year--NA-,0.364847968178116
++ TF activity,stomach_male_child_(3_years)-stomach-child-3-year--NA-,0.398828513348637
++ TF activity,stomach_male_embryo_(127_days)-stomach-embryonic-127-day--NA-,0.22545170428917694
++ TF activity,T-cell_male_adult_(37_years)-T-cell-adult-37-year--NA-,0.22604015528630308
++ TF activity,testis_male_embryo-testis-embryonic-unknown---NA-,0.25165683755746077
++ TF activity,thoracic_aorta_male_adult_(54_years)-thoracic_aorta-adult-54-year--NA-,0.2171169897704559
++ TF activity,thymus_female_embryo_(113_days)-thymus-embryonic-113-day--NA-,0.4048492590152208
++ TF activity,thymus_female_embryo_(98_days)-thymus-embryonic-98-day--NA-,0.3169191900823769
++ TF activity,thymus_male_embryo_(108_days)-thymus-embryonic-108-day--NA-,0.3990433004438766
++ TF activity,thymus_male_embryo_(113_days)-thymus-embryonic-113-day--NA-,0.41367248678898827
++ TF activity,thymus_male_embryo_(127_days)-thymus-embryonic-127-day--NA-,0.2965269616505943
++ TF activity,thymus_male_embryo_(97_days)-thymus-embryonic-97-day--NA-,0.35977841801588495
++ TF activity,thyroid_gland_female_adult_(51_year)-thyroid_gland-adult-51-year--NA-,0.42079012904970137
++ TF activity,thyroid_gland_female_adult_(53_years)-thyroid_gland-adult-53-year--NA-,0.27370951052630355
++ TF activity,tibial_nerve_female_adult_(51_year)-tibial_nerve-adult-51-year--NA-,0.6915738178895239
++ TF activity,tibial_nerve_female_adult_(53_years)-tibial_nerve-adult-53-year--NA-,0.2136770970504966
++ TF activity,tibial_nerve_male_adult_(37_years)-tibial_nerve-adult-37-year--NA-,0.3854802191372582
++ TF activity,transverse_colon_female_adult_(51_year)-transverse_colon-adult-51-year--NA-,0.2602897464589387
++ TF activity,transverse_colon_female_adult_(53_years)-transverse_colon-adult-53-year--NA-,0.36443575176302
++ TF activity,transverse_colon_male_adult_(37_years)-transverse_colon-adult-37-year--NA-,0.3808050072407158
++ TF activity,transverse_colon_male_adult_(54_years)-transverse_colon-adult-54-year--NA-,0.22926049787486671
++ TF activity,upper_lobe_of_left_lung_female_adult_(51_year)-upper_lobe_of_left_lung-adult-51-year--NA-,0.30111574803417895
++ TF activity,upper_lobe_of_left_lung_male_adult_(37_years)-upper_lobe_of_left_lung-adult-37-year--NA-,0.876747463332632
++ TF activity,uterus_female_adult_(53_years)-uterus-adult-53-year--NA-,0.24841178231216457
++ TF activity,vagina_female_adult_(53_years)-vagina-adult-53-year--NA-,0.46929858500320576
++ motif activity,adrenal_gland_embryo_(96_days)-adrenal_gland-embryonic-96-day--NA-,0.4009738182689608
++ motif activity,adrenal_gland_female_adult_(53_years)-adrenal_gland-adult-53-year--NA-,0.25786565003786865
++ motif activity,adrenal_gland_female_embryo_(108_days)-adrenal_gland-embryonic-108-day--NA-,0.400562615010923
++ motif activity,adrenal_gland_female_embryo_(85_days)-adrenal_gland-embryonic-85-day--NA-,0.34980268942670806
++ motif activity,adrenal_gland_male_embryo_(101_day)-adrenal_gland-embryonic-101-day--NA-,0.3439844851474852
++ motif activity,adrenal_gland_male_embryo_(108_days)-adrenal_gland-embryonic-108-day--NA-,0.3589941353234052
++ motif activity,astrocyte-astrocyte-unknown-unknown---NA-,0.523561862785654
++ motif activity,B_cell_male_adult_(37_years)-B_cell-adult-37-year--NA-,0.2458632590742699
++ motif activity,BE2C-BE2C-child-2-year--NA-,0.4150797898152789
++ motif activity,bipolar_neuron_originated_from_GM23338_treated_with_0.5_μg/mL_doxycycline_hyclate_for_4_days-bipolar_neuron-adult-53-year-doxycycline_hyclate-_4-day,0.35189457103246147
++ motif activity,CD14-positive_monocyte_female-CD14-positive_monocyte-unknown-unknown---NA-,0.5390188158888018
++ motif activity,CD14-positive_monocyte_male_adult_(37_years)-CD14-positive_monocyte-adult-37-year--NA-,0.6240700478854876
++ motif activity,CD4-positive_helper_T_cell_male_adult_(21_year)-CD4-positive_helper_T_cell-adult-21-year--NA-,0.2086724152040484
++ motif activity,CD4-positive_helper_T_cell_male_adult_(37_years)-CD4-positive_helper_T_cell-adult-37-year--NA-,0.2761022123638417
++ motif activity,CD8-positive_alpha-beta_T_cell_male_adult_(21_year)-CD8-positive_alpha-beta_T_cell-adult-21-year--NA-,0.23441382077691883
++ motif activity,epithelial_cell_of_proximal_tubule-epithelial_cell_of_proximal_tubule-unknown-unknown---NA-,0.6755683286751494
++ motif activity,esophagus_muscularis_mucosa_female_adult_(51_year)-esophagus_muscularis_mucosa-adult-51-year--NA-,0.5478475843437804
++ motif activity,esophagus_squamous_epithelium_male_adult_(37_years)-esophagus_squamous_epithelium-adult-37-year--NA-,0.8029493913000093
++ motif activity,fibroblast_of_arm_male_adult_(53_years)-fibroblast_of_arm-adult-53-year--NA-,0.5438849223225313
++ motif activity,fibroblast_of_lung_male_embryo_(12_weeks)-fibroblast_of_lung-embryonic-12-week--NA-,0.31249948588481957
++ motif activity,fibroblast_of_skin_of_abdomen_male_embryo_(97_days)-fibroblast_of_skin_of_abdomen-embryonic-97-day--NA-,0.5189835989267313
++ motif activity,forelimb_muscle_female_embryo_(108_days)-forelimb_muscle-embryonic-108-day--NA-,0.13724023761586204
++ motif activity,foreskin_fibroblast_male_newborn-foreskin_fibroblast-newborn-unknown---NA-,0.41894113960667245
++ motif activity,gastrocnemius_medialis_female_adult_(51_year)-gastrocnemius_medialis-adult-51-year--NA-,0.24648979499863227
++ motif activity,GM12878-GM12878-adult-unknown---NA-,0.47983388441231634
++ motif activity,GM23338_male_adult_(53_years)_originated_from_fibroblast_of_arm-GM23338-adult-53-year--NA-,0.26522654831976095
++ motif activity,H1-hESC-H1-hESC-embryonic-unknown---NA-,0.34080715576599185
++ motif activity,H7-hESC-H7-hESC-embryonic-unknown---NA-,0.42135543904276485
++ motif activity,heart_female_embryo_(91_day)-heart-embryonic-91-day--NA-,0.3179761257766206
++ motif activity,heart_left_ventricle_female_adult_(53_years)-heart_left_ventricle-adult-53-year--NA-,0.2624286977653541
++ motif activity,heart_male_embryo_(120_days)-heart-embryonic-120-day--NA-,0.3254941228909589
++ motif activity,hematopoietic_multipotent_progenitor_cell-hematopoietic_multipotent_progenitor_cell-unknown-unknown---NA-,0.4590796490376882
++ motif activity,HepG2-HepG2-child-15-year--NA-,0.5121761464878094
++ motif activity,hindlimb_muscle_male_embryo_(120_days)-hindlimb_muscle-embryonic-120-day--NA-,0.08477706759026905
++ motif activity,IMR-90_female_embryo_(16_weeks)-IMR-90-embryonic-16-week--NA-,0.40141055091838485
++ motif activity,Jurkat_clone_E61-Jurkat_clone_E61-child-14-year--NA-,0.41248152412870653
++ motif activity,K562-K562-adult-53-year--NA-,0.5702205983986389
++ motif activity,Karpas-422-Karpas-422-adult-72-year--NA-,0.2950796110497837
++ motif activity,keratinocyte_female-keratinocyte-unknown-unknown---NA-,0.6896705026703617
++ motif activity,kidney_female_embryo_(105_days)-kidney-embryonic-105-day--NA-,0.12211235161016067
++ motif activity,kidney_female_embryo_(108_days)-kidney-embryonic-108-day--NA-,0.0843420458284187
++ motif activity,kidney_female_embryo_(85_days)-kidney-embryonic-85-day--NA-,0.3415513760164097
++ motif activity,kidney_male_embryo_(87_days)-kidney-embryonic-87-day--NA-,0.2658849103779644
++ motif activity,large_intestine_female_embryo_(105_days)-large_intestine-embryonic-105-day--NA-,0.2283561735921107
++ motif activity,large_intestine_female_embryo_(120_days)-large_intestine-embryonic-120-day--NA-,0.15896083444242343
++ motif activity,large_intestine_female_embryo_(85_days)-large_intestine-embryonic-85-day--NA-,0.49622774499746786
++ motif activity,large_intestine_female_embryo_(98_days)-large_intestine-embryonic-98-day--NA-,0.11418505693804958
++ motif activity,large_intestine_male_embryo_(108_days)-large_intestine-embryonic-108-day--NA-,0.13275835521387136
++ motif activity,large_intestine_male_embryo_(115_days)-large_intestine-embryonic-115-day--NA-,0.1243254117107027
++ motif activity,large_intestine_male_embryo_(91_day)-large_intestine-embryonic-91-day--NA-,0.12437676261377938
++ motif activity,left_kidney_male_embryo_(96_days)-left_kidney-embryonic-96-day--NA-,0.1510432213252379
++ motif activity,left_lung_female_embryo_(105_days)-left_lung-embryonic-105-day--NA-,0.08049159801047359
++ motif activity,left_lung_female_embryo_(108_days)-left_lung-embryonic-108-day--NA-,0.16155263275240656
++ motif activity,left_lung_male_embryo_(105_days)-left_lung-embryonic-105-day--NA-,0.1137017465565597
++ motif activity,left_lung_male_embryo_(96_days)-left_lung-embryonic-96-day--NA-,0.08448764062790272
++ motif activity,left_renal_cortex_interstitium_male_embryo_(105_days)-left_renal_cortex_interstitium-embryonic-105-day--NA-,0.09301692941121263
++ motif activity,left_renal_cortex_interstitium_male_embryo_(120_days)-left_renal_cortex_interstitium-embryonic-120-day--NA-,0.10288557530252009
++ motif activity,left_renal_pelvis_male_embryo_(105_days)-left_renal_pelvis-embryonic-105-day--NA-,0.09003833247995223
++ motif activity,left_renal_pelvis_male_embryo_(120_days)-left_renal_pelvis-embryonic-120-day--NA-,0.2394646242728151
++ motif activity,lower_leg_skin_female_adult_(51_year)-lower_leg_skin-adult-51-year--NA-,0.342601276837905
++ motif activity,lower_leg_skin_female_adult_(53_years)-lower_leg_skin-adult-53-year--NA-,0.19334895491363788
++ motif activity,mammary_epithelial_cell_female-mammary_epithelial_cell-unknown-unknown---NA-,0.6127598323654104
++ motif activity,MCF-7-MCF-7-adult-69-year--NA-,0.5634364036810775
++ motif activity,muscle_of_arm_embryo_(101_day)-muscle_of_arm-embryonic-101-day--NA-,0.12621030665103397
++ motif activity,muscle_of_arm_female_embryo_(105_days)-muscle_of_arm-embryonic-105-day--NA-,0.04892932071275393
++ motif activity,muscle_of_arm_female_embryo_(120_days)-muscle_of_arm-embryonic-120-day--NA-,0.09799154246678932
++ motif activity,muscle_of_arm_female_embryo_(85_days)-muscle_of_arm-embryonic-85-day--NA-,0.0680807479159461
++ motif activity,muscle_of_arm_female_embryo_(98_days)-muscle_of_arm-embryonic-98-day--NA-,0.09085523667832816
++ motif activity,muscle_of_arm_male_embryo_(120_days)-muscle_of_arm-embryonic-120-day--NA-,0.07050764598015064
++ motif activity,muscle_of_arm_male_embryo_(91_day)-muscle_of_arm-embryonic-91-day--NA-,0.22737949311000125
++ motif activity,muscle_of_arm_male_embryo_(96_days)-muscle_of_arm-embryonic-96-day--NA-,0.2516017040256104
++ motif activity,muscle_of_arm_male_embryo_(97_days)-muscle_of_arm-embryonic-97-day--NA-,0.13176653235603827
++ motif activity,muscle_of_back_female_embryo_(105_days)-muscle_of_back-embryonic-105-day--NA-,0.04873103436577625
++ motif activity,muscle_of_back_female_embryo_(115_days)-muscle_of_back-embryonic-115-day--NA-,0.14336809663528344
++ motif activity,muscle_of_back_female_embryo_(85_days)-muscle_of_back-embryonic-85-day--NA-,0.10509960261345204
++ motif activity,muscle_of_back_female_embryo_(98_days)-muscle_of_back-embryonic-98-day--NA-,0.10821542006839135
++ motif activity,muscle_of_back_male_embryo_(101_day)-muscle_of_back-embryonic-101-day--NA-,0.08548655522958429
++ motif activity,muscle_of_back_male_embryo_(105_days)-muscle_of_back-embryonic-105-day--NA-,0.11140909436565306
++ motif activity,muscle_of_back_male_embryo_(127_days)-muscle_of_back-embryonic-127-day--NA-,0.13649245005331775
++ motif activity,muscle_of_back_male_embryo_(91_day)-muscle_of_back-embryonic-91-day--NA-,0.038830824799435976
++ motif activity,muscle_of_back_male_embryo_(96_days)-muscle_of_back-embryonic-96-day--NA-,0.08928354875959285
++ motif activity,muscle_of_back_male_embryo_(97_days)-muscle_of_back-embryonic-97-day--NA-,0.1300653751270073
++ motif activity,muscle_of_leg_female_embryo_(113_days)-muscle_of_leg-embryonic-113-day--NA-,0.1613106627580171
++ motif activity,muscle_of_leg_male_embryo_(101_day)-muscle_of_leg-embryonic-101-day--NA-,0.06764328353561047
++ motif activity,muscle_of_leg_male_embryo_(105_days)-muscle_of_leg-embryonic-105-day--NA-,0.1570791636464569
++ motif activity,muscle_of_leg_male_embryo_(113_days)-muscle_of_leg-embryonic-113-day--NA-,0.1107889245077543
++ motif activity,muscle_of_leg_male_embryo_(127_days)-muscle_of_leg-embryonic-127-day--NA-,0.11602154914734508
++ motif activity,muscle_of_leg_male_embryo_(96_days)-muscle_of_leg-embryonic-96-day--NA-,0.14659370240560535
++ motif activity,muscle_of_leg_male_embryo_(97_days)-muscle_of_leg-embryonic-97-day--NA-,0.07401709338632607
++ motif activity,muscle_of_trunk_female_embryo_(113_days)-muscle_of_trunk-embryonic-113-day--NA-,0.11178292949589494
++ motif activity,muscle_of_trunk_female_embryo_(120_days)-muscle_of_trunk-embryonic-120-day--NA-,0.16159457911135872
++ motif activity,neural_stem_progenitor_cell_originated_from_H1-hESC-neural_stem_progenitor_cell-embryonic-unknown---NA-,0.36323031356482377
++ motif activity,OCI-LY7-OCI-LY7-adult-48-year--NA-,0.26554074843269954
++ motif activity,omental_fat_pad_female_adult_(51_year)-omental_fat_pad-adult-51-year--NA-,0.22740161866553443
++ motif activity,ovary_female_adult_(30_years)-ovary-adult-30-year--NA-,0.3229528278824797
++ motif activity,ovary_female_adult_(53_years)-ovary-adult-53-year--NA-,0.26738003702553687
++ motif activity,ovary_female_embryo-ovary-embryonic-unknown---NA-,0.24640163872803358
++ motif activity,Panc1-Panc1-unknown-56-year--NA-,0.48415550810086494
++ motif activity,pancreas_female_adult_(30_years)-pancreas-adult-30-year--NA-,0.32803651444406806
++ motif activity,pancreas_male_adult_(34_years)-pancreas-adult-34-year--NA-,0.37468753174012415
++ motif activity,Peyer's_patch_female_adult_(53_years)-Peyer's_patch-adult-53-year--NA-,0.19388021448577084
++ motif activity,Peyer's_patch_male_adult_(37_years)-Peyer's_patch-adult-37-year--NA-,0.3114140783148303
++ motif activity,prostate_gland_male_adult_(37_years)-prostate_gland-adult-37-year--NA-,0.4572902837636318
++ motif activity,renal_cortex_interstitium_female_embryo_(120_days)-renal_cortex_interstitium-embryonic-120-day--NA-,0.10740784685869083
++ motif activity,renal_cortex_interstitium_male_embryo_(91_day)-renal_cortex_interstitium-embryonic-91-day--NA-,0.10250359286484126
++ motif activity,renal_cortex_interstitium_male_embryo_(97_days)-renal_cortex_interstitium-embryonic-97-day--NA-,0.10702303590000649
++ motif activity,renal_pelvis_female_embryo_(105_days)-renal_pelvis-embryonic-105-day--NA-,0.1289199002616941
++ motif activity,renal_pelvis_male_embryo_(91_day)-renal_pelvis-embryonic-91-day--NA-,0.10834758842830648
++ motif activity,renal_pelvis_male_embryo_(97_days)-renal_pelvis-embryonic-97-day--NA-,0.07604192204486697
++ motif activity,right_atrium_auricular_region_female_adult_(51_year)-right_atrium_auricular_region-adult-51-year--NA-,0.7321055125399378
++ motif activity,right_atrium_auricular_region_female_adult_(53_years)-right_atrium_auricular_region-adult-53-year--NA-,0.2994598622091966
++ motif activity,right_lobe_of_liver_female_adult_(53_years)-right_lobe_of_liver-adult-53-year--NA-,0.4332012972350324
++ motif activity,right_lung_female_embryo_(105_days)-right_lung-embryonic-105-day--NA-,0.0708966533265115
++ motif activity,right_lung_female_embryo_(108_days)-right_lung-embryonic-108-day--NA-,0.22153312063491942
++ motif activity,right_lung_female_embryo_(98_days)-right_lung-embryonic-98-day--NA-,0.08223799948850032
++ motif activity,right_lung_male_embryo_(105_days)-right_lung-embryonic-105-day--NA-,0.1028243002026049
++ motif activity,right_lung_male_embryo_(96_days)-right_lung-embryonic-96-day--NA-,0.1379944438517266
++ motif activity,right_renal_cortex_interstitium_male_embryo_(105_days)-right_renal_cortex_interstitium-embryonic-105-day--NA-,0.07826730783121454
++ motif activity,right_renal_cortex_interstitium_male_embryo_(120_days)-right_renal_cortex_interstitium-embryonic-120-day--NA-,0.08341544351339931
++ motif activity,right_renal_pelvis_male_embryo_(105_days)-right_renal_pelvis-embryonic-105-day--NA-,0.08594724848470615
++ motif activity,right_renal_pelvis_male_embryo_(120_days)-right_renal_pelvis-embryonic-120-day--NA-,0.07779006885634497
++ motif activity,skin_fibroblast_male_embryo_(97_days)-skin_fibroblast-embryonic-97-day--NA-,0.5420426756584935
++ motif activity,SK-N-SH_treated_with_6_μM_all-trans-retinoic_acid_for_48_hours-SK-N-SH-child-4-year-all-trans-retinoic_acid-48-hour,0.4744561186926853
++ motif activity,small_intestine_female_embryo_(108_days)-small_intestine-embryonic-108-day--NA-,0.18244933305191754
++ motif activity,small_intestine_female_embryo_(120_days)-small_intestine-embryonic-120-day--NA-,0.07767919122621099
++ motif activity,small_intestine_female_embryo_(98_days)-small_intestine-embryonic-98-day--NA-,0.09148077963559886
++ motif activity,small_intestine_male_embryo_(108_days)-small_intestine-embryonic-108-day--NA-,0.11489546660728084
++ motif activity,small_intestine_male_embryo_(115_days)-small_intestine-embryonic-115-day--NA-,0.5222642283467702
++ motif activity,small_intestine_male_embryo_(91_day)-small_intestine-embryonic-91-day--NA-,0.1654300600992826
++ motif activity,spinal_cord_female_embryo_(113_days)-spinal_cord-embryonic-113-day--NA-,0.25801083051726986
++ motif activity,spinal_cord_male_embryo_(105_days)-spinal_cord-embryonic-105-day--NA-,0.36257775420363947
++ motif activity,spinal_cord_male_embryo_(96_days)-spinal_cord-embryonic-96-day--NA-,0.288124755826782
++ motif activity,spleen_embryo_(112_days)-spleen-embryonic-112-day--NA-,0.3703845332279242
++ motif activity,spleen_male_adult_(54_years)-spleen-adult-54-year--NA-,0.7381087135193652
++ motif activity,stomach_embryo_(101_day)-stomach-embryonic-101-day--NA-,0.30608442113367457
++ motif activity,stomach_female_adult_(51_year)-stomach-adult-51-year--NA-,0.7133511302382481
++ motif activity,stomach_female_adult_(53_years)-stomach-adult-53-year--NA-,0.4780557790475314
++ motif activity,stomach_female_embryo_(105_days)-stomach-embryonic-105-day--NA-,0.22482798977750673
++ motif activity,stomach_female_embryo_(107_days)-stomach-embryonic-107-day--NA-,0.2240967547469705
++ motif activity,stomach_female_embryo_(108_days)-stomach-embryonic-108-day--NA-,0.31649261539237816
++ motif activity,stomach_female_embryo_(98_days)-stomach-embryonic-98-day--NA-,0.25454632906033076
++ motif activity,stomach_male_adult_(34_years)-stomach-adult-34-year--NA-,0.4744505849083306
++ motif activity,stomach_male_adult_(54_years)-stomach-adult-54-year--NA-,0.35871600323794794
++ motif activity,stomach_male_child_(3_years)-stomach-child-3-year--NA-,0.36203613324350403
++ motif activity,stomach_male_embryo_(127_days)-stomach-embryonic-127-day--NA-,0.20916452188536422
++ motif activity,T-cell_male_adult_(37_years)-T-cell-adult-37-year--NA-,0.22270463441055394
++ motif activity,testis_male_embryo-testis-embryonic-unknown---NA-,0.24341185357872708
++ motif activity,thoracic_aorta_male_adult_(54_years)-thoracic_aorta-adult-54-year--NA-,0.204843987158927
++ motif activity,thymus_female_embryo_(113_days)-thymus-embryonic-113-day--NA-,0.34418856765793987
++ motif activity,thymus_female_embryo_(98_days)-thymus-embryonic-98-day--NA-,0.2716087760643525
++ motif activity,thymus_male_embryo_(108_days)-thymus-embryonic-108-day--NA-,0.35229669599098784
++ motif activity,thymus_male_embryo_(113_days)-thymus-embryonic-113-day--NA-,0.36554043281295184
++ motif activity,thymus_male_embryo_(127_days)-thymus-embryonic-127-day--NA-,0.2613330996443755
++ motif activity,thymus_male_embryo_(97_days)-thymus-embryonic-97-day--NA-,0.37601262848455397
++ motif activity,thyroid_gland_female_adult_(51_year)-thyroid_gland-adult-51-year--NA-,0.42410961976785044
++ motif activity,thyroid_gland_female_adult_(53_years)-thyroid_gland-adult-53-year--NA-,0.2754519819020589
++ motif activity,tibial_nerve_female_adult_(51_year)-tibial_nerve-adult-51-year--NA-,0.6691745881216463
++ motif activity,tibial_nerve_female_adult_(53_years)-tibial_nerve-adult-53-year--NA-,0.20879768789062528
++ motif activity,tibial_nerve_male_adult_(37_years)-tibial_nerve-adult-37-year--NA-,0.3816683897065023
++ motif activity,transverse_colon_female_adult_(51_year)-transverse_colon-adult-51-year--NA-,0.24860346489639945
++ motif activity,transverse_colon_female_adult_(53_years)-transverse_colon-adult-53-year--NA-,0.34325324235637333
++ motif activity,transverse_colon_male_adult_(37_years)-transverse_colon-adult-37-year--NA-,0.3677218364633522
++ motif activity,transverse_colon_male_adult_(54_years)-transverse_colon-adult-54-year--NA-,0.22809532792483087
++ motif activity,upper_lobe_of_left_lung_female_adult_(51_year)-upper_lobe_of_left_lung-adult-51-year--NA-,0.2932549834506737
++ motif activity,upper_lobe_of_left_lung_male_adult_(37_years)-upper_lobe_of_left_lung-adult-37-year--NA-,0.8466305587667532
++ motif activity,uterus_female_adult_(53_years)-uterus-adult-53-year--NA-,0.2442571078693786
++ motif activity,vagina_female_adult_(53_years)-vagina-adult-53-year--NA-,0.4594802662689768
++ both,adrenal_gland_embryo_(96_days)-adrenal_gland-embryonic-96-day--NA-,0.39517091876252436
++ both,adrenal_gland_female_adult_(53_years)-adrenal_gland-adult-53-year--NA-,0.2548584350379826
++ both,adrenal_gland_female_embryo_(108_days)-adrenal_gland-embryonic-108-day--NA-,0.39483296813881713
++ both,adrenal_gland_female_embryo_(85_days)-adrenal_gland-embryonic-85-day--NA-,0.3512823075269715
++ both,adrenal_gland_male_embryo_(101_day)-adrenal_gland-embryonic-101-day--NA-,0.3384246528705192
++ both,adrenal_gland_male_embryo_(108_days)-adrenal_gland-embryonic-108-day--NA-,0.3552179553181031
++ both,astrocyte-astrocyte-unknown-unknown---NA-,0.48994297341842824
++ both,B_cell_male_adult_(37_years)-B_cell-adult-37-year--NA-,0.23266578014809
++ both,BE2C-BE2C-child-2-year--NA-,0.40856911990644396
++ both,bipolar_neuron_originated_from_GM23338_treated_with_0.5_μg/mL_doxycycline_hyclate_for_4_days-bipolar_neuron-adult-53-year-doxycycline_hyclate-_4-day,0.3229154624777145
++ both,CD14-positive_monocyte_female-CD14-positive_monocyte-unknown-unknown---NA-,0.5318906890517637
++ both,CD14-positive_monocyte_male_adult_(37_years)-CD14-positive_monocyte-adult-37-year--NA-,0.625846847718668
++ both,CD4-positive_helper_T_cell_male_adult_(21_year)-CD4-positive_helper_T_cell-adult-21-year--NA-,0.19892327197554752
++ both,CD4-positive_helper_T_cell_male_adult_(37_years)-CD4-positive_helper_T_cell-adult-37-year--NA-,0.27247478682210613
++ both,CD8-positive_alpha-beta_T_cell_male_adult_(21_year)-CD8-positive_alpha-beta_T_cell-adult-21-year--NA-,0.23664343651189632
++ both,epithelial_cell_of_proximal_tubule-epithelial_cell_of_proximal_tubule-unknown-unknown---NA-,0.6472012844763846
++ both,esophagus_muscularis_mucosa_female_adult_(51_year)-esophagus_muscularis_mucosa-adult-51-year--NA-,0.5253335152955717
++ both,esophagus_squamous_epithelium_male_adult_(37_years)-esophagus_squamous_epithelium-adult-37-year--NA-,0.7678606099767719
++ both,fibroblast_of_arm_male_adult_(53_years)-fibroblast_of_arm-adult-53-year--NA-,0.4464480646850044
++ both,fibroblast_of_lung_male_embryo_(12_weeks)-fibroblast_of_lung-embryonic-12-week--NA-,0.25764652882496075
++ both,fibroblast_of_skin_of_abdomen_male_embryo_(97_days)-fibroblast_of_skin_of_abdomen-embryonic-97-day--NA-,0.4733259606541088
++ both,forelimb_muscle_female_embryo_(108_days)-forelimb_muscle-embryonic-108-day--NA-,0.135014268601381
++ both,foreskin_fibroblast_male_newborn-foreskin_fibroblast-newborn-unknown---NA-,0.37633508596753895
++ both,gastrocnemius_medialis_female_adult_(51_year)-gastrocnemius_medialis-adult-51-year--NA-,0.24394568695588328
++ both,GM12878-GM12878-adult-unknown---NA-,0.4604925915124155
++ both,GM23338_male_adult_(53_years)_originated_from_fibroblast_of_arm-GM23338-adult-53-year--NA-,0.24532655645501736
++ both,H1-hESC-H1-hESC-embryonic-unknown---NA-,0.3113141092793977
++ both,H7-hESC-H7-hESC-embryonic-unknown---NA-,0.3970180852644491
++ both,heart_female_embryo_(91_day)-heart-embryonic-91-day--NA-,0.32924362157417786
++ both,heart_left_ventricle_female_adult_(53_years)-heart_left_ventricle-adult-53-year--NA-,0.24813145093339728
++ both,heart_male_embryo_(120_days)-heart-embryonic-120-day--NA-,0.3296212395859147
++ both,hematopoietic_multipotent_progenitor_cell-hematopoietic_multipotent_progenitor_cell-unknown-unknown---NA-,0.44476863679802436
++ both,HepG2-HepG2-child-15-year--NA-,0.5028793376050993
++ both,hindlimb_muscle_male_embryo_(120_days)-hindlimb_muscle-embryonic-120-day--NA-,0.07894040357220934
++ both,IMR-90_female_embryo_(16_weeks)-IMR-90-embryonic-16-week--NA-,0.3100063348086965
++ both,Jurkat_clone_E61-Jurkat_clone_E61-child-14-year--NA-,0.3997588062522951
++ both,K562-K562-adult-53-year--NA-,0.5542651304274778
++ both,Karpas-422-Karpas-422-adult-72-year--NA-,0.27088761897166885
++ both,keratinocyte_female-keratinocyte-unknown-unknown---NA-,0.6680697930186756
++ both,kidney_female_embryo_(105_days)-kidney-embryonic-105-day--NA-,0.1160218994607854
++ both,kidney_female_embryo_(108_days)-kidney-embryonic-108-day--NA-,0.08365806555981521
++ both,kidney_female_embryo_(85_days)-kidney-embryonic-85-day--NA-,0.33796998119713606
++ both,kidney_male_embryo_(87_days)-kidney-embryonic-87-day--NA-,0.2694590865749625
++ both,large_intestine_female_embryo_(105_days)-large_intestine-embryonic-105-day--NA-,0.22132924156155992
++ both,large_intestine_female_embryo_(120_days)-large_intestine-embryonic-120-day--NA-,0.13960208320957504
++ both,large_intestine_female_embryo_(85_days)-large_intestine-embryonic-85-day--NA-,0.46457124605075006
++ both,large_intestine_female_embryo_(98_days)-large_intestine-embryonic-98-day--NA-,0.10985757054628692
++ both,large_intestine_male_embryo_(108_days)-large_intestine-embryonic-108-day--NA-,0.11454014986707481
++ both,large_intestine_male_embryo_(115_days)-large_intestine-embryonic-115-day--NA-,0.11561416669886176
++ both,large_intestine_male_embryo_(91_day)-large_intestine-embryonic-91-day--NA-,0.11797187664124723
++ both,left_kidney_male_embryo_(96_days)-left_kidney-embryonic-96-day--NA-,0.14691160328980454
++ both,left_lung_female_embryo_(105_days)-left_lung-embryonic-105-day--NA-,0.07409265526478417
++ both,left_lung_female_embryo_(108_days)-left_lung-embryonic-108-day--NA-,0.1528826587851768
++ both,left_lung_male_embryo_(105_days)-left_lung-embryonic-105-day--NA-,0.11041606924565311
++ both,left_lung_male_embryo_(96_days)-left_lung-embryonic-96-day--NA-,0.0837990360447939
++ both,left_renal_cortex_interstitium_male_embryo_(105_days)-left_renal_cortex_interstitium-embryonic-105-day--NA-,0.0877983585322194
++ both,left_renal_cortex_interstitium_male_embryo_(120_days)-left_renal_cortex_interstitium-embryonic-120-day--NA-,0.10532842950131847
++ both,left_renal_pelvis_male_embryo_(105_days)-left_renal_pelvis-embryonic-105-day--NA-,0.09264169898237914
++ both,left_renal_pelvis_male_embryo_(120_days)-left_renal_pelvis-embryonic-120-day--NA-,0.2527540772693011
++ both,lower_leg_skin_female_adult_(51_year)-lower_leg_skin-adult-51-year--NA-,0.32511508474845985
++ both,lower_leg_skin_female_adult_(53_years)-lower_leg_skin-adult-53-year--NA-,0.1751759640668156
++ both,mammary_epithelial_cell_female-mammary_epithelial_cell-unknown-unknown---NA-,0.6044667560871413
++ both,MCF-7-MCF-7-adult-69-year--NA-,0.5549131118537459
++ both,muscle_of_arm_embryo_(101_day)-muscle_of_arm-embryonic-101-day--NA-,0.1168645462542274
++ both,muscle_of_arm_female_embryo_(105_days)-muscle_of_arm-embryonic-105-day--NA-,0.044212657072809504
++ both,muscle_of_arm_female_embryo_(120_days)-muscle_of_arm-embryonic-120-day--NA-,0.09323380608699784
++ both,muscle_of_arm_female_embryo_(85_days)-muscle_of_arm-embryonic-85-day--NA-,0.06391031622058223
++ both,muscle_of_arm_female_embryo_(98_days)-muscle_of_arm-embryonic-98-day--NA-,0.08791448079307729
++ both,muscle_of_arm_male_embryo_(120_days)-muscle_of_arm-embryonic-120-day--NA-,0.06732908967823556
++ both,muscle_of_arm_male_embryo_(91_day)-muscle_of_arm-embryonic-91-day--NA-,0.24396517113849725
++ both,muscle_of_arm_male_embryo_(96_days)-muscle_of_arm-embryonic-96-day--NA-,0.2455580213820677
++ both,muscle_of_arm_male_embryo_(97_days)-muscle_of_arm-embryonic-97-day--NA-,0.13713200018476537
++ both,muscle_of_back_female_embryo_(105_days)-muscle_of_back-embryonic-105-day--NA-,0.04753129526674649
++ both,muscle_of_back_female_embryo_(115_days)-muscle_of_back-embryonic-115-day--NA-,0.13717293845689427
++ both,muscle_of_back_female_embryo_(85_days)-muscle_of_back-embryonic-85-day--NA-,0.10616829885210573
++ both,muscle_of_back_female_embryo_(98_days)-muscle_of_back-embryonic-98-day--NA-,0.11102779152427229
++ both,muscle_of_back_male_embryo_(101_day)-muscle_of_back-embryonic-101-day--NA-,0.08504368498012328
++ both,muscle_of_back_male_embryo_(105_days)-muscle_of_back-embryonic-105-day--NA-,0.11269435952848927
++ both,muscle_of_back_male_embryo_(127_days)-muscle_of_back-embryonic-127-day--NA-,0.13208751354255177
++ both,muscle_of_back_male_embryo_(91_day)-muscle_of_back-embryonic-91-day--NA-,0.037630360922563014
++ both,muscle_of_back_male_embryo_(96_days)-muscle_of_back-embryonic-96-day--NA-,0.08747328616239262
++ both,muscle_of_back_male_embryo_(97_days)-muscle_of_back-embryonic-97-day--NA-,0.1285822844909664
++ both,muscle_of_leg_female_embryo_(113_days)-muscle_of_leg-embryonic-113-day--NA-,0.1518405709782065
++ both,muscle_of_leg_male_embryo_(101_day)-muscle_of_leg-embryonic-101-day--NA-,0.06718506784387195
++ both,muscle_of_leg_male_embryo_(105_days)-muscle_of_leg-embryonic-105-day--NA-,0.14393813446041198
++ both,muscle_of_leg_male_embryo_(113_days)-muscle_of_leg-embryonic-113-day--NA-,0.10518734760738423
++ both,muscle_of_leg_male_embryo_(127_days)-muscle_of_leg-embryonic-127-day--NA-,0.1100360840412774
++ both,muscle_of_leg_male_embryo_(96_days)-muscle_of_leg-embryonic-96-day--NA-,0.14323443733469277
++ both,muscle_of_leg_male_embryo_(97_days)-muscle_of_leg-embryonic-97-day--NA-,0.07177168723094825
++ both,muscle_of_trunk_female_embryo_(113_days)-muscle_of_trunk-embryonic-113-day--NA-,0.11668160847053259
++ both,muscle_of_trunk_female_embryo_(120_days)-muscle_of_trunk-embryonic-120-day--NA-,0.16392460189259433
++ both,neural_stem_progenitor_cell_originated_from_H1-hESC-neural_stem_progenitor_cell-embryonic-unknown---NA-,0.3358138336710375
++ both,OCI-LY7-OCI-LY7-adult-48-year--NA-,0.2530299300208417
++ both,omental_fat_pad_female_adult_(51_year)-omental_fat_pad-adult-51-year--NA-,0.24319186887481095
++ both,ovary_female_adult_(30_years)-ovary-adult-30-year--NA-,0.31828904983918144
++ both,ovary_female_adult_(53_years)-ovary-adult-53-year--NA-,0.26480737163303114
++ both,ovary_female_embryo-ovary-embryonic-unknown---NA-,0.24245220986366509
++ both,Panc1-Panc1-unknown-56-year--NA-,0.48815558973745965
++ both,pancreas_female_adult_(30_years)-pancreas-adult-30-year--NA-,0.3307007839026257
++ both,pancreas_male_adult_(34_years)-pancreas-adult-34-year--NA-,0.3780529258124279
++ both,Peyer's_patch_female_adult_(53_years)-Peyer's_patch-adult-53-year--NA-,0.18519014280647203
++ both,Peyer's_patch_male_adult_(37_years)-Peyer's_patch-adult-37-year--NA-,0.3028328065722837
++ both,prostate_gland_male_adult_(37_years)-prostate_gland-adult-37-year--NA-,0.4837226560693677
++ both,renal_cortex_interstitium_female_embryo_(120_days)-renal_cortex_interstitium-embryonic-120-day--NA-,0.10392540474923719
++ both,renal_cortex_interstitium_male_embryo_(91_day)-renal_cortex_interstitium-embryonic-91-day--NA-,0.1002608213142248
++ both,renal_cortex_interstitium_male_embryo_(97_days)-renal_cortex_interstitium-embryonic-97-day--NA-,0.1083188451025118
++ both,renal_pelvis_female_embryo_(105_days)-renal_pelvis-embryonic-105-day--NA-,0.12850512196125166
++ both,renal_pelvis_male_embryo_(91_day)-renal_pelvis-embryonic-91-day--NA-,0.10627843380347803
++ both,renal_pelvis_male_embryo_(97_days)-renal_pelvis-embryonic-97-day--NA-,0.07465554439879935
++ both,right_atrium_auricular_region_female_adult_(51_year)-right_atrium_auricular_region-adult-51-year--NA-,0.6715409197509186
++ both,right_atrium_auricular_region_female_adult_(53_years)-right_atrium_auricular_region-adult-53-year--NA-,0.2832782950711405
++ both,right_lobe_of_liver_female_adult_(53_years)-right_lobe_of_liver-adult-53-year--NA-,0.49012653994376576
++ both,right_lung_female_embryo_(105_days)-right_lung-embryonic-105-day--NA-,0.0684990648015491
++ both,right_lung_female_embryo_(108_days)-right_lung-embryonic-108-day--NA-,0.1904342253125884
++ both,right_lung_female_embryo_(98_days)-right_lung-embryonic-98-day--NA-,0.07236028990183704
++ both,right_lung_male_embryo_(105_days)-right_lung-embryonic-105-day--NA-,0.0984395001682681
++ both,right_lung_male_embryo_(96_days)-right_lung-embryonic-96-day--NA-,0.13386639251203797
++ both,right_renal_cortex_interstitium_male_embryo_(105_days)-right_renal_cortex_interstitium-embryonic-105-day--NA-,0.07527325549633113
++ both,right_renal_cortex_interstitium_male_embryo_(120_days)-right_renal_cortex_interstitium-embryonic-120-day--NA-,0.07997447662023405
++ both,right_renal_pelvis_male_embryo_(105_days)-right_renal_pelvis-embryonic-105-day--NA-,0.08571210049835769
++ both,right_renal_pelvis_male_embryo_(120_days)-right_renal_pelvis-embryonic-120-day--NA-,0.075548356231749
++ both,skin_fibroblast_male_embryo_(97_days)-skin_fibroblast-embryonic-97-day--NA-,0.5227714109518198
++ both,SK-N-SH_treated_with_6_μM_all-trans-retinoic_acid_for_48_hours-SK-N-SH-child-4-year-all-trans-retinoic_acid-48-hour,0.4540291476177168
++ both,small_intestine_female_embryo_(108_days)-small_intestine-embryonic-108-day--NA-,0.16530105573583997
++ both,small_intestine_female_embryo_(120_days)-small_intestine-embryonic-120-day--NA-,0.06691224842786503
++ both,small_intestine_female_embryo_(98_days)-small_intestine-embryonic-98-day--NA-,0.088524562216714
++ both,small_intestine_male_embryo_(108_days)-small_intestine-embryonic-108-day--NA-,0.12798466262252803
++ both,small_intestine_male_embryo_(115_days)-small_intestine-embryonic-115-day--NA-,0.4832033025183457
++ both,small_intestine_male_embryo_(91_day)-small_intestine-embryonic-91-day--NA-,0.15551136367379775
++ both,spinal_cord_female_embryo_(113_days)-spinal_cord-embryonic-113-day--NA-,0.25211727037752124
++ both,spinal_cord_male_embryo_(105_days)-spinal_cord-embryonic-105-day--NA-,0.3555875294172221
++ both,spinal_cord_male_embryo_(96_days)-spinal_cord-embryonic-96-day--NA-,0.2852420757912436
++ both,spleen_embryo_(112_days)-spleen-embryonic-112-day--NA-,0.3645149394682537
++ both,spleen_male_adult_(54_years)-spleen-adult-54-year--NA-,0.7085467213105452
++ both,stomach_embryo_(101_day)-stomach-embryonic-101-day--NA-,0.32000600688361747
++ both,stomach_female_adult_(51_year)-stomach-adult-51-year--NA-,0.7001455681262382
++ both,stomach_female_adult_(53_years)-stomach-adult-53-year--NA-,0.485569801610918
++ both,stomach_female_embryo_(105_days)-stomach-embryonic-105-day--NA-,0.21874394476065817
++ both,stomach_female_embryo_(107_days)-stomach-embryonic-107-day--NA-,0.2256283782123483
++ both,stomach_female_embryo_(108_days)-stomach-embryonic-108-day--NA-,0.322026310887874
++ both,stomach_female_embryo_(98_days)-stomach-embryonic-98-day--NA-,0.2667279626205669
++ both,stomach_male_adult_(34_years)-stomach-adult-34-year--NA-,0.4866567008287785
++ both,stomach_male_adult_(54_years)-stomach-adult-54-year--NA-,0.33019062335159
++ both,stomach_male_child_(3_years)-stomach-child-3-year--NA-,0.37774482801165826
++ both,stomach_male_embryo_(127_days)-stomach-embryonic-127-day--NA-,0.21275230405956527
++ both,T-cell_male_adult_(37_years)-T-cell-adult-37-year--NA-,0.20172942058057344
++ both,testis_male_embryo-testis-embryonic-unknown---NA-,0.2369087829909429
++ both,thoracic_aorta_male_adult_(54_years)-thoracic_aorta-adult-54-year--NA-,0.20382424026308585
++ both,thymus_female_embryo_(113_days)-thymus-embryonic-113-day--NA-,0.3660504664144125
++ both,thymus_female_embryo_(98_days)-thymus-embryonic-98-day--NA-,0.2964679444877112
++ both,thymus_male_embryo_(108_days)-thymus-embryonic-108-day--NA-,0.3730389192237332
++ both,thymus_male_embryo_(113_days)-thymus-embryonic-113-day--NA-,0.38662182224924996
++ both,thymus_male_embryo_(127_days)-thymus-embryonic-127-day--NA-,0.2756811789099538
++ both,thymus_male_embryo_(97_days)-thymus-embryonic-97-day--NA-,0.3601958171822182
++ both,thyroid_gland_female_adult_(51_year)-thyroid_gland-adult-51-year--NA-,0.41179659040460653
++ both,thyroid_gland_female_adult_(53_years)-thyroid_gland-adult-53-year--NA-,0.2594677652213682
++ both,tibial_nerve_female_adult_(51_year)-tibial_nerve-adult-51-year--NA-,0.6442087068078186
++ both,tibial_nerve_female_adult_(53_years)-tibial_nerve-adult-53-year--NA-,0.2058421762661615
++ both,tibial_nerve_male_adult_(37_years)-tibial_nerve-adult-37-year--NA-,0.364154048039753
++ both,transverse_colon_female_adult_(51_year)-transverse_colon-adult-51-year--NA-,0.2372384674044355
++ both,transverse_colon_female_adult_(53_years)-transverse_colon-adult-53-year--NA-,0.36180380244268545
++ both,transverse_colon_male_adult_(37_years)-transverse_colon-adult-37-year--NA-,0.3741095439394865
++ both,transverse_colon_male_adult_(54_years)-transverse_colon-adult-54-year--NA-,0.22209261243756875
++ both,upper_lobe_of_left_lung_female_adult_(51_year)-upper_lobe_of_left_lung-adult-51-year--NA-,0.2741157553522835
++ both,upper_lobe_of_left_lung_male_adult_(37_years)-upper_lobe_of_left_lung-adult-37-year--NA-,0.8098918085152539
++ both,uterus_female_adult_(53_years)-uterus-adult-53-year--NA-,0.2418607243284069
++ both,vagina_female_adult_(53_years)-vagina-adult-53-year--NA-,0.4437439601568966

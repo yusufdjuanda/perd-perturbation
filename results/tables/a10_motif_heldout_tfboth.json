@@ -1,0 +1,85 @@
+{
+  "variant": "tfboth",
+  "archetypes_with_activity": 191,
+  "enhancers_with_motif_inputs": 106247,
+  "motif_inputs_per_enhancer": {
+    "count": 120100.0,
+    "mean": 7.39,
+    "std": 6.24,
+    "min": 0.0,
+    "25%": 2.0,
+    "50%": 6.0,
+    "75%": 11.0,
+    "max": 20.0
+  },
+  "inputs_per_enhancer_median": 27.0,
+  "tissue_grouped_rf": {
+    "cross_cell_pearson_median": 0.5605749449124573,
+    "cross_cell_pearson_mean": 0.5378243441713956,
+    "fraction_enhancers_cross_cell_above_0.5": 0.6284429641965029,
+    "cross_enhancer_pearson_median": 0.8786468813098355,
+    "pooled_nspe": 0.25495918616166,
+    "n_enhancers": 120100,
+    "n_cells": 167
+  },
+  "tfboth_minus_frozen_rf": {
+    "per_cell_r": {
+      "mean_diff": 0.01995822601020336,
+      "ci": [
+        0.01648087289649993,
+        0.024586436199024335
+      ]
+    },
+    "per_cell_nspe": {
+      "mean_diff": -0.037656020373106,
+      "ci": [
+        -0.047073770267888906,
+        -0.030531750619411463
+      ]
+    },
+    "cross_cell": {
+      "median_r_variant": 0.5605748891830444,
+      "median_r_other": 0.47632676362991333,
+      "frac_above_0.5_variant": 0.6284429641965029,
+      "frac_above_0.5_other": 0.453721898417985,
+      "median_r_diff_ci": [
+        0.06606083661317826,
+        0.10312153398990631
+      ],
+      "frac_diff_ci": [
+        0.12174094504579516,
+        0.20348959200666117
+      ]
+    }
+  },
+  "tfboth_minus_tfadd_rf": {
+    "per_cell_r": {
+      "mean_diff": 0.009751440025866032,
+      "ci": [
+        0.00857381777605042,
+        0.011184411437716335
+      ]
+    },
+    "per_cell_nspe": {
+      "mean_diff": -0.018503516912460327,
+      "ci": [
+        -0.02155566301662475,
+        -0.016039295960217713
+      ]
+    },
+    "cross_cell": {
+      "median_r_variant": 0.5605748891830444,
+      "median_r_other": 0.523999810218811,
+      "frac_above_0.5_variant": 0.6284429641965029,
+      "frac_above_0.5_other": 0.5486594504579517,
+      "median_r_diff_ci": [
+        0.030350565165281295,
+        0.043927720561623584
+      ],
+      "frac_diff_ci": [
+        0.058516548709408825,
+        0.09185720233139046
+      ]
+    }
+  }
+}

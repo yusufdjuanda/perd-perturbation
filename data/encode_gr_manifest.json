@@ -1,0 +1,115 @@
+{
+  "retrieved_at": "2026-10-04T17:07:23.312028+00:00",
+  "files": [
+    {
+      "time_h": 0.5,
+      "experiment": "ENCSR773NQB",
+      "file_accession": "ENCFF713AWP",
+      "candidates": 1,
+      "preferred_default": null,
+      "size_bytes": 351525,
+      "md5sum": "b65b8ef8b6f9e2e5ddd40b29ec63058d",
+      "url": "https://www.encodeproject.org/files/ENCFF713AWP/@@download/ENCFF713AWP.bed.gz"
+    },
+    {
+      "time_h": 1,
+      "experiment": "ENCSR919OXR",
+      "file_accession": "ENCFF785KWY",
+      "candidates": 1,
+      "preferred_default": null,
+      "size_bytes": 304182,
+      "md5sum": "0b6d978797be0ee7031ffb1c475dd610",
+      "url": "https://www.encodeproject.org/files/ENCFF785KWY/@@download/ENCFF785KWY.bed.gz"
+    },
+    {
+      "time_h": 2,
+      "experiment": "ENCSR720DXT",
+      "file_accession": "ENCFF950OFV",
+      "candidates": 1,
+      "preferred_default": null,
+      "size_bytes": 292189,
+      "md5sum": "eb9c0639e4c160406a56c9b36df3b968",
+      "url": "https://www.encodeproject.org/files/ENCFF950OFV/@@download/ENCFF950OFV.bed.gz"
+    },
+    {
+      "time_h": 3,
+      "experiment": "ENCSR385RUW",
+      "file_accession": "ENCFF388MYB",
+      "candidates": 1,
+      "preferred_default": true,
+      "size_bytes": 222955,
+      "md5sum": "058e6186983d1a552524c1c081809e6b",
+      "url": "https://www.encodeproject.org/files/ENCFF388MYB/@@download/ENCFF388MYB.bed.gz"
+    },
+    {
+      "time_h": 4,
+      "experiment": "ENCSR660RYY",
+      "file_accession": "ENCFF995VAB",
+      "candidates": 1,
+      "preferred_default": true,
+      "size_bytes": 139201,
+      "md5sum": "c91a50a4ba35d9e445892e33ea9b12a2",
+      "url": "https://www.encodeproject.org/files/ENCFF995VAB/@@download/ENCFF995VAB.bed.gz"
+    },
+    {
+      "time_h": 5,
+      "experiment": "ENCSR686PFM",
+      "file_accession": "ENCFF091TWP",
+      "candidates": 1,
+      "preferred_default": null,
+      "size_bytes": 146183,
+      "md5sum": "30c8a48836a33b3b6b1fb2bc856b20e0",
+      "url": "https://www.encodeproject.org/files/ENCFF091TWP/@@download/ENCFF091TWP.bed.gz"
+    },
+    {
+      "time_h": 6,
+      "experiment": "ENCSR424JOE",
+      "file_accession": "ENCFF861UYA",
+      "candidates": 1,
+      "preferred_default": true,
+      "size_bytes": 152322,
+      "md5sum": "86f4499e3bca7ad6bf93aac2134a9ce0",
+      "url": "https://www.encodeproject.org/files/ENCFF861UYA/@@download/ENCFF861UYA.bed.gz"
+    },
+    {
+      "time_h": 7,
+      "experiment": "ENCSR952GOL",
+      "file_accession": "ENCFF828ELT",
+      "candidates": 1,
+      "preferred_default": null,
+      "size_bytes": 150758,
+      "md5sum": "2dfeb0d066e1de4a3e6a287b7882cbca",
+      "url": "https://www.encodeproject.org/files/ENCFF828ELT/@@download/ENCFF828ELT.bed.gz"
+    },
+    {
+      "time_h": 8,
+      "experiment": "ENCSR691GRA",
+      "file_accession": "ENCFF056BEL",
+      "candidates": 1,
+      "preferred_default": null,
+      "size_bytes": 118233,
+      "md5sum": "bcc38743f3040f3ea8e7c7ec64abc4f0",
+      "url": "https://www.encodeproject.org/files/ENCFF056BEL/@@download/ENCFF056BEL.bed.gz"
+    },
+    {
+      "time_h": 10,
+      "experiment": "ENCSR255CTA",
+      "file_accession": "ENCFF393WOX",
+      "candidates": 1,
+      "preferred_default": true,
+      "size_bytes": 100857,
+      "md5sum": "def71b6a2394b009864f7e1b4304ca3b",
+      "url": "https://www.encodeproject.org/files/ENCFF393WOX/@@download/ENCFF393WOX.bed.gz"
+    },
+    {
+      "time_h": 12,
+      "experiment": "ENCSR287FWE",
+      "file_accession": "ENCFF567KLR",
+      "candidates": 1,
+      "preferred_default": true,
+      "size_bytes": 139980,
+      "md5sum": "e8d34f45e3922c02c61f8c008bb53591",
+      "url": "https://www.encodeproject.org/files/ENCFF567KLR/@@download/ENCFF567KLR.bed.gz"
+    }
+  ]
+}

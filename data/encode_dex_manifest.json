@@ -1,0 +1,1945 @@
+{
+  "schema_version": 1,
+  "retrieved_at": "2026-10-04T12:37:35.009697+00:00",
+  "source": "https://www.encodeproject.org",
+  "series": [
+    {
+      "time_h": 0,
+      "dnase_experiment": "ENCSR136DNA",
+      "rna_experiment": "ENCSR632DQP"
+    },
+    {
+      "time_h": 0.5,
+      "dnase_experiment": "ENCSR406EMB",
+      "rna_experiment": "ENCSR070IYV"
+    },
+    {
+      "time_h": 1,
+      "dnase_experiment": "ENCSR384KCZ",
+      "rna_experiment": "ENCSR656FIH"
+    },
+    {
+      "time_h": 2,
+      "dnase_experiment": "ENCSR837VHE",
+      "rna_experiment": "ENCSR924BHF"
+    },
+    {
+      "time_h": 3,
+      "dnase_experiment": "ENCSR294XUZ",
+      "rna_experiment": "ENCSR624RID"
+    },
+    {
+      "time_h": 4,
+      "dnase_experiment": "ENCSR599WJC",
+      "rna_experiment": "ENCSR326PTW"
+    },
+    {
+      "time_h": 5,
+      "dnase_experiment": "ENCSR565WPR",
+      "rna_experiment": "ENCSR543QRU"
+    },
+    {
+      "time_h": 6,
+      "dnase_experiment": "ENCSR077EYC",
+      "rna_experiment": "ENCSR255VBV"
+    },
+    {
+      "time_h": 7,
+      "dnase_experiment": "ENCSR347CEH",
+      "rna_experiment": "ENCSR385TFN"
+    },
+    {
+      "time_h": 8,
+      "dnase_experiment": "ENCSR660OQE",
+      "rna_experiment": "ENCSR546PPG"
+    },
+    {
+      "time_h": 10,
+      "dnase_experiment": "ENCSR128IVG",
+      "rna_experiment": "ENCSR224PTG"
+    },
+    {
+      "time_h": 12,
+      "dnase_experiment": "ENCSR523FJT",
+      "rna_experiment": "ENCSR154TDP"
+    }
+  ],
+  "files": [
+    {
+      "time_h": 0,
+      "assay": "DNase",
+      "experiment": "ENCSR136DNA",
+      "file_accession": "ENCFF186FMX",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 529391114,
+      "md5sum": "696a5fc8bcc2058422e2eaf7cfa90d0c",
+      "url": "https://www.encodeproject.org/files/ENCFF186FMX/@@download/ENCFF186FMX.bigWig"
+    },
+    {
+      "time_h": 0,
+      "assay": "DNase",
+      "experiment": "ENCSR136DNA",
+      "file_accession": "ENCFF140KUP",
+      "biological_replicate": 3,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 566129017,
+      "md5sum": "77480017bc118a8f1f9261c55ef12d40",
+      "url": "https://www.encodeproject.org/files/ENCFF140KUP/@@download/ENCFF140KUP.bigWig"
+    },
+    {
+      "time_h": 0,
+      "assay": "DNase",
+      "experiment": "ENCSR136DNA",
+      "file_accession": "ENCFF670EQW",
+      "biological_replicate": 4,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 552536166,
+      "md5sum": "ad78804f6eb2e5707034bcb5a1bb3490",
+      "url": "https://www.encodeproject.org/files/ENCFF670EQW/@@download/ENCFF670EQW.bigWig"
+    },
+    {
+      "time_h": 0,
+      "assay": "DNase",
+      "experiment": "ENCSR136DNA",
+      "file_accession": "ENCFF331GTJ",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 576225222,
+      "md5sum": "19402ee0a5f94b9563ccfa151d8aae22",
+      "url": "https://www.encodeproject.org/files/ENCFF331GTJ/@@download/ENCFF331GTJ.bigWig"
+    },
+    {
+      "time_h": 0,
+      "assay": "RNA",
+      "experiment": "ENCSR632DQP",
+      "file_accession": "ENCFF285BTU",
+      "biological_replicate": 1,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11164799,
+      "md5sum": "f830b49709407f7ec2837d8dd73ce5eb",
+      "url": "https://www.encodeproject.org/files/ENCFF285BTU/@@download/ENCFF285BTU.tsv"
+    },
+    {
+      "time_h": 0,
+      "assay": "RNA",
+      "experiment": "ENCSR632DQP",
+      "file_accession": "ENCFF904PCS",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11114009,
+      "md5sum": "c5e405e226216c9b55d8a2d21bc37b65",
+      "url": "https://www.encodeproject.org/files/ENCFF904PCS/@@download/ENCFF904PCS.tsv"
+    },
+    {
+      "time_h": 0,
+      "assay": "RNA",
+      "experiment": "ENCSR632DQP",
+      "file_accession": "ENCFF360GXF",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11150863,
+      "md5sum": "0097207b6da9b3f4287d964c59740034",
+      "url": "https://www.encodeproject.org/files/ENCFF360GXF/@@download/ENCFF360GXF.tsv"
+    },
+    {
+      "time_h": 0,
+      "assay": "RNA",
+      "experiment": "ENCSR632DQP",
+      "file_accession": "ENCFF233CZT",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11120595,
+      "md5sum": "197f168b3e4fd593e0e94ff2bdfa8ac1",
+      "url": "https://www.encodeproject.org/files/ENCFF233CZT/@@download/ENCFF233CZT.tsv"
+    },
+    {
+      "time_h": 0.5,
+      "assay": "DNase",
+      "experiment": "ENCSR406EMB",
+      "file_accession": "ENCFF086NJH",
+      "biological_replicate": 1,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 546305136,
+      "md5sum": "2ea1e74d435a19ef5fbf826584c35142",
+      "url": "https://www.encodeproject.org/files/ENCFF086NJH/@@download/ENCFF086NJH.bigWig"
+    },
+    {
+      "time_h": 0.5,
+      "assay": "DNase",
+      "experiment": "ENCSR406EMB",
+      "file_accession": "ENCFF891LTF",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 553566910,
+      "md5sum": "f346aa3dacba02086fb5af025558112e",
+      "url": "https://www.encodeproject.org/files/ENCFF891LTF/@@download/ENCFF891LTF.bigWig"
+    },
+    {
+      "time_h": 0.5,
+      "assay": "DNase",
+      "experiment": "ENCSR406EMB",
+      "file_accession": "ENCFF358DJD",
+      "biological_replicate": 3,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 584517669,
+      "md5sum": "e2157e2a63f04cf1d687965ff8e19006",
+      "url": "https://www.encodeproject.org/files/ENCFF358DJD/@@download/ENCFF358DJD.bigWig"
+    },
+    {
+      "time_h": 0.5,
+      "assay": "DNase",
+      "experiment": "ENCSR406EMB",
+      "file_accession": "ENCFF910WWE",
+      "biological_replicate": 4,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 559876441,
+      "md5sum": "85671499f2bf26661c67e96a6b70f0a6",
+      "url": "https://www.encodeproject.org/files/ENCFF910WWE/@@download/ENCFF910WWE.bigWig"
+    },
+    {
+      "time_h": 0.5,
+      "assay": "DNase",
+      "experiment": "ENCSR406EMB",
+      "file_accession": "ENCFF589VDH",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 576473431,
+      "md5sum": "ecb6e2fea74de3e45dfce4d8141b03be",
+      "url": "https://www.encodeproject.org/files/ENCFF589VDH/@@download/ENCFF589VDH.bigWig"
+    },
+    {
+      "time_h": 0.5,
+      "assay": "RNA",
+      "experiment": "ENCSR070IYV",
+      "file_accession": "ENCFF056CBC",
+      "biological_replicate": 1,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11133594,
+      "md5sum": "ca8b3508e92daee3be67082c5bb35db7",
+      "url": "https://www.encodeproject.org/files/ENCFF056CBC/@@download/ENCFF056CBC.tsv"
+    },
+    {
+      "time_h": 0.5,
+      "assay": "RNA",
+      "experiment": "ENCSR070IYV",
+      "file_accession": "ENCFF041YON",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11105915,
+      "md5sum": "94c64ad33acf28ef75ce19d7fa558d32",
+      "url": "https://www.encodeproject.org/files/ENCFF041YON/@@download/ENCFF041YON.tsv"
+    },
+    {
+      "time_h": 0.5,
+      "assay": "RNA",
+      "experiment": "ENCSR070IYV",
+      "file_accession": "ENCFF946FLW",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11137832,
+      "md5sum": "c6f4df93f8bbc6093ec1ba21c43c6b4d",
+      "url": "https://www.encodeproject.org/files/ENCFF946FLW/@@download/ENCFF946FLW.tsv"
+    },
+    {
+      "time_h": 0.5,
+      "assay": "RNA",
+      "experiment": "ENCSR070IYV",
+      "file_accession": "ENCFF043BUG",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11087465,
+      "md5sum": "d8d06d6bf1427c0e893acd1da0b36f53",
+      "url": "https://www.encodeproject.org/files/ENCFF043BUG/@@download/ENCFF043BUG.tsv"
+    },
+    {
+      "time_h": 1,
+      "assay": "DNase",
+      "experiment": "ENCSR384KCZ",
+      "file_accession": "ENCFF881OGF",
+      "biological_replicate": 1,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 559310588,
+      "md5sum": "42c72b4390f4876599073f3a8b4c7cf0",
+      "url": "https://www.encodeproject.org/files/ENCFF881OGF/@@download/ENCFF881OGF.bigWig"
+    },
+    {
+      "time_h": 1,
+      "assay": "DNase",
+      "experiment": "ENCSR384KCZ",
+      "file_accession": "ENCFF564FAR",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 550862633,
+      "md5sum": "2ac2d6f185d84a607730afb06ea4a1b1",
+      "url": "https://www.encodeproject.org/files/ENCFF564FAR/@@download/ENCFF564FAR.bigWig"
+    },
+    {
+      "time_h": 1,
+      "assay": "DNase",
+      "experiment": "ENCSR384KCZ",
+      "file_accession": "ENCFF674WCO",
+      "biological_replicate": 3,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 584334826,
+      "md5sum": "ff1ec9368270c7bae6439ec8340a935a",
+      "url": "https://www.encodeproject.org/files/ENCFF674WCO/@@download/ENCFF674WCO.bigWig"
+    },
+    {
+      "time_h": 1,
+      "assay": "DNase",
+      "experiment": "ENCSR384KCZ",
+      "file_accession": "ENCFF767ZHH",
+      "biological_replicate": 4,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 560962257,
+      "md5sum": "0c27a662fa23ca7b479a99e8a6b128f5",
+      "url": "https://www.encodeproject.org/files/ENCFF767ZHH/@@download/ENCFF767ZHH.bigWig"
+    },
+    {
+      "time_h": 1,
+      "assay": "DNase",
+      "experiment": "ENCSR384KCZ",
+      "file_accession": "ENCFF833EHX",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 584080928,
+      "md5sum": "ce7fea01b31f9822ef41ce38b91c5a8f",
+      "url": "https://www.encodeproject.org/files/ENCFF833EHX/@@download/ENCFF833EHX.bigWig"
+    },
+    {
+      "time_h": 1,
+      "assay": "RNA",
+      "experiment": "ENCSR656FIH",
+      "file_accession": "ENCFF651JQZ",
+      "biological_replicate": 1,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11088435,
+      "md5sum": "62c3b6df6545e19284826159a3e54795",
+      "url": "https://www.encodeproject.org/files/ENCFF651JQZ/@@download/ENCFF651JQZ.tsv"
+    },
+    {
+      "time_h": 1,
+      "assay": "RNA",
+      "experiment": "ENCSR656FIH",
+      "file_accession": "ENCFF544ZBB",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11103552,
+      "md5sum": "4cbc54bf6ffb3710a9e3fc26484ff6d4",
+      "url": "https://www.encodeproject.org/files/ENCFF544ZBB/@@download/ENCFF544ZBB.tsv"
+    },
+    {
+      "time_h": 1,
+      "assay": "RNA",
+      "experiment": "ENCSR656FIH",
+      "file_accession": "ENCFF898JZT",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11113171,
+      "md5sum": "9710b7288bbf1e7e9bd31dca2a115161",
+      "url": "https://www.encodeproject.org/files/ENCFF898JZT/@@download/ENCFF898JZT.tsv"
+    },
+    {
+      "time_h": 1,
+      "assay": "RNA",
+      "experiment": "ENCSR656FIH",
+      "file_accession": "ENCFF239SPX",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11085927,
+      "md5sum": "c86276c35b670b94e9116ebfbefb369e",
+      "url": "https://www.encodeproject.org/files/ENCFF239SPX/@@download/ENCFF239SPX.tsv"
+    },
+    {
+      "time_h": 2,
+      "assay": "DNase",
+      "experiment": "ENCSR837VHE",
+      "file_accession": "ENCFF469BXZ",
+      "biological_replicate": 1,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 554407837,
+      "md5sum": "734af781b1a550a0a3e3f31f67eb662f",
+      "url": "https://www.encodeproject.org/files/ENCFF469BXZ/@@download/ENCFF469BXZ.bigWig"
+    },
+    {
+      "time_h": 2,
+      "assay": "DNase",
+      "experiment": "ENCSR837VHE",
+      "file_accession": "ENCFF427JBJ",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 552972621,
+      "md5sum": "4b98a15ae102074b418cf9c067364c85",
+      "url": "https://www.encodeproject.org/files/ENCFF427JBJ/@@download/ENCFF427JBJ.bigWig"
+    },
+    {
+      "time_h": 2,
+      "assay": "DNase",
+      "experiment": "ENCSR837VHE",
+      "file_accession": "ENCFF224UPH",
+      "biological_replicate": 4,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 545325844,
+      "md5sum": "fb2e4580fcbe55b0f1e3877cce2e814b",
+      "url": "https://www.encodeproject.org/files/ENCFF224UPH/@@download/ENCFF224UPH.bigWig"
+    },
+    {
+      "time_h": 2,
+      "assay": "DNase",
+      "experiment": "ENCSR837VHE",
+      "file_accession": "ENCFF570PHG",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 562900465,
+      "md5sum": "6b6444b20f88e841de2ea5df6b74d7d0",
+      "url": "https://www.encodeproject.org/files/ENCFF570PHG/@@download/ENCFF570PHG.bigWig"
+    },
+    {
+      "time_h": 2,
+      "assay": "RNA",
+      "experiment": "ENCSR924BHF",
+      "file_accession": "ENCFF370HFZ",
+      "biological_replicate": 1,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11094666,
+      "md5sum": "833f9fb580de5b33bc0c85e605b81258",
+      "url": "https://www.encodeproject.org/files/ENCFF370HFZ/@@download/ENCFF370HFZ.tsv"
+    },
+    {
+      "time_h": 2,
+      "assay": "RNA",
+      "experiment": "ENCSR924BHF",
+      "file_accession": "ENCFF682AFV",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11102512,
+      "md5sum": "0008aabfe725268a559fce19d6624103",
+      "url": "https://www.encodeproject.org/files/ENCFF682AFV/@@download/ENCFF682AFV.tsv"
+    },
+    {
+      "time_h": 2,
+      "assay": "RNA",
+      "experiment": "ENCSR924BHF",
+      "file_accession": "ENCFF748SCJ",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11063218,
+      "md5sum": "4eed5404a78291c5f74127aeac2393bd",
+      "url": "https://www.encodeproject.org/files/ENCFF748SCJ/@@download/ENCFF748SCJ.tsv"
+    },
+    {
+      "time_h": 2,
+      "assay": "RNA",
+      "experiment": "ENCSR924BHF",
+      "file_accession": "ENCFF673HCO",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11074892,
+      "md5sum": "3bbee52d92f846c593d24bc73178df6c",
+      "url": "https://www.encodeproject.org/files/ENCFF673HCO/@@download/ENCFF673HCO.tsv"
+    },
+    {
+      "time_h": 3,
+      "assay": "DNase",
+      "experiment": "ENCSR294XUZ",
+      "file_accession": "ENCFF272HMX",
+      "biological_replicate": 1,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 553535897,
+      "md5sum": "5cc161a04c6e4412a1fb36d4ceb71b3d",
+      "url": "https://www.encodeproject.org/files/ENCFF272HMX/@@download/ENCFF272HMX.bigWig"
+    },
+    {
+      "time_h": 3,
+      "assay": "DNase",
+      "experiment": "ENCSR294XUZ",
+      "file_accession": "ENCFF237EYG",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 540997971,
+      "md5sum": "90a13249549e0e06c6f9800c58d1054e",
+      "url": "https://www.encodeproject.org/files/ENCFF237EYG/@@download/ENCFF237EYG.bigWig"
+    },
+    {
+      "time_h": 3,
+      "assay": "DNase",
+      "experiment": "ENCSR294XUZ",
+      "file_accession": "ENCFF247MJK",
+      "biological_replicate": 3,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 569694847,
+      "md5sum": "2f976048f2452d0f42b9b70aee3d4c47",
+      "url": "https://www.encodeproject.org/files/ENCFF247MJK/@@download/ENCFF247MJK.bigWig"
+    },
+    {
+      "time_h": 3,
+      "assay": "DNase",
+      "experiment": "ENCSR294XUZ",
+      "file_accession": "ENCFF655ZEO",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 573816571,
+      "md5sum": "e10002e3299fa0f7e93ac366c48c222f",
+      "url": "https://www.encodeproject.org/files/ENCFF655ZEO/@@download/ENCFF655ZEO.bigWig"
+    },
+    {
+      "time_h": 3,
+      "assay": "RNA",
+      "experiment": "ENCSR624RID",
+      "file_accession": "ENCFF928BNR",
+      "biological_replicate": 1,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11105494,
+      "md5sum": "c0363969f310a78be3ec9ec119a9040b",
+      "url": "https://www.encodeproject.org/files/ENCFF928BNR/@@download/ENCFF928BNR.tsv"
+    },
+    {
+      "time_h": 3,
+      "assay": "RNA",
+      "experiment": "ENCSR624RID",
+      "file_accession": "ENCFF584KRD",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11098994,
+      "md5sum": "f4c8d1835aeb477585b513824fa57fbc",
+      "url": "https://www.encodeproject.org/files/ENCFF584KRD/@@download/ENCFF584KRD.tsv"
+    },
+    {
+      "time_h": 3,
+      "assay": "RNA",
+      "experiment": "ENCSR624RID",
+      "file_accession": "ENCFF379SDO",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11092937,
+      "md5sum": "a79ff185d56e1295142c7f2a11bfdf03",
+      "url": "https://www.encodeproject.org/files/ENCFF379SDO/@@download/ENCFF379SDO.tsv"
+    },
+    {
+      "time_h": 3,
+      "assay": "RNA",
+      "experiment": "ENCSR624RID",
+      "file_accession": "ENCFF613ZYZ",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11082136,
+      "md5sum": "37cf8c7995b5a4bde05f513cd57e33e6",
+      "url": "https://www.encodeproject.org/files/ENCFF613ZYZ/@@download/ENCFF613ZYZ.tsv"
+    },
+    {
+      "time_h": 4,
+      "assay": "DNase",
+      "experiment": "ENCSR599WJC",
+      "file_accession": "ENCFF232LAK",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 552902090,
+      "md5sum": "bd4c52a6ac8ea1b448968cf96d3ff9cd",
+      "url": "https://www.encodeproject.org/files/ENCFF232LAK/@@download/ENCFF232LAK.bigWig"
+    },
+    {
+      "time_h": 4,
+      "assay": "DNase",
+      "experiment": "ENCSR599WJC",
+      "file_accession": "ENCFF793NMR",
+      "biological_replicate": 3,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 578548510,
+      "md5sum": "5a04510f10bc954ae4cd300ad8eada69",
+      "url": "https://www.encodeproject.org/files/ENCFF793NMR/@@download/ENCFF793NMR.bigWig"
+    },
+    {
+      "time_h": 4,
+      "assay": "DNase",
+      "experiment": "ENCSR599WJC",
+      "file_accession": "ENCFF790ZHT",
+      "biological_replicate": 4,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 564480712,
+      "md5sum": "1a35f1bbbd12b4b09c06d99ca21aa554",
+      "url": "https://www.encodeproject.org/files/ENCFF790ZHT/@@download/ENCFF790ZHT.bigWig"
+    },
+    {
+      "time_h": 4,
+      "assay": "DNase",
+      "experiment": "ENCSR599WJC",
+      "file_accession": "ENCFF183OFX",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 575387709,
+      "md5sum": "0aa4754f07831d8fc721db6649ffada6",
+      "url": "https://www.encodeproject.org/files/ENCFF183OFX/@@download/ENCFF183OFX.bigWig"
+    },
+    {
+      "time_h": 4,
+      "assay": "RNA",
+      "experiment": "ENCSR326PTW",
+      "file_accession": "ENCFF650KXK",
+      "biological_replicate": 1,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11107780,
+      "md5sum": "daa6735b40b0ef2420fa3ff3f1e73896",
+      "url": "https://www.encodeproject.org/files/ENCFF650KXK/@@download/ENCFF650KXK.tsv"
+    },
+    {
+      "time_h": 4,
+      "assay": "RNA",
+      "experiment": "ENCSR326PTW",
+      "file_accession": "ENCFF681YHC",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11103988,
+      "md5sum": "416ab58d9fe3e18b486938704cdfe1bd",
+      "url": "https://www.encodeproject.org/files/ENCFF681YHC/@@download/ENCFF681YHC.tsv"
+    },
+    {
+      "time_h": 4,
+      "assay": "RNA",
+      "experiment": "ENCSR326PTW",
+      "file_accession": "ENCFF838IYE",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11108055,
+      "md5sum": "bed0b48c67ca92c65f81a1461425223c",
+      "url": "https://www.encodeproject.org/files/ENCFF838IYE/@@download/ENCFF838IYE.tsv"
+    },
+    {
+      "time_h": 4,
+      "assay": "RNA",
+      "experiment": "ENCSR326PTW",
+      "file_accession": "ENCFF443WJB",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11084066,
+      "md5sum": "5f2f285cbe3ad02d5c0fe50d04b10a1e",
+      "url": "https://www.encodeproject.org/files/ENCFF443WJB/@@download/ENCFF443WJB.tsv"
+    },
+    {
+      "time_h": 5,
+      "assay": "DNase",
+      "experiment": "ENCSR565WPR",
+      "file_accession": "ENCFF564HSC",
+      "biological_replicate": 1,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 551667983,
+      "md5sum": "076d07532209c71347106ce22440d648",
+      "url": "https://www.encodeproject.org/files/ENCFF564HSC/@@download/ENCFF564HSC.bigWig"
+    },
+    {
+      "time_h": 5,
+      "assay": "DNase",
+      "experiment": "ENCSR565WPR",
+      "file_accession": "ENCFF913WPD",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 564438885,
+      "md5sum": "de4f53e9508e84050f574c50695e4af0",
+      "url": "https://www.encodeproject.org/files/ENCFF913WPD/@@download/ENCFF913WPD.bigWig"
+    },
+    {
+      "time_h": 5,
+      "assay": "DNase",
+      "experiment": "ENCSR565WPR",
+      "file_accession": "ENCFF457QUZ",
+      "biological_replicate": 3,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 571638116,
+      "md5sum": "eada730d555b4ba942898d1566e77f35",
+      "url": "https://www.encodeproject.org/files/ENCFF457QUZ/@@download/ENCFF457QUZ.bigWig"
+    },
+    {
+      "time_h": 5,
+      "assay": "DNase",
+      "experiment": "ENCSR565WPR",
+      "file_accession": "ENCFF798JIS",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 578238615,
+      "md5sum": "2b92fefbbf3b53270ddaf5b7f6545507",
+      "url": "https://www.encodeproject.org/files/ENCFF798JIS/@@download/ENCFF798JIS.bigWig"
+    },
+    {
+      "time_h": 5,
+      "assay": "RNA",
+      "experiment": "ENCSR543QRU",
+      "file_accession": "ENCFF485EEP",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11138993,
+      "md5sum": "3937b758c9c1e5fccb00f78724b85213",
+      "url": "https://www.encodeproject.org/files/ENCFF485EEP/@@download/ENCFF485EEP.tsv"
+    },
+    {
+      "time_h": 5,
+      "assay": "RNA",
+      "experiment": "ENCSR543QRU",
+      "file_accession": "ENCFF847ITW",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11079153,
+      "md5sum": "2f9dfacfc036a56329482e51ac43d7b0",
+      "url": "https://www.encodeproject.org/files/ENCFF847ITW/@@download/ENCFF847ITW.tsv"
+    },
+    {
+      "time_h": 5,
+      "assay": "RNA",
+      "experiment": "ENCSR543QRU",
+      "file_accession": "ENCFF730NEX",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11100904,
+      "md5sum": "caf3dafabeefd97ec40fe5fe48b39b6a",
+      "url": "https://www.encodeproject.org/files/ENCFF730NEX/@@download/ENCFF730NEX.tsv"
+    },
+    {
+      "time_h": 6,
+      "assay": "DNase",
+      "experiment": "ENCSR077EYC",
+      "file_accession": "ENCFF279KLR",
+      "biological_replicate": 1,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 573016026,
+      "md5sum": "5642c3c69db7536a7b3fd1112c80e939",
+      "url": "https://www.encodeproject.org/files/ENCFF279KLR/@@download/ENCFF279KLR.bigWig"
+    },
+    {
+      "time_h": 6,
+      "assay": "DNase",
+      "experiment": "ENCSR077EYC",
+      "file_accession": "ENCFF907MUU",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 562478605,
+      "md5sum": "0c3a92631858969cb3f97bf0650b1ec4",
+      "url": "https://www.encodeproject.org/files/ENCFF907MUU/@@download/ENCFF907MUU.bigWig"
+    },
+    {
+      "time_h": 6,
+      "assay": "DNase",
+      "experiment": "ENCSR077EYC",
+      "file_accession": "ENCFF018ICN",
+      "biological_replicate": 3,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 574775571,
+      "md5sum": "a192bbf3aceca49df866a2435a1ddf21",
+      "url": "https://www.encodeproject.org/files/ENCFF018ICN/@@download/ENCFF018ICN.bigWig"
+    },
+    {
+      "time_h": 6,
+      "assay": "DNase",
+      "experiment": "ENCSR077EYC",
+      "file_accession": "ENCFF836ZAT",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 579092039,
+      "md5sum": "0ade95715cd88c0c31be7ce8e9c8e57c",
+      "url": "https://www.encodeproject.org/files/ENCFF836ZAT/@@download/ENCFF836ZAT.bigWig"
+    },
+    {
+      "time_h": 6,
+      "assay": "RNA",
+      "experiment": "ENCSR255VBV",
+      "file_accession": "ENCFF355FTJ",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11129414,
+      "md5sum": "940398f163813b5bf5d684a3b2c031e6",
+      "url": "https://www.encodeproject.org/files/ENCFF355FTJ/@@download/ENCFF355FTJ.tsv"
+    },
+    {
+      "time_h": 6,
+      "assay": "RNA",
+      "experiment": "ENCSR255VBV",
+      "file_accession": "ENCFF810FEY",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11091653,
+      "md5sum": "cf515f92b404560ba99ffe84d65abfef",
+      "url": "https://www.encodeproject.org/files/ENCFF810FEY/@@download/ENCFF810FEY.tsv"
+    },
+    {
+      "time_h": 6,
+      "assay": "RNA",
+      "experiment": "ENCSR255VBV",
+      "file_accession": "ENCFF691RQZ",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11119379,
+      "md5sum": "87a0bd9098e4688432d406e26bf5e9b3",
+      "url": "https://www.encodeproject.org/files/ENCFF691RQZ/@@download/ENCFF691RQZ.tsv"
+    },
+    {
+      "time_h": 7,
+      "assay": "DNase",
+      "experiment": "ENCSR347CEH",
+      "file_accession": "ENCFF856YNB",
+      "biological_replicate": 1,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 581646091,
+      "md5sum": "6750b868f9ae13c620e5acfe8a8288b3",
+      "url": "https://www.encodeproject.org/files/ENCFF856YNB/@@download/ENCFF856YNB.bigWig"
+    },
+    {
+      "time_h": 7,
+      "assay": "DNase",
+      "experiment": "ENCSR347CEH",
+      "file_accession": "ENCFF541IGQ",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 604015851,
+      "md5sum": "4920856b79822b1e61ecc7936bfde611",
+      "url": "https://www.encodeproject.org/files/ENCFF541IGQ/@@download/ENCFF541IGQ.bigWig"
+    },
+    {
+      "time_h": 7,
+      "assay": "DNase",
+      "experiment": "ENCSR347CEH",
+      "file_accession": "ENCFF013DDI",
+      "biological_replicate": 3,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 556903719,
+      "md5sum": "1b53011f4ccfb8d6570c70c3e2b6f67e",
+      "url": "https://www.encodeproject.org/files/ENCFF013DDI/@@download/ENCFF013DDI.bigWig"
+    },
+    {
+      "time_h": 7,
+      "assay": "DNase",
+      "experiment": "ENCSR347CEH",
+      "file_accession": "ENCFF749BPK",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 585371915,
+      "md5sum": "2c727d68abfe754986a250f225fcd0c4",
+      "url": "https://www.encodeproject.org/files/ENCFF749BPK/@@download/ENCFF749BPK.bigWig"
+    },
+    {
+      "time_h": 7,
+      "assay": "RNA",
+      "experiment": "ENCSR385TFN",
+      "file_accession": "ENCFF519QHP",
+      "biological_replicate": 1,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11105327,
+      "md5sum": "75cba6310e0b3f4f180f94326b210414",
+      "url": "https://www.encodeproject.org/files/ENCFF519QHP/@@download/ENCFF519QHP.tsv"
+    },
+    {
+      "time_h": 7,
+      "assay": "RNA",
+      "experiment": "ENCSR385TFN",
+      "file_accession": "ENCFF490MKA",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11140454,
+      "md5sum": "b1b9ce8e7ab42160eec082523a6783fb",
+      "url": "https://www.encodeproject.org/files/ENCFF490MKA/@@download/ENCFF490MKA.tsv"
+    },
+    {
+      "time_h": 7,
+      "assay": "RNA",
+      "experiment": "ENCSR385TFN",
+      "file_accession": "ENCFF601UEE",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11127711,
+      "md5sum": "91b17cb39e953f9eb5cb73ec8955545f",
+      "url": "https://www.encodeproject.org/files/ENCFF601UEE/@@download/ENCFF601UEE.tsv"
+    },
+    {
+      "time_h": 7,
+      "assay": "RNA",
+      "experiment": "ENCSR385TFN",
+      "file_accession": "ENCFF988NKQ",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11068201,
+      "md5sum": "be2423218973667c0d0c5961bc09a9df",
+      "url": "https://www.encodeproject.org/files/ENCFF988NKQ/@@download/ENCFF988NKQ.tsv"
+    },
+    {
+      "time_h": 8,
+      "assay": "DNase",
+      "experiment": "ENCSR660OQE",
+      "file_accession": "ENCFF016YHZ",
+      "biological_replicate": 1,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 529466979,
+      "md5sum": "d5ae2b31b5a7a51223c7c724665ec221",
+      "url": "https://www.encodeproject.org/files/ENCFF016YHZ/@@download/ENCFF016YHZ.bigWig"
+    },
+    {
+      "time_h": 8,
+      "assay": "DNase",
+      "experiment": "ENCSR660OQE",
+      "file_accession": "ENCFF439QUG",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 550699741,
+      "md5sum": "ed5a2363460b524dfa03fd27451553f6",
+      "url": "https://www.encodeproject.org/files/ENCFF439QUG/@@download/ENCFF439QUG.bigWig"
+    },
+    {
+      "time_h": 8,
+      "assay": "DNase",
+      "experiment": "ENCSR660OQE",
+      "file_accession": "ENCFF699HPV",
+      "biological_replicate": 3,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 582374546,
+      "md5sum": "6f8435a570465d66bd6f640ed77b7ecf",
+      "url": "https://www.encodeproject.org/files/ENCFF699HPV/@@download/ENCFF699HPV.bigWig"
+    },
+    {
+      "time_h": 8,
+      "assay": "DNase",
+      "experiment": "ENCSR660OQE",
+      "file_accession": "ENCFF844DEF",
+      "biological_replicate": 4,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 559425952,
+      "md5sum": "f9c241dcbdf94c5d98eef48335f1d7c0",
+      "url": "https://www.encodeproject.org/files/ENCFF844DEF/@@download/ENCFF844DEF.bigWig"
+    },
+    {
+      "time_h": 8,
+      "assay": "DNase",
+      "experiment": "ENCSR660OQE",
+      "file_accession": "ENCFF017PCS",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 575123895,
+      "md5sum": "3fca74d42543c9d2dd93fa4409527e1b",
+      "url": "https://www.encodeproject.org/files/ENCFF017PCS/@@download/ENCFF017PCS.bigWig"
+    },
+    {
+      "time_h": 8,
+      "assay": "RNA",
+      "experiment": "ENCSR546PPG",
+      "file_accession": "ENCFF873LKS",
+      "biological_replicate": 1,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11096730,
+      "md5sum": "5348a53acd7dbba813fd27d3879f7e6a",
+      "url": "https://www.encodeproject.org/files/ENCFF873LKS/@@download/ENCFF873LKS.tsv"
+    },
+    {
+      "time_h": 8,
+      "assay": "RNA",
+      "experiment": "ENCSR546PPG",
+      "file_accession": "ENCFF328CCY",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11110174,
+      "md5sum": "eca05e04e5fe6a25f7d134c9acb88ecc",
+      "url": "https://www.encodeproject.org/files/ENCFF328CCY/@@download/ENCFF328CCY.tsv"
+    },
+    {
+      "time_h": 8,
+      "assay": "RNA",
+      "experiment": "ENCSR546PPG",
+      "file_accession": "ENCFF767NLA",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11084345,
+      "md5sum": "7432db9155cde3cbb8df3849dceeeecb",
+      "url": "https://www.encodeproject.org/files/ENCFF767NLA/@@download/ENCFF767NLA.tsv"
+    },
+    {
+      "time_h": 8,
+      "assay": "RNA",
+      "experiment": "ENCSR546PPG",
+      "file_accession": "ENCFF417GXS",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11095444,
+      "md5sum": "3a832f53378cea4196c9e5555b8c6f00",
+      "url": "https://www.encodeproject.org/files/ENCFF417GXS/@@download/ENCFF417GXS.tsv"
+    },
+    {
+      "time_h": 10,
+      "assay": "DNase",
+      "experiment": "ENCSR128IVG",
+      "file_accession": "ENCFF949ZLL",
+      "biological_replicate": 1,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 549186915,
+      "md5sum": "e6d606d7f8d3c20ffdf2e9c76109459e",
+      "url": "https://www.encodeproject.org/files/ENCFF949ZLL/@@download/ENCFF949ZLL.bigWig"
+    },
+    {
+      "time_h": 10,
+      "assay": "DNase",
+      "experiment": "ENCSR128IVG",
+      "file_accession": "ENCFF471MAS",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 599593378,
+      "md5sum": "3b3989d8317433414abaa6064b1abd3b",
+      "url": "https://www.encodeproject.org/files/ENCFF471MAS/@@download/ENCFF471MAS.bigWig"
+    },
+    {
+      "time_h": 10,
+      "assay": "DNase",
+      "experiment": "ENCSR128IVG",
+      "file_accession": "ENCFF606GNJ",
+      "biological_replicate": 3,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 570437406,
+      "md5sum": "933e435a0028ca1d68868a53454e3f65",
+      "url": "https://www.encodeproject.org/files/ENCFF606GNJ/@@download/ENCFF606GNJ.bigWig"
+    },
+    {
+      "time_h": 10,
+      "assay": "DNase",
+      "experiment": "ENCSR128IVG",
+      "file_accession": "ENCFF691OAG",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 578604442,
+      "md5sum": "5959b8b5b27686c0d55fbc6617b05ea7",
+      "url": "https://www.encodeproject.org/files/ENCFF691OAG/@@download/ENCFF691OAG.bigWig"
+    },
+    {
+      "time_h": 10,
+      "assay": "RNA",
+      "experiment": "ENCSR224PTG",
+      "file_accession": "ENCFF137KYC",
+      "biological_replicate": 1,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11100444,
+      "md5sum": "a3112d75683ae8f7496cdbcc9930651e",
+      "url": "https://www.encodeproject.org/files/ENCFF137KYC/@@download/ENCFF137KYC.tsv"
+    },
+    {
+      "time_h": 10,
+      "assay": "RNA",
+      "experiment": "ENCSR224PTG",
+      "file_accession": "ENCFF338OFC",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11098682,
+      "md5sum": "70241588a42fff946d4eb2cb79e48977",
+      "url": "https://www.encodeproject.org/files/ENCFF338OFC/@@download/ENCFF338OFC.tsv"
+    },
+    {
+      "time_h": 10,
+      "assay": "RNA",
+      "experiment": "ENCSR224PTG",
+      "file_accession": "ENCFF831DGG",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11098257,
+      "md5sum": "52257dd0ae235f35bb6cec96eab9f309",
+      "url": "https://www.encodeproject.org/files/ENCFF831DGG/@@download/ENCFF831DGG.tsv"
+    },
+    {
+      "time_h": 10,
+      "assay": "RNA",
+      "experiment": "ENCSR224PTG",
+      "file_accession": "ENCFF951KZX",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11095679,
+      "md5sum": "3146bc5c2e189edc924236109f4d4409",
+      "url": "https://www.encodeproject.org/files/ENCFF951KZX/@@download/ENCFF951KZX.tsv"
+    },
+    {
+      "time_h": 12,
+      "assay": "DNase",
+      "experiment": "ENCSR523FJT",
+      "file_accession": "ENCFF345UMJ",
+      "biological_replicate": 1,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 551414253,
+      "md5sum": "177bffe570c8a7fd71d469a6e58b6f68",
+      "url": "https://www.encodeproject.org/files/ENCFF345UMJ/@@download/ENCFF345UMJ.bigWig"
+    },
+    {
+      "time_h": 12,
+      "assay": "DNase",
+      "experiment": "ENCSR523FJT",
+      "file_accession": "ENCFF299XEC",
+      "biological_replicate": 2,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 536087612,
+      "md5sum": "5aa90a5a1c9ab6d59f7d44d62a5245ad",
+      "url": "https://www.encodeproject.org/files/ENCFF299XEC/@@download/ENCFF299XEC.bigWig"
+    },
+    {
+      "time_h": 12,
+      "assay": "DNase",
+      "experiment": "ENCSR523FJT",
+      "file_accession": "ENCFF552RSJ",
+      "biological_replicate": 3,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": true,
+      "size_bytes": 608723209,
+      "md5sum": "d9a88724ea61efc1a2f28b5ff17bd2e7",
+      "url": "https://www.encodeproject.org/files/ENCFF552RSJ/@@download/ENCFF552RSJ.bigWig"
+    },
+    {
+      "time_h": 12,
+      "assay": "DNase",
+      "experiment": "ENCSR523FJT",
+      "file_accession": "ENCFF654YVR",
+      "biological_replicate": 5,
+      "output_type": "read-depth normalized signal",
+      "file_format": "bigWig",
+      "assembly": "GRCh38",
+      "genome_annotation": null,
+      "preferred_default": null,
+      "size_bytes": 579651085,
+      "md5sum": "a45a64b777aeb9e5773b2e3c80797585",
+      "url": "https://www.encodeproject.org/files/ENCFF654YVR/@@download/ENCFF654YVR.bigWig"
+    },
+    {
+      "time_h": 12,
+      "assay": "RNA",
+      "experiment": "ENCSR154TDP",
+      "file_accession": "ENCFF864UKR",
+      "biological_replicate": 1,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11089348,
+      "md5sum": "b698648cb10aaf1439f628f3d89372cb",
+      "url": "https://www.encodeproject.org/files/ENCFF864UKR/@@download/ENCFF864UKR.tsv"
+    },
+    {
+      "time_h": 12,
+      "assay": "RNA",
+      "experiment": "ENCSR154TDP",
+      "file_accession": "ENCFF928EKJ",
+      "biological_replicate": 2,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11112255,
+      "md5sum": "06448ea5eb8a4b4846ad1ef806806af6",
+      "url": "https://www.encodeproject.org/files/ENCFF928EKJ/@@download/ENCFF928EKJ.tsv"
+    },
+    {
+      "time_h": 12,
+      "assay": "RNA",
+      "experiment": "ENCSR154TDP",
+      "file_accession": "ENCFF988JYH",
+      "biological_replicate": 3,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": null,
+      "size_bytes": 11134805,
+      "md5sum": "da4b7473ae5bf641ba4ac17d0b74a8a7",
+      "url": "https://www.encodeproject.org/files/ENCFF988JYH/@@download/ENCFF988JYH.tsv"
+    },
+    {
+      "time_h": 12,
+      "assay": "RNA",
+      "experiment": "ENCSR154TDP",
+      "file_accession": "ENCFF248HYY",
+      "biological_replicate": 4,
+      "output_type": "gene quantifications",
+      "file_format": "tsv",
+      "assembly": "GRCh38",
+      "genome_annotation": "V29",
+      "preferred_default": true,
+      "size_bytes": 11104814,
+      "md5sum": "8b54cba54bb3cdbc9323a232b9b00d27",
+      "url": "https://www.encodeproject.org/files/ENCFF248HYY/@@download/ENCFF248HYY.tsv"
+    }
+  ],
+  "selection_notes": [],
+  "alignment_depth": {
+    "ENCSR136DNA": {
+      "5": {
+        "alignment_file": "ENCFF821UUL"
+      },
+      "3": {
+        "alignment_file": "ENCFF809KIH"
+      },
+      "4": {
+        "alignment_file": "ENCFF872IRX",
+        "SamtoolsFlagstatsQualityMetric:mapped": 22626375
+      },
+      "2": {
+        "alignment_file": "ENCFF473YHH"
+      }
+    },
+    "ENCSR632DQP": {
+      "3": {
+        "alignment_file": "ENCFF980KOG",
+        "SamtoolsFlagstatsQualityMetric:mapped": 69691752,
+        "StarQualityMetric:Uniquely mapped reads number": 24260561
+      },
+      "2": {
+        "alignment_file": "ENCFF471TGF",
+        "StarQualityMetric:Uniquely mapped reads number": 26080259,
+        "SamtoolsFlagstatsQualityMetric:mapped": 75305162
+      },
+      "1": {
+        "alignment_file": "ENCFF378VUR",
+        "StarQualityMetric:Uniquely mapped reads number": 25736567
+      },
+      "4": {
+        "alignment_file": "ENCFF134DLO",
+        "StarQualityMetric:Uniquely mapped reads number": 64104778
+      }
+    },
+    "ENCSR406EMB": {
+      "1": {
+        "alignment_file": "ENCFF278JQU"
+      },
+      "5": {
+        "alignment_file": "ENCFF255ETO",
+        "SamtoolsFlagstatsQualityMetric:mapped": 30542124
+      },
+      "2": {
+        "alignment_file": "ENCFF702JOA",
+        "SamtoolsFlagstatsQualityMetric:mapped": 22210221
+      },
+      "4": {
+        "alignment_file": "ENCFF774HUR"
+      },
+      "3": {
+        "alignment_file": "ENCFF473CCA"
+      }
+    },
+    "ENCSR070IYV": {
+      "4": {
+        "alignment_file": "ENCFF321XLB",
+        "StarQualityMetric:Uniquely mapped reads number": 33003435
+      },
+      "2": {
+        "alignment_file": "ENCFF304PAQ",
+        "StarQualityMetric:Uniquely mapped reads number": 24563638
+      },
+      "3": {
+        "alignment_file": "ENCFF240IBI",
+        "StarQualityMetric:Uniquely mapped reads number": 36156034
+      },
+      "1": {
+        "alignment_file": "ENCFF766POU",
+        "StarQualityMetric:Uniquely mapped reads number": 25923711
+      }
+    },
+    "ENCSR384KCZ": {
+      "1": {
+        "alignment_file": "ENCFF219OQC",
+        "SamtoolsFlagstatsQualityMetric:mapped": 22271599
+      },
+      "5": {
+        "alignment_file": "ENCFF869SOT",
+        "SamtoolsFlagstatsQualityMetric:mapped": 33763011
+      },
+      "3": {
+        "alignment_file": "ENCFF976XNB"
+      },
+      "2": {
+        "alignment_file": "ENCFF720KJS",
+        "SamtoolsFlagstatsQualityMetric:mapped": 19964006
+      },
+      "4": {
+        "alignment_file": "ENCFF806VMF"
+      }
+    },
+    "ENCSR656FIH": {
+      "4": {
+        "alignment_file": "ENCFF372KHM",
+        "SamtoolsFlagstatsQualityMetric:mapped": 75507048,
+        "StarQualityMetric:Uniquely mapped reads number": 28770612
+      },
+      "2": {
+        "alignment_file": "ENCFF455XNT",
+        "StarQualityMetric:Uniquely mapped reads number": 18954624
+      },
+      "1": {
+        "alignment_file": "ENCFF588DIF",
+        "StarQualityMetric:Uniquely mapped reads number": 17374915
+      },
+      "3": {
+        "alignment_file": "ENCFF889ACJ",
+        "StarQualityMetric:Uniquely mapped reads number": 23973191
+      }
+    },
+    "ENCSR837VHE": {
+      "2": {
+        "alignment_file": "ENCFF040ARV"
+      },
+      "5": {
+        "alignment_file": "ENCFF605IRD"
+      },
+      "4": {
+        "alignment_file": "ENCFF320PBW",
+        "SamtoolsFlagstatsQualityMetric:mapped": 20770630
+      },
+      "1": {
+        "alignment_file": "ENCFF834VCD"
+      }
+    },
+    "ENCSR924BHF": {
+      "3": {
+        "alignment_file": "ENCFF352ZRE",
+        "StarQualityMetric:Uniquely mapped reads number": 21783162
+      },
+      "1": {
+        "alignment_file": "ENCFF202HCI",
+        "StarQualityMetric:Uniquely mapped reads number": 21909573,
+        "SamtoolsFlagstatsQualityMetric:mapped": 62005710
+      },
+      "4": {
+        "alignment_file": "ENCFF031DGP",
+        "StarQualityMetric:Uniquely mapped reads number": 27579682
+      },
+      "2": {
+        "alignment_file": "ENCFF290APT",
+        "StarQualityMetric:Uniquely mapped reads number": 22066295
+      }
+    },
+    "ENCSR294XUZ": {
+      "3": {
+        "alignment_file": "ENCFF687ZFN",
+        "SamtoolsFlagstatsQualityMetric:mapped": 31831290
+      },
+      "2": {
+        "alignment_file": "ENCFF889QOR"
+      },
+      "1": {
+        "alignment_file": "ENCFF489JUM"
+      },
+      "5": {
+        "alignment_file": "ENCFF753FUZ"
+      }
+    },
+    "ENCSR624RID": {
+      "2": {
+        "alignment_file": "ENCFF987IAF",
+        "StarQualityMetric:Uniquely mapped reads number": 20339204
+      },
+      "1": {
+        "alignment_file": "ENCFF554OKS",
+        "StarQualityMetric:Uniquely mapped reads number": 27701904
+      },
+      "4": {
+        "alignment_file": "ENCFF569DUY",
+        "StarQualityMetric:Uniquely mapped reads number": 26655500
+      },
+      "3": {
+        "alignment_file": "ENCFF386PAW",
+        "StarQualityMetric:Uniquely mapped reads number": 23322701
+      }
+    },
+    "ENCSR599WJC": {
+      "2": {
+        "alignment_file": "ENCFF123UVX"
+      },
+      "5": {
+        "alignment_file": "ENCFF961DTY"
+      },
+      "3": {
+        "alignment_file": "ENCFF568TRV"
+      },
+      "4": {
+        "alignment_file": "ENCFF657QTU"
+      }
+    },
+    "ENCSR326PTW": {
+      "1": {
+        "alignment_file": "ENCFF797FJW",
+        "StarQualityMetric:Uniquely mapped reads number": 24696055
+      },
+      "4": {
+        "alignment_file": "ENCFF131ZDC",
+        "SamtoolsFlagstatsQualityMetric:mapped": 74164574,
+        "StarQualityMetric:Uniquely mapped reads number": 29362694
+      },
+      "2": {
+        "alignment_file": "ENCFF142WMA",
+        "StarQualityMetric:Uniquely mapped reads number": 23488267
+      },
+      "3": {
+        "alignment_file": "ENCFF961NUA",
+        "StarQualityMetric:Uniquely mapped reads number": 23769218
+      }
+    },
+    "ENCSR565WPR": {
+      "2": {
+        "alignment_file": "ENCFF626ACH"
+      },
+      "3": {
+        "alignment_file": "ENCFF723VCH"
+      },
+      "1": {
+        "alignment_file": "ENCFF006UFY"
+      },
+      "5": {
+        "alignment_file": "ENCFF551GNO"
+      }
+    },
+    "ENCSR543QRU": {
+      "4": {
+        "alignment_file": "ENCFF537YYU",
+        "StarQualityMetric:Uniquely mapped reads number": 31847998
+      },
+      "3": {
+        "alignment_file": "ENCFF715XPV",
+        "StarQualityMetric:Uniquely mapped reads number": 14834882,
+        "SamtoolsFlagstatsQualityMetric:mapped": 41339708
+      },
+      "2": {
+        "alignment_file": "ENCFF945HMW",
+        "StarQualityMetric:Uniquely mapped reads number": 26041383
+      }
+    },
+    "ENCSR077EYC": {
+      "5": {
+        "alignment_file": "ENCFF797ZBA"
+      },
+      "2": {
+        "alignment_file": "ENCFF203OGW"
+      },
+      "1": {
+        "alignment_file": "ENCFF033RGK"
+      },
+      "3": {
+        "alignment_file": "ENCFF380BVB",
+        "SamtoolsFlagstatsQualityMetric:mapped": 32714489
+      }
+    },
+    "ENCSR255VBV": {
+      "4": {
+        "alignment_file": "ENCFF296GRX",
+        "StarQualityMetric:Uniquely mapped reads number": 28349819
+      },
+      "3": {
+        "alignment_file": "ENCFF862MPF",
+        "StarQualityMetric:Uniquely mapped reads number": 15966453
+      },
+      "2": {
+        "alignment_file": "ENCFF894ZVD",
+        "StarQualityMetric:Uniquely mapped reads number": 26672536
+      }
+    },
+    "ENCSR347CEH": {
+      "2": {
+        "alignment_file": "ENCFF225AGN"
+      },
+      "3": {
+        "alignment_file": "ENCFF728QWV"
+      },
+      "1": {
+        "alignment_file": "ENCFF059FZX",
+        "SamtoolsFlagstatsQualityMetric:mapped": 31816267
+      },
+      "5": {
+        "alignment_file": "ENCFF333NUU"
+      }
+    },
+    "ENCSR385TFN": {
+      "4": {
+        "alignment_file": "ENCFF009RMP",
+        "StarQualityMetric:Uniquely mapped reads number": 28633311,
+        "SamtoolsFlagstatsQualityMetric:mapped": 73138930
+      },
+      "3": {
+        "alignment_file": "ENCFF233MGU",
+        "StarQualityMetric:Uniquely mapped reads number": 30692705,
+        "SamtoolsFlagstatsQualityMetric:mapped": 84837576
+      },
+      "1": {
+        "alignment_file": "ENCFF857TGR",
+        "StarQualityMetric:Uniquely mapped reads number": 20994364
+      },
+      "2": {
+        "alignment_file": "ENCFF807WRU",
+        "StarQualityMetric:Uniquely mapped reads number": 26989775
+      }
+    },
+    "ENCSR660OQE": {
+      "1": {
+        "alignment_file": "ENCFF658OTR"
+      },
+      "2": {
+        "alignment_file": "ENCFF621JOU"
+      },
+      "3": {
+        "alignment_file": "ENCFF756YMY",
+        "SamtoolsFlagstatsQualityMetric:mapped": 33085649
+      },
+      "4": {
+        "alignment_file": "ENCFF933LXP"
+      },
+      "5": {
+        "alignment_file": "ENCFF594PVL"
+      }
+    },
+    "ENCSR546PPG": {
+      "2": {
+        "alignment_file": "ENCFF771MVT",
+        "StarQualityMetric:Uniquely mapped reads number": 24338456,
+        "SamtoolsFlagstatsQualityMetric:mapped": 69109668
+      },
+      "1": {
+        "alignment_file": "ENCFF266IGI",
+        "StarQualityMetric:Uniquely mapped reads number": 21057053,
+        "SamtoolsFlagstatsQualityMetric:mapped": 56112302
+      },
+      "4": {
+        "alignment_file": "ENCFF763NRG",
+        "SamtoolsFlagstatsQualityMetric:mapped": 81030612,
+        "StarQualityMetric:Uniquely mapped reads number": 31286975
+      },
+      "3": {
+        "alignment_file": "ENCFF743IXD",
+        "StarQualityMetric:Uniquely mapped reads number": 25103293,
+        "SamtoolsFlagstatsQualityMetric:mapped": 71902614
+      }
+    },
+    "ENCSR128IVG": {
+      "3": {
+        "alignment_file": "ENCFF353IDP",
+        "SamtoolsFlagstatsQualityMetric:mapped": 28916812
+      },
+      "5": {
+        "alignment_file": "ENCFF024YAD"
+      },
+      "1": {
+        "alignment_file": "ENCFF611WNE"
+      },
+      "2": {
+        "alignment_file": "ENCFF112EQD"
+      }
+    },
+    "ENCSR224PTG": {
+      "3": {
+        "alignment_file": "ENCFF451QBQ",
+        "StarQualityMetric:Uniquely mapped reads number": 21263460
+      },
+      "4": {
+        "alignment_file": "ENCFF024INL",
+        "StarQualityMetric:Uniquely mapped reads number": 32726064
+      },
+      "2": {
+        "alignment_file": "ENCFF153CKU",
+        "StarQualityMetric:Uniquely mapped reads number": 24782708,
+        "SamtoolsFlagstatsQualityMetric:mapped": 66933610
+      },
+      "1": {
+        "alignment_file": "ENCFF172BKR",
+        "StarQualityMetric:Uniquely mapped reads number": 21533093,
+        "SamtoolsFlagstatsQualityMetric:mapped": 56387636
+      }
+    },
+    "ENCSR523FJT": {
+      "3": {
+        "alignment_file": "ENCFF007EJF"
+      },
+      "5": {
+        "alignment_file": "ENCFF544MWX"
+      },
+      "1": {
+        "alignment_file": "ENCFF716ZOM"
+      },
+      "2": {
+        "alignment_file": "ENCFF891IEK"
+      }
+    },
+    "ENCSR154TDP": {
+      "3": {
+        "alignment_file": "ENCFF197ZYE",
+        "StarQualityMetric:Uniquely mapped reads number": 23748445
+      },
+      "4": {
+        "alignment_file": "ENCFF993SLS",
+        "StarQualityMetric:Uniquely mapped reads number": 36219645,
+        "SamtoolsFlagstatsQualityMetric:mapped": 93380502
+      },
+      "1": {
+        "alignment_file": "ENCFF513BZM",
+        "StarQualityMetric:Uniquely mapped reads number": 21432937
+      },
+      "2": {
+        "alignment_file": "ENCFF050RHK",
+        "StarQualityMetric:Uniquely mapped reads number": 24159843
+      }
+    }
+  },
+  "totals": {
+    "dnase_files": 51,
+    "dnase_bytes": 28863616241,
+    "rna_files": 46,
+    "rna_bytes": 510847061
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-30T15:58:00.270964+00:00",
+  "source_repository": "../perd",
+  "source_commit": "cb36c1442cc0091cd0361150ef2e0f5dd4d3dbcc",
+  "source_dirty": false,
+  "source_status_porcelain": [],
+  "perd_rf": {
+    "implementation": "src/perd_repro/models.py:fit_predict_random_forest",
+    "random_seed": 42,
+    "n_estimators": 500,
+    "max_features": "max(1, floor(n_features / 3))",
+    "training_cells_for_dbkero_inference": "all 167 ENCODE cells"
+  },
+  "reference_results": {
+    "trainable_enhancers": 120100,
+    "encode_split_seed": 42,
+    "roadmap_cross_enhancer_correlation": 0.896,
+    "roadmap_pooled_nspe": 0.355
+  },
+  "artifacts": [
+    {
+      "path": "README.md",
+      "bytes": 62589,
+      "sha256": "e10a138bd489cc412bce2868b3ed623c4c76a9e81ea830b172a3f06d31e47bda"
+    },
+    {
+      "path": "pixi.toml",
+      "bytes": 1024,
+      "sha256": "c4a3c29240fa39254d16dbaeb6db03a9d59f831cdc2152e5223245047ed65bdb"
+    },
+    {
+      "path": "pixi.lock",
+      "bytes": 260877,
+      "sha256": "7d15df2705fcf7eb86aefb44e9882f04c99c2d4efddd7cabde7d65fd3a64e071"
+    },
+    {
+      "path": "data/manifest.json",
+      "bytes": 5797,
+      "sha256": "26fb7f3832c3a927dd45a206b18f417906fa9baa9b7213daa3a39bb1b00895c4"
+    },
+    {
+      "path": "data/interim/genehancer_enhancers.parquet",
+      "bytes": 12201336,
+      "sha256": "1448859d94b94525ee84431720be3c15a38d4f93629971ed4903f20d6384e3f0"
+    },
+    {
+      "path": "data/interim/enhancer_tf_binding.parquet",
+      "bytes": 3787937,
+      "sha256": "6596fd529a086943efdd84cce126e67220d89ea1949690dd7247555b99eabc28"
+    },
+    {
+      "path": "data/interim/rna_167_cells_symbol.parquet",
+      "bytes": 15761394,
+      "sha256": "095f28ea0e26d01b3b78177e1b9d9e502d1f26761990b634cee0d7d600cab0bf"
+    },
+    {
+      "path": "data/interim/enhancer_openness.parquet",
+      "bytes": 36053216,
+      "sha256": "e3000f9f629bc14fe490abf5578dbe41622ec80bbe93ae82e2fbae990d7e3ad5"
+    },
+    {
+      "path": "data/interim/netopen_training_enhancers.parquet",
+      "bytes": 5601844,
+      "sha256": "835faec2ad62b3809225697adbda1a2b3a6563b37e8236f7181d00a2b695d252"
+    },
+    {
+      "path": "data/interim/netopen_rf_predictions.parquet",
+      "bytes": 87161351,
+      "sha256": "741f3b24ee3484fcb092592462d1d32122cc696c3a958402b0c5b1f0b7d066c0"
+    },
+    {
+      "path": "data/interim/roadmap_rf_predictions.parquet",
+      "bytes": 4050698,
+      "sha256": "9e959fcf6e29dac55232bcc39628e7633a018fb978847765d092c5cd246142cb"
+    },
+    {
+      "path": "src/perd_repro/features.py",
+      "bytes": 1327,
+      "sha256": "cc38554467a6a2a132161ee13ae821d197505898b61ebb6260bd88d4d948dceb"
+    },
+    {
+      "path": "src/perd_repro/models.py",
+      "bytes": 4342,
+      "sha256": "83c0d2564397266f8135010a9fe0607deb599b6fe2f1c0271a7ce19559810d42"
+    },
+    {
+      "path": "src/perd_repro/metrics.py",
+      "bytes": 1624,
+      "sha256": "100a85cbad9c60e36e2dc005fe62ebcba3038a4b92f30bc3ee8cb00a3b9a9187"
+    }
+  ]
+}

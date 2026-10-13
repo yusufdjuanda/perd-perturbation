@@ -1,0 +1,71 @@
+{
+  "k562": {
+    "rna_replicates": 96,
+    "atac_replicates": 100,
+    "usable_gene_coverage": 0.9814111443764243,
+    "dmso_noise_by_time": {
+      "4.0": {
+        "p50": 0.8873632060942667,
+        "p95": 3.116605936343437,
+        "event_threshold_p99": 3.7309137705819406,
+        "n": 104544
+      },
+      "12.0": {
+        "p50": 1.0287400714305082,
+        "p95": 3.905658313957104,
+        "event_threshold_p99": 4.856706202226402,
+        "n": 93786
+      },
+      "24.0": {
+        "p50": 0.5165213661311214,
+        "p95": 1.503039047206389,
+        "event_threshold_p99": 2.3862783830215055,
+        "n": 109978
+      },
+      "48.0": {
+        "p50": 0.36606790352483976,
+        "p95": 1.7119507682922765,
+        "event_threshold_p99": 2.4239425779227206,
+        "n": 104177
+      }
+    },
+    "positive_control_cdkn1a": {
+      "by_drug_max_log2fc": {
+        "AR-42": 1.51,
+        "Panobinostat": 5.283,
+        "Vorinostat": 3.86
+      },
+      "passes": true
+    },
+    "gate": {
+      "replicable_primary": 6,
+      "primary_conditions": 16,
+      "replicable_sensitivity": 14,
+      "sensitivity_conditions": 28
+    }
+  },
+  "tcell": {
+    "rna_replicates": 20,
+    "dnase_replicates": 14,
+    "k": 32.16848934482019,
+    "usable_gene_coverage": 0.9814111443764243,
+    "resting_replicate_noise_p99": {
+      "CD4 T": 2.079147357201747
+    },
+    "event_threshold": 2.079147357201747,
+    "positive_control": {
+      "pairs_with_log2fc_gt_1": {
+        "CD69": 3,
+        "IL2RA": 5,
+        "IRF4": 5,
+        "MYC": 3
+      },
+      "passes": false
+    },
+    "gate": {
+      "median_cross_pair_z": 84.12498138209313,
+      "passes": true,
+      "n_ordered_pairs": 20
+    }
+  }
+}
